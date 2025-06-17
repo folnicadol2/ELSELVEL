@@ -1,0 +1,50 @@
+[03:54:04] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu120.04; Ubuntu null) on Linux 6.8.0-1027-azure (amd64)
+[03:54:04] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
+[03:54:04] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[03:54:05] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
+[03:54:11] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[03:54:13] [ServerMain/INFO]: Loaded 1290 recipes
+[03:54:13] [ServerMain/INFO]: Loaded 1399 advancements
+[03:54:14] [Server thread/INFO]: Starting minecraft server version 1.21
+[03:54:14] [Server thread/INFO]: Loading properties
+[03:54:14] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[03:54:15] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[03:54:15] [Server thread/INFO]: Using 4 threads for Netty based IO
+[03:54:15] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[03:54:16] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[03:54:16] [Server thread/INFO]: Default game type: SURVIVAL
+[03:54:16] [Server thread/INFO]: Generating keypair
+[03:54:16] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:54:16] [Server thread/INFO]: Using epoll channel type
+[03:54:16] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[03:54:16] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[03:54:16] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[03:54:16] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:54:16] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:54:16] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:54:16] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:54:16] [Server thread/INFO]: Preparing level "world"
+[03:54:17] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:54:20] [Server thread/INFO]: Time elapsed: 3276 ms
+[03:54:20] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[03:54:20] [Server thread/INFO]: Time elapsed: 638 ms
+[03:54:20] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[03:54:21] [Server thread/INFO]: Time elapsed: 245 ms
+[03:54:21] [Server thread/INFO]: [spark] Starting background profiler...
+[03:54:22] [Server thread/INFO]: Done preparing level "world" (6.152s)
+[03:54:22] [Server thread/INFO]: Running delayed init tasks
+[03:54:22] [Server thread/INFO]: Done (20.556s)! For help, type "help"
+[03:54:22] [Server thread/INFO]: Timings Reset
+[03:55:09] [User Authenticator #0/INFO]: UUID of player deboabanreservas is 4b845313-ffdf-3b0b-a6cc-0084f662f01f
+[03:55:10] [Server thread/INFO]: deboabanreservas joined the game
+[03:55:10] [Server thread/INFO]: deboabanreservas[/127.54.232.158:35947] logged in with entity id 89 at ([world]-81.4650064255576, 73.0, -126.4376146524569)
+[03:56:09] [Server thread/INFO]: deboabanreservas lost connection: Disconnected
+[03:56:09] [Server thread/INFO]: deboabanreservas left the game
+[03:59:01] [User Authenticator #1/INFO]: UUID of player deboabanreservas is 4b845313-ffdf-3b0b-a6cc-0084f662f01f
+[03:59:02] [Server thread/INFO]: deboabanreservas joined the game
+[03:59:02] [Server thread/INFO]: deboabanreservas[/127.54.232.158:54197] logged in with entity id 508 at ([world]-83.8973827284878, 68.0, -127.69999998807907)
+[04:02:06] [Server thread/INFO]: deboabanreservas has made the advancement [Stone Age]
+[04:02:20] [Server thread/INFO]: deboabanreservas has made the advancement [Getting an Upgrade]
+[04:03:38] [User Authenticator #2/INFO]: UUID of player MaddieDL is c8938799-7690-35bd-a5c2-148811d41f87
+[04:03:41] [Server thread/INFO]: MaddieDL joined the game
+[04:03:41] [Server thread/INFO]: MaddieDL[/127.244.213.32:42301] logged in with entity id 1342 at ([world]-101.5, 64.0, -101.5)
