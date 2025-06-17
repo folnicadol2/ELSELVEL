@@ -1,77 +1,71 @@
-[03:54:04] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu120.04; Ubuntu null) on Linux 6.8.0-1027-azure (amd64)
-[03:54:04] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
-[03:54:04] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[03:54:05] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
-[03:54:11] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[03:54:13] [ServerMain/INFO]: Loaded 1290 recipes
-[03:54:13] [ServerMain/INFO]: Loaded 1399 advancements
-[03:54:14] [Server thread/INFO]: Starting minecraft server version 1.21
-[03:54:14] [Server thread/INFO]: Loading properties
-[03:54:14] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
-[03:54:15] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[03:54:15] [Server thread/INFO]: Using 4 threads for Netty based IO
-[03:54:15] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[03:54:16] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[03:54:16] [Server thread/INFO]: Default game type: SURVIVAL
-[03:54:16] [Server thread/INFO]: Generating keypair
-[03:54:16] [Server thread/INFO]: Starting Minecraft server on *:25565
-[03:54:16] [Server thread/INFO]: Using epoll channel type
-[03:54:16] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[03:54:16] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[03:54:16] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[03:54:16] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[03:54:16] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[03:54:16] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[03:54:16] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[03:54:16] [Server thread/INFO]: Preparing level "world"
-[03:54:17] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[03:54:20] [Server thread/INFO]: Time elapsed: 3276 ms
-[03:54:20] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[03:54:20] [Server thread/INFO]: Time elapsed: 638 ms
-[03:54:20] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[03:54:21] [Server thread/INFO]: Time elapsed: 245 ms
-[03:54:21] [Server thread/INFO]: [spark] Starting background profiler...
-[03:54:22] [Server thread/INFO]: Done preparing level "world" (6.152s)
-[03:54:22] [Server thread/INFO]: Running delayed init tasks
-[03:54:22] [Server thread/INFO]: Done (20.556s)! For help, type "help"
-[03:54:22] [Server thread/INFO]: Timings Reset
-[03:55:09] [User Authenticator #0/INFO]: UUID of player deboabanreservas is 4b845313-ffdf-3b0b-a6cc-0084f662f01f
-[03:55:10] [Server thread/INFO]: deboabanreservas joined the game
-[03:55:10] [Server thread/INFO]: deboabanreservas[/127.54.232.158:35947] logged in with entity id 89 at ([world]-81.4650064255576, 73.0, -126.4376146524569)
-[03:56:09] [Server thread/INFO]: deboabanreservas lost connection: Disconnected
-[03:56:09] [Server thread/INFO]: deboabanreservas left the game
-[03:59:01] [User Authenticator #1/INFO]: UUID of player deboabanreservas is 4b845313-ffdf-3b0b-a6cc-0084f662f01f
-[03:59:02] [Server thread/INFO]: deboabanreservas joined the game
-[03:59:02] [Server thread/INFO]: deboabanreservas[/127.54.232.158:54197] logged in with entity id 508 at ([world]-83.8973827284878, 68.0, -127.69999998807907)
-[04:02:06] [Server thread/INFO]: deboabanreservas has made the advancement [Stone Age]
-[04:02:20] [Server thread/INFO]: deboabanreservas has made the advancement [Getting an Upgrade]
-[04:03:38] [User Authenticator #2/INFO]: UUID of player MaddieDL is c8938799-7690-35bd-a5c2-148811d41f87
-[04:03:41] [Server thread/INFO]: MaddieDL joined the game
-[04:03:41] [Server thread/INFO]: MaddieDL[/127.244.213.32:42301] logged in with entity id 1342 at ([world]-101.5, 64.0, -101.5)
-[04:04:17] [Server thread/INFO]: deboabanreservas lost connection: Disconnected
-[04:04:17] [Server thread/INFO]: deboabanreservas left the game
-[04:04:21] [Server thread/INFO]: Stopping the server
-[04:04:21] [Server thread/INFO]: Stopping server
-[04:04:21] [Server thread/INFO]: Saving players
-[04:04:21] [Server thread/INFO]: MaddieDL lost connection: Server closed
-[04:04:21] [Server thread/INFO]: MaddieDL left the game
-[04:04:21] [Server thread/INFO]: Saving worlds
-[04:04:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[04:04:21] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[04:04:21] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[04:04:21] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[04:04:23] [Server thread/INFO]: [ChunkHolderManager] Saved 2151 block chunks, 448 entity chunks, 0 poi chunks in world 'world' in 1.63s
-[04:04:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[04:04:23] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[04:04:23] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[04:04:23] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[04:04:23] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 2 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
-[04:04:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[04:04:23] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[04:04:23] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[04:04:23] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[04:04:23] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
-[04:04:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[04:04:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[04:04:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[04:04:23] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[04:09:26] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu120.04; Ubuntu null) on Linux 6.8.0-1027-azure (amd64)
+[04:09:26] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
+[04:09:27] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[04:09:27] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/SkinsRestorer.jar'...
+[04:09:31] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/SkinsRestorer.jar' in 3659ms.
+[04:09:31] [ServerMain/INFO]: [PluginInitializerManager] Initialized 1 plugin
+[04:09:31] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (1):
+ - SkinsRestorer (15.6.6)
+[04:09:37] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[04:09:39] [ServerMain/INFO]: Loaded 1290 recipes
+[04:09:39] [ServerMain/INFO]: Loaded 1399 advancements
+[04:09:39] [Server thread/INFO]: Starting minecraft server version 1.21
+[04:09:39] [Server thread/INFO]: Loading properties
+[04:09:39] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[04:09:40] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[04:09:40] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[04:09:40] [Server thread/INFO]: Using 4 threads for Netty based IO
+[04:09:41] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[04:09:42] [Server thread/INFO]: Default game type: SURVIVAL
+[04:09:42] [Server thread/INFO]: Generating keypair
+[04:09:42] [Server thread/INFO]: Starting Minecraft server on *:25565
+[04:09:42] [Server thread/INFO]: Using epoll channel type
+[04:09:42] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[04:09:42] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[04:09:42] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.6.6
+[04:09:42] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[04:09:42] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.6.6
+[04:09:45] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.0.
+[04:09:47] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[04:09:47] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[04:09:47] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[04:09:47] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[04:09:47] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[04:09:47] [Server thread/INFO]: Preparing level "world"
+[04:09:47] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[04:09:47] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[04:09:47] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[04:09:47] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[04:09:47] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[04:09:47] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[04:09:47] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[04:09:47] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.6.6
+[04:09:47] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 763d6fb
+[04:09:47] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[04:09:47] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[04:09:47] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[04:09:47] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[04:09:48] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[04:09:49] [Server thread/INFO]: Time elapsed: 1390 ms
+[04:09:49] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[04:09:49] [Server thread/INFO]: Time elapsed: 261 ms
+[04:09:49] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[04:09:50] [Server thread/INFO]: Time elapsed: 182 ms
+[04:09:50] [Server thread/INFO]: [spark] Starting background profiler...
+[04:09:50] [Server thread/INFO]: Done preparing level "world" (3.054s)
+[04:09:50] [Server thread/INFO]: Running delayed init tasks
+[04:09:50] [Server thread/INFO]: Done (25.169s)! For help, type "help"
+[04:09:50] [Server thread/INFO]: Timings Reset
+[04:09:53] [User Authenticator #0/INFO]: UUID of player deboabanreservas is 4b845313-ffdf-3b0b-a6cc-0084f662f01f
+[04:09:54] [Server thread/INFO]: deboabanreservas joined the game
+[04:09:54] [Server thread/INFO]: deboabanreservas[/127.54.232.158:37597] logged in with entity id 78 at ([world]-8.699999988079071, 55.0, -129.05873741659633)
+[04:10:10] [User Authenticator #0/INFO]: UUID of player MaddieDL is c8938799-7690-35bd-a5c2-148811d41f87
+[04:10:14] [Server thread/INFO]: MaddieDL joined the game
+[04:10:14] [Server thread/INFO]: MaddieDL[/127.244.213.32:60639] logged in with entity id 368 at ([world]-102.75104137811698, 65.33226489655115, -88.09831583603861)
+[04:11:56] [Async Chat Thread - #0/INFO]: [Not Secure] <MaddieDL> salvenme
+[04:13:36] [Server thread/INFO]: deboabanreservas has made the advancement [Monster Hunter]
+[04:13:39] [Server thread/INFO]: deboabanreservas was blown up by Creeper
+[04:16:24] [Async Chat Thread - #1/INFO]: [Not Secure] <MaddieDL> a
+[04:17:05] [Server thread/INFO]: MaddieDL has made the advancement [Stone Age]
+[04:17:19] [Server thread/INFO]: MaddieDL has made the advancement [Getting an Upgrade]
+[04:19:18] [Server thread/INFO]: deboabanreservas has made the advancement [Acquire Hardware]
