@@ -8,10 +8,12 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:beach": "2025-06-17 04:13:21 +0000",
+      "minecraft:dark_forest": "2025-06-17 05:14:50 +0000",
       "minecraft:taiga": "2025-06-17 05:09:37 +0000",
       "minecraft:sparse_jungle": "2025-06-17 01:20:59 +0000",
       "minecraft:river": "2025-06-17 05:09:06 +0000",
       "minecraft:lukewarm_ocean": "2025-06-17 04:14:16 +0000",
+      "minecraft:birch_forest": "2025-06-17 05:10:32 +0000",
       "minecraft:lush_caves": "2025-06-17 04:27:21 +0000",
       "minecraft:dripstone_caves": "2025-06-17 04:35:27 +0000",
       "minecraft:plains": "2025-06-17 04:29:49 +0000"
@@ -426,6 +428,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2025-06-17 05:18:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-06-17 04:19:18 +0000"
@@ -468,6 +476,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2025-06-17 05:19:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-17 04:54:46 +0000"
@@ -507,6 +521,12 @@
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2025-06-17 04:12:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2025-06-17 05:18:14 +0000"
     },
     "done": true
   },
@@ -633,6 +653,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-17 04:54:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2025-06-17 05:18:14 +0000"
     },
     "done": true
   },
@@ -846,6 +872,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-06-17 05:18:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-06-17 04:18:44 +0000"
@@ -1052,6 +1084,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-06-17 05:18:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-06-17 05:09:43 +0000"
@@ -1214,6 +1252,7 @@
       "apple": "2025-06-17 04:12:49 +0000",
       "cooked_mutton": "2025-06-17 04:30:21 +0000",
       "glow_berries": "2025-06-17 04:52:06 +0000",
+      "sweet_berries": "2025-06-17 05:10:41 +0000",
       "cooked_beef": "2025-06-17 04:45:12 +0000"
     },
     "done": false
