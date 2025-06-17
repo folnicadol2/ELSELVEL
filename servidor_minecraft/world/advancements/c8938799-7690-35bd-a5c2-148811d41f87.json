@@ -9,6 +9,8 @@
     "criteria": {
       "minecraft:beach": "2025-06-17 04:20:01 +0000",
       "minecraft:sparse_jungle": "2025-06-17 04:03:42 +0000",
+      "minecraft:river": "2025-06-17 04:40:15 +0000",
+      "minecraft:bamboo_jungle": "2025-06-17 04:37:46 +0000",
       "minecraft:plains": "2025-06-17 04:24:49 +0000"
     },
     "done": false
@@ -22,6 +24,12 @@
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2025-06-17 04:24:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-06-17 04:43:56 +0000"
     },
     "done": true
   },
@@ -52,6 +60,12 @@
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2025-06-17 04:24:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-06-17 04:43:56 +0000"
     },
     "done": true
   },
@@ -169,6 +183,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-06-17 04:40:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_trapdoor": {
     "criteria": {
       "has_planks": "2025-06-17 04:16:33 +0000"
@@ -277,6 +297,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-06-17 04:43:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2025-06-17 04:26:06 +0000"
@@ -286,6 +312,12 @@
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2025-06-17 04:23:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-06-17 04:41:46 +0000"
     },
     "done": true
   },
@@ -415,6 +447,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-06-17 04:38:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cookie": {
     "criteria": {
       "has_cocoa": "2025-06-17 04:20:39 +0000"
@@ -435,6 +473,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_chicken": "2025-06-17 04:39:58 +0000",
       "cooked_mutton": "2025-06-17 04:26:48 +0000"
     },
     "done": false
@@ -448,6 +487,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-06-17 04:17:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-06-17 04:38:05 +0000"
     },
     "done": true
   },
@@ -478,6 +523,18 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-06-17 04:23:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-06-17 04:40:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-06-17 04:38:05 +0000"
     },
     "done": true
   },
@@ -520,6 +577,12 @@
   "minecraft:recipes/building_blocks/jungle_stairs": {
     "criteria": {
       "has_planks": "2025-06-17 04:16:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-06-17 04:41:46 +0000"
     },
     "done": true
   },
