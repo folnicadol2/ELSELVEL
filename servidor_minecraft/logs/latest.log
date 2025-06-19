@@ -201,3 +201,6 @@
 [06:31:00] [User Authenticator #9/INFO]: UUID of player _elu is 1ea11863-7102-392b-b19f-99c99423fdd7
 [06:31:02] [Server thread/INFO]: _elu joined the game
 [06:31:02] [Server thread/INFO]: _elu[/127.135.227.91:43327] logged in with entity id 34264 at ([world]-852.4783159310024, 110.75176763763602, -2130.1404909926578)
+[06:55:53] [Server thread/INFO]: _elu issued server command: /msg deboabanreservas cuales son las coords de la aldea
+[06:57:16] [Server thread/INFO]: deboabanreservas issued server command: /msg _elu 979 -2092
+[06:57:53] [Server thread/INFO]: deboabanreservas issued server command: /msg MaddieDL escucharte hablar es realmente de las cosas mas bonitas que puedo tener un dia de madrugada
