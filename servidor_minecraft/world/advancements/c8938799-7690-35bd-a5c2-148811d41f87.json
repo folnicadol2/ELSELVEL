@@ -833,6 +833,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-06-19 07:22:22 +0000",
       "minecraft:spider": "2025-06-19 05:07:12 +0000",
       "minecraft:zombie": "2025-06-19 05:12:14 +0000"
     },
@@ -1504,6 +1505,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-06-19 07:22:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/cherry_fence_gate": {
     "criteria": {
       "has_planks": "2025-06-19 06:50:17 +0000"
@@ -1597,6 +1604,12 @@
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_coal_block": "2025-06-19 07:02:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-06-19 07:22:28 +0000"
     },
     "done": true
   },

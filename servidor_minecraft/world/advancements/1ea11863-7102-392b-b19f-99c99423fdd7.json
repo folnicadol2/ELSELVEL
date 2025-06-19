@@ -21,6 +21,7 @@
       "minecraft:swamp": "2025-06-19 07:17:30 +0000",
       "minecraft:meadow": "2025-06-19 04:58:49 +0000",
       "minecraft:birch_forest": "2025-06-19 04:54:04 +0000",
+      "minecraft:windswept_hills": "2025-06-19 07:22:55 +0000",
       "minecraft:bamboo_jungle": "2025-06-19 04:47:34 +0000",
       "minecraft:plains": "2025-06-19 05:34:01 +0000"
     },
@@ -362,6 +363,7 @@
       "bread": "2025-06-19 06:18:36 +0000",
       "cooked_chicken": "2025-06-19 04:46:57 +0000",
       "sweet_berries": "2025-06-19 05:37:25 +0000",
+      "cooked_beef": "2025-06-19 07:28:21 +0000",
       "melon_slice": "2025-06-19 04:47:43 +0000"
     },
     "done": false
@@ -1619,6 +1621,18 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-06-19 07:27:44 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-06-19 07:27:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-06-19 06:59:35 +0000"
@@ -1628,6 +1642,12 @@
   "minecraft:recipes/redstone/cherry_pressure_plate": {
     "criteria": {
       "has_planks": "2025-06-19 06:32:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-06-19 07:27:44 +0000"
     },
     "done": true
   },
@@ -1742,6 +1762,12 @@
   "minecraft:recipes/redstone/cherry_door": {
     "criteria": {
       "has_planks": "2025-06-19 06:32:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-06-19 07:27:58 +0000"
     },
     "done": true
   },
