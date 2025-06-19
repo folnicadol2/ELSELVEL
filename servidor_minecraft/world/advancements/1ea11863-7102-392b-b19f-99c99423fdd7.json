@@ -1484,12 +1484,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/white_dye": {
-    "criteria": {
-      "has_bone_meal": "2025-06-19 06:06:22 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2025-06-19 06:06:16 +0000"
@@ -1502,7 +1496,25 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-06-19 06:06:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-06-19 06:06:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-06-19 06:09:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_hay_block": "2025-06-19 06:09:40 +0000"
     },
@@ -1520,15 +1532,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/target": {
+  "minecraft:recipes/building_blocks/cherry_planks": {
     "criteria": {
-      "has_hay_block": "2025-06-19 06:09:40 +0000"
+      "has_log": "2025-06-19 06:21:57 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bone_block": {
+  "minecraft:recipes/building_blocks/cherry_wood": {
     "criteria": {
-      "has_bone_meal": "2025-06-19 06:06:22 +0000"
+      "has_log": "2025-06-19 06:21:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-06-19 06:29:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-06-19 06:29:04 +0000"
     },
     "done": true
   },
