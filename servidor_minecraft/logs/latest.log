@@ -144,3 +144,28 @@
 [06:01:12] [Server thread/INFO]: _elu[/127.135.227.91:40901] logged in with entity id 27080 at ([world]-641.3944696189061, 64.0, -1683.5349171102503)
 [06:04:31] [Server thread/WARN]: _elu moved too quickly! -1.9753347672037762,0.7967356006687112,9.801456298996527
 [06:04:38] [Server thread/INFO]: Seed: [7275910532372017879]
+[06:05:26] [Server thread/INFO]: deboabanreservas issued server command: /tp -928 ~ -1952
+[06:05:26] [Server thread/INFO]: [deboabanreservas: Teleported deboabanreservas to -927.500000, 64.000000, -1951.500000]
+[06:05:29] [Server thread/INFO]: deboabanreservas lost connection: Disconnected
+[06:05:29] [Server thread/INFO]: deboabanreservas left the game
+[06:05:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2737ms or 54 ticks behind
+[06:05:57] [User Authenticator #6/INFO]: UUID of player deboabanreservas is 4b845313-ffdf-3b0b-a6cc-0084f662f01f
+[06:05:58] [Server thread/INFO]: deboabanreservas joined the game
+[06:05:58] [Server thread/INFO]: deboabanreservas[/127.120.3.81:60497] logged in with entity id 27672 at ([world]-927.5, 64.0, -1951.5)
+[06:05:59] [Server thread/INFO]: Teleported deboabanreservas to MaddieDL
+[06:07:44] [Async Chat Thread - #9/INFO]: [Not Secure] <_elu> -978 -1952
+[06:07:47] [Server thread/INFO]: Unknown or incomplete command, see below for error
+-928 ~ -1952<--[HERE]
+[06:11:44] [Server thread/INFO]: MaddieDL has made the advancement [Best Friends Forever]
+[06:14:16] [Server thread/INFO]: MaddieDL lost connection: Disconnected
+[06:14:16] [Server thread/INFO]: MaddieDL left the game
+[06:14:47] [Server thread/INFO]: deboabanreservas lost connection: Disconnected
+[06:14:47] [Server thread/INFO]: deboabanreservas left the game
+[06:15:09] [User Authenticator #7/INFO]: UUID of player deboabanreservas is 4b845313-ffdf-3b0b-a6cc-0084f662f01f
+[06:15:10] [Server thread/INFO]: deboabanreservas joined the game
+[06:15:10] [Server thread/INFO]: deboabanreservas[/127.120.3.81:39121] logged in with entity id 30914 at ([world]-986.6508197580712, 73.0, -1827.4534546616733)
+[06:15:48] [User Authenticator #7/INFO]: UUID of player MaddieDL is c8938799-7690-35bd-a5c2-148811d41f87
+[06:15:52] [Server thread/INFO]: MaddieDL joined the game
+[06:15:52] [Server thread/INFO]: MaddieDL[/127.122.221.80:53337] logged in with entity id 31128 at ([world]-1006.883012855854, 70.0, -1728.4348737459345)
+[06:16:53] [Server thread/INFO]: deboabanreservas issued server command: /tp MaddieDL deboabanreservas
+[06:16:53] [Server thread/INFO]: [deboabanreservas: Teleported MaddieDL to deboabanreservas]

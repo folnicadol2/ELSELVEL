@@ -10,12 +10,14 @@
       "minecraft:beach": "2025-06-17 04:13:21 +0000",
       "minecraft:old_growth_pine_taiga": "2025-06-17 05:27:08 +0000",
       "minecraft:dark_forest": "2025-06-17 05:14:50 +0000",
+      "minecraft:forest": "2025-06-19 06:10:03 +0000",
       "minecraft:taiga": "2025-06-17 05:09:37 +0000",
       "minecraft:sparse_jungle": "2025-06-17 01:20:59 +0000",
       "minecraft:river": "2025-06-17 05:09:06 +0000",
       "minecraft:lukewarm_ocean": "2025-06-17 04:14:16 +0000",
       "minecraft:lush_caves": "2025-06-17 04:27:21 +0000",
       "minecraft:dripstone_caves": "2025-06-17 04:35:27 +0000",
+      "minecraft:cherry_grove": "2025-06-19 06:19:18 +0000",
       "minecraft:meadow": "2025-06-19 05:34:29 +0000",
       "minecraft:birch_forest": "2025-06-17 05:10:32 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-06-17 05:25:48 +0000",
@@ -469,7 +471,8 @@
       "cooked_mutton": "2025-06-17 04:30:21 +0000",
       "glow_berries": "2025-06-17 04:52:06 +0000",
       "sweet_berries": "2025-06-17 05:10:41 +0000",
-      "cooked_beef": "2025-06-17 04:45:12 +0000"
+      "cooked_beef": "2025-06-17 04:45:12 +0000",
+      "porkchop": "2025-06-19 06:13:00 +0000"
     },
     "done": false
   },
@@ -1501,21 +1504,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
-    "criteria": {
-      "has_gold_nugget": "2025-06-19 06:02:03 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_chestplate": "2025-06-19 06:00:17 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-06-19 06:02:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2025-06-19 06:02:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-06-19 06:07:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-06-19 06:07:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-06-19 06:07:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-06-19 06:13:49 +0000"
     },
     "done": true
   },
