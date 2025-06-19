@@ -100,3 +100,28 @@
 [05:15:37] [Async Chat Thread - #1/INFO]: [Not Secure] <_elu> asd
 [05:22:06] [Server thread/INFO]: _elu has made the advancement [Diamonds!]
 [05:22:41] [Async Chat Thread - #3/INFO]: [Not Secure] <deboabanreservas> -330 -1240
+[05:28:22] [Server thread/INFO]: _elu has made the advancement [Cover Me with Diamonds]
+[05:28:31] [Server thread/INFO]: deboabanreservas lost connection: Disconnected
+[05:28:31] [Server thread/INFO]: deboabanreservas left the game
+[05:28:34] [Async Chat Thread - #5/INFO]: [Not Secure] <MaddieDL> bye
+[05:28:52] [User Authenticator #3/INFO]: UUID of player deboabanreservas is 4b845313-ffdf-3b0b-a6cc-0084f662f01f
+[05:28:53] [Server thread/INFO]: deboabanreservas joined the game
+[05:28:53] [Server thread/INFO]: deboabanreservas[/127.120.3.81:60511] logged in with entity id 19236 at ([world]-448.148170298689, -28.0, -1202.7525553648925)
+[05:28:59] [Server thread/INFO]: deboabanreservas lost connection: Disconnected
+[05:28:59] [Server thread/INFO]: deboabanreservas left the game
+[05:29:10] [User Authenticator #3/INFO]: UUID of player deboabanreservas is 4b845313-ffdf-3b0b-a6cc-0084f662f01f
+[05:29:11] [Server thread/INFO]: deboabanreservas joined the game
+[05:29:11] [Server thread/INFO]: deboabanreservas[/127.120.3.81:54531] logged in with entity id 19337 at ([world]-448.5757180637954, -28.0, -1202.174740991174)
+[05:32:31] [Server thread/WARN]: _elu moved too quickly! 9.563048022857913,0.661194949359988,8.318828626285267
+[05:32:41] [Server thread/INFO]: _elu drowned
+[05:32:55] [Server thread/INFO]: _elu lost connection: Timed out
+[05:32:55] [Server thread/INFO]: _elu left the game
+[05:32:59] [User Authenticator #4/INFO]: UUID of player _elu is 1ea11863-7102-392b-b19f-99c99423fdd7
+[05:33:02] [Server thread/INFO]: _elu joined the game
+[05:33:02] [Server thread/INFO]: _elu[/127.135.227.91:37057] logged in with entity id 20634 at ([world]-417.1302982547405, -33.12334008473321, -1439.58392317857)
+[05:33:45] [Server thread/INFO]: Teleported deboabanreservas to MaddieDL
+[05:34:20] [Server thread/INFO]: Teleported _elu to deboabanreservas
+[05:35:26] [Server thread/INFO]: _elu was impaled on a stalagmite
+[05:35:41] [Server thread/INFO]: Teleported _elu to deboabanreservas
+[05:38:28] [Server thread/INFO]: MaddieDL has made the advancement [Acquire Hardware]
+[05:38:45] [Server thread/INFO]: MaddieDL has made the advancement [Isn't It Iron Pick]
