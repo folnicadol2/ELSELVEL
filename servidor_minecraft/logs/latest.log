@@ -134,3 +134,11 @@
 [02:34:42] [Server thread/INFO]: Named entity Zombie['Infernal Zombie'/16709, uuid='68912e46-74d1-48f3-a1ca-655f72b3e49f', l='ServerLevel[world]', x=-884.35, y=109.00, z=-2107.23, cpos=[-56, -132], tl=1021, v=true] died: Infernal Zombie was slain by deboabanreservas
 [02:47:55] [Server thread/INFO]: deboabanreservas has made the advancement [We Need to Go Deeper]
 [02:48:06] [Server thread/INFO]: _elu issued server command: /sethome portal
+[02:52:22] [Server thread/INFO]: Named entity Piglin['Infernal Piglin'/19049, uuid='011ebb80-f85a-482d-9489-7ecb613ed9a2', l='ServerLevel[world_nether]', x=-55.01, y=68.00, z=-316.01, cpos=[-4, -20], tl=856, v=true] died: Infernal Piglin suffocated in a wall
+[02:52:48] [Server thread/INFO]: Named entity ZombifiedPiglin['Infernal Zombified piglin'/19095, uuid='cc1877e6-63d2-4687-8f0f-1fa1969ea8c1', l='ServerLevel[world_nether]', x=-58.49, y=60.30, z=-343.25, cpos=[-4, -22], tl=1285, v=true] died: Infernal Zombified piglin suffocated in a wall
+[02:52:52] [Server thread/INFO]: Named entity Piglin['Infernal Piglin'/18977, uuid='fbceeaf7-cf6a-4117-ad25-969efd8fd3be', l='ServerLevel[world_nether]', x=-219.70, y=42.00, z=-500.70, cpos=[-14, -32], tl=1915, v=true] died: Infernal Piglin was slain by _elu
+[02:55:30] [Server thread/INFO]: [InfernalMobs] [STDOUT] Can't spawn mount!
+[02:55:30] [Server thread/WARN]: Nag author(s): '[Eliminator]' of 'InfernalMobs v6.8' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[02:55:30] [Server thread/INFO]: [InfernalMobs] [STDOUT] ENDER_DRAGON is not a valid Entity!
+[03:00:42] [Server thread/INFO]: deboabanreservas issued server command: /SEED
+[03:00:45] [Server thread/INFO]: deboabanreservas issued server command: /seed
