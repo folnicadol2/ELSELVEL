@@ -173,3 +173,9 @@
 [03:25:20] [Server thread/INFO]: deboabanreservas left the game
 [03:30:18] [Server thread/INFO]: _elu issued server command: /xp add _elu 12323123
 [03:30:18] [Server thread/INFO]: [_elu: Gave 12323123 experience points to _elu]
+[03:53:18] [Server thread/INFO]: _elu issued server command: /home a
+[03:56:21] [Server thread/INFO]: _elu has made the advancement [Take Aim]
+[04:00:15] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/28324, uuid='fe861135-8e88-4dee-a11c-a22b1c77b7c3', l='ServerLevel[world]', x=-947.91, y=46.41, z=-2217.00, cpos=[-60, -139], tl=6136, v=true] died: Infernal Skeleton suffocated in a wall
+[04:00:50] [Server thread/INFO]: Named entity Witch['Infernal Witch'/22944, uuid='aebec865-f9fd-4eca-bd39-5dee618f9e3f', l='ServerLevel[world]', x=-917.50, y=6.87, z=-2073.69, cpos=[-58, -130], tl=57962, v=true] died: Infernal Witch suffocated in a wall
+[04:00:52] [Server thread/INFO]: Named entity Zombie['Infernal Zombie'/28795, uuid='b8da0797-01b5-4e62-a40d-77feb23f72dd', l='ServerLevel[world]', x=-964.53, y=55.00, z=-2113.89, cpos=[-61, -133], tl=892, v=true] died: Infernal Zombie suffocated in a wall
+[04:01:04] [Server thread/INFO]: Named entity Zombie['Infernal Zombie'/28796, uuid='36f5e8b5-cc9d-4a27-a4b2-450172fce96c', l='ServerLevel[world]', x=-849.49, y=33.67, z=-2208.20, cpos=[-54, -139], tl=1137, v=true] died: Infernal Zombie suffocated in a wall
