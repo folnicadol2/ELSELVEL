@@ -142,3 +142,12 @@
 [02:55:30] [Server thread/INFO]: [InfernalMobs] [STDOUT] ENDER_DRAGON is not a valid Entity!
 [03:00:42] [Server thread/INFO]: deboabanreservas issued server command: /SEED
 [03:00:45] [Server thread/INFO]: deboabanreservas issued server command: /seed
+[03:01:48] [Async Chat Thread - #2/INFO]: [Not Secure] <deboabanreservas> -336 ~ -192
+[03:03:27] [Server thread/INFO]: Named entity Piglin['Infernal Piglin'/20462, uuid='df6f1066-a3d2-4faa-99b7-2f640df26828', l='ServerLevel[world_nether]', x=-187.52, y=67.00, z=-261.25, cpos=[-12, -17], tl=1560, v=true] died: Infernal Piglin suffocated in a wall
+[03:05:48] [Server thread/INFO]: _elu has made the advancement [Those Were the Days]
+[03:06:09] [Server thread/INFO]: deboabanreservas has made the advancement [Those Were the Days]
+[03:06:14] [Server thread/INFO]: _elu has made the advancement [War Pigs]
+[03:10:36] [Server thread/INFO]: deboabanreservas was slain by Hoglin
+[03:11:05] [Server thread/INFO]: _elu has made the advancement [Hidden in the Depths]
+[03:11:13] [Server thread/INFO]: _elu issued server command: /tp deboabanreservas _elu
+[03:11:13] [Server thread/INFO]: [_elu: Teleported deboabanreservas to _elu]
