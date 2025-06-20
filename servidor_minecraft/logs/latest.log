@@ -130,3 +130,5 @@
 [02:08:42] [Server thread/INFO]: _elu issued server command: /home a
 [02:12:12] [Server thread/INFO]: _elu has made the advancement [Not Today, Thank You]
 [02:29:58] [Server thread/INFO]: deboabanreservas was slain by Enderman
+[02:33:12] [Server thread/INFO]: Named entity Zombie['Infernal Zombie'/16095, uuid='21c73d2e-98ec-4bcc-a391-b37d13d26db0', l='ServerLevel[world]', x=-890.59, y=88.00, z=-2092.13, cpos=[-56, -131], tl=4690, v=true] died: Infernal Zombie was slain by _elu
+[02:34:42] [Server thread/INFO]: Named entity Zombie['Infernal Zombie'/16709, uuid='68912e46-74d1-48f3-a1ca-655f72b3e49f', l='ServerLevel[world]', x=-884.35, y=109.00, z=-2107.23, cpos=[-56, -132], tl=1021, v=true] died: Infernal Zombie was slain by deboabanreservas
