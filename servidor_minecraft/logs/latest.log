@@ -114,3 +114,11 @@
 [01:07:07] [Server thread/INFO]: _elu has made the advancement [Enchanter]
 [01:12:20] [Server thread/INFO]: _elu issued server command: /sethome a
 [01:13:21] [Server thread/INFO]: _elu issued server command: /infernalmobs reload
+[01:30:49] [Async Chat Thread - #0/INFO]: [Not Secure] <_elu> ./sethome nombre
+[01:30:56] [Async Chat Thread - #0/INFO]: [Not Secure] <_elu> ./home nombre
+[01:31:38] [Server thread/INFO]: deboabanreservas issued server command: /sethome casa
+[01:32:00] [Server thread/INFO]: deboabanreservas issued server command: /home casa
+[01:32:09] [Server thread/INFO]: deboabanreservas issued server command: /sethome casa
+[01:32:16] [Server thread/INFO]: deboabanreservas issued server command: /home
+[01:32:21] [Server thread/INFO]: deboabanreservas issued server command: /home casa
+[01:32:39] [Server thread/INFO]: deboabanreservas issued server command: /home _elu casa

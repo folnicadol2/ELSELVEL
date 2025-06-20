@@ -1,4 +1,11 @@
 player:
   info:
     lastSeenAs: deboabanreservas
-homes: {}
+homes:
+  casa:
+    x: -846
+    y: 103
+    z: -2131
+    yaw: 95.605896
+    pitch: 3.2997568
+    world: world
