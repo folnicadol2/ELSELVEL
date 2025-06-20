@@ -488,7 +488,8 @@
       "minecraft:enderman": "2025-06-20 02:17:34 +0000",
       "minecraft:spider": "2025-06-17 04:13:36 +0000",
       "minecraft:zombie": "2025-06-17 04:14:56 +0000",
-      "minecraft:creeper": "2025-06-19 07:26:03 +0000"
+      "minecraft:creeper": "2025-06-19 07:26:03 +0000",
+      "minecraft:hoglin": "2025-06-20 02:49:26 +0000"
     },
     "done": false
   },
@@ -1722,9 +1723,39 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-06-20 02:47:56 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/prismarine": {
     "criteria": {
       "has_prismarine_shard": "2025-06-20 02:34:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_boots": "2025-06-20 02:40:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-06-20 02:47:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-06-20 02:47:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_boots": "2025-06-20 02:40:36 +0000"
     },
     "done": true
   },

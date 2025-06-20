@@ -9,3 +9,10 @@ homes:
     yaw: 26.567566
     pitch: 31.079327
     world: world
+  portal:
+    x: -116
+    y: 114
+    z: -258
+    yaw: -61.560482
+    pitch: 51.24996
+    world: world_nether
