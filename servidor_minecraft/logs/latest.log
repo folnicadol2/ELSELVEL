@@ -1,106 +1,84 @@
-[04:58:32] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu120.04; Ubuntu null) on Linux 6.8.0-1027-azure (amd64)
-[04:58:32] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
-[04:58:32] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[04:58:34] [ServerMain/INFO]: [PluginInitializerManager] Initialized 4 plugins
-[04:58:34] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (4):
+[15:30:57] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu120.04; Ubuntu null) on Linux 6.8.0-1027-azure (amd64)
+[15:30:57] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
+[15:30:58] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[15:30:59] [ServerMain/INFO]: [PluginInitializerManager] Initialized 4 plugins
+[15:30:59] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (4):
  - InfernalMobs (6.8), SkinsRestorer (15.6.8), SleepFixer (2.1.0), UltimateHomes (3.1)
-[04:58:39] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[04:58:41] [ServerMain/INFO]: Loaded 1290 recipes
-[04:58:41] [ServerMain/INFO]: Loaded 1399 advancements
-[04:58:42] [Server thread/INFO]: Starting minecraft server version 1.21
-[04:58:42] [Server thread/INFO]: Loading properties
-[04:58:42] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
-[04:58:43] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[04:58:43] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[04:58:43] [Server thread/INFO]: Using 4 threads for Netty based IO
-[04:58:44] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[04:58:44] [Server thread/INFO]: Default game type: SURVIVAL
-[04:58:44] [Server thread/INFO]: Generating keypair
-[04:58:44] [Server thread/INFO]: Starting Minecraft server on *:25565
-[04:58:44] [Server thread/INFO]: Using epoll channel type
-[04:58:44] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[04:58:44] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[04:58:45] [Server thread/INFO]: [InfernalMobs] Loading server plugin InfernalMobs v6.8
-[04:58:45] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.6.8
-[04:58:45] [Server thread/INFO]: [SleepFixer] Loading server plugin SleepFixer v2.1.0
-[04:58:45] [Server thread/INFO]: [UltimateHomes] Loading server plugin UltimateHomes v3.1
-[04:58:45] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[04:58:45] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.6.8
-[04:58:47] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.0.
-[04:58:48] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[04:58:48] [Server thread/INFO]: [SleepFixer] Enabling SleepFixer v2.1.0
-[04:58:48] [Server thread/INFO]: [SleepFixer] Start-up complete (took 31.0ms).
-[04:58:48] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[04:58:48] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[04:58:48] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[04:58:48] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[04:58:48] [Server thread/INFO]: Preparing level "world"
-[04:58:49] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[04:58:49] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[04:58:49] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[04:58:49] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[04:58:49] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[04:58:49] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[04:58:49] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[04:58:49] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.6.8
-[04:58:49] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: a5eb6c3
-[04:58:49] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[04:58:49] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[04:58:49] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[04:58:49] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[04:58:49] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[04:58:51] [Server thread/INFO]: Time elapsed: 1577 ms
-[04:58:51] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[04:58:51] [Server thread/INFO]: Time elapsed: 877 ms
-[04:58:51] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[04:58:52] [Server thread/INFO]: Time elapsed: 292 ms
-[04:58:52] [Server thread/INFO]: [InfernalMobs] Enabling InfernalMobs v6.8
-[04:58:52] [Server thread/INFO]: [InfernalMobs] Registered Events.
-[04:58:52] [Server thread/INFO]: [UltimateHomes] Enabling UltimateHomes v3.1
-[04:58:52] [Server thread/INFO]: 
-[04:58:52] [Server thread/INFO]: --------------------------------------
-[04:58:52] [Server thread/INFO]:        UltimateHomes by kixmc
-[04:58:52] [Server thread/INFO]:        Enabled on version 3.1
-[04:58:52] [Server thread/INFO]: --------------------------------------
-[04:58:52] [Server thread/INFO]:  
-[04:58:52] [Server thread/INFO]: [spark] Starting background profiler...
-[04:58:54] [Server thread/INFO]: Done preparing level "world" (5.536s)
-[04:58:54] [Server thread/INFO]: Running delayed init tasks
-[04:58:54] [Server thread/INFO]: Done (24.200s)! For help, type "help"
-[04:58:54] [Server thread/INFO]: Timings Reset
-[04:59:06] [User Authenticator #0/INFO]: UUID of player _elu is 1ea11863-7102-392b-b19f-99c99423fdd7
-[04:59:09] [Server thread/INFO]: _elu joined the game
-[04:59:09] [Server thread/INFO]: _elu[/127.135.227.91:49425] logged in with entity id 17 at ([world]-895.5, 109.0, -2124.5)
-[05:04:24] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/621, uuid='22d212fb-ffaa-4dd0-bab9-a40641b3e2b2', l='ServerLevel[world]', x=-881.92, y=23.41, z=-2162.00, cpos=[-56, -136], tl=2357, v=true] died: Infernal Skeleton suffocated in a wall
-[05:07:21] [Server thread/INFO]: _elu issued server command: /uh hideshowcase
-[05:08:25] [Server thread/INFO]: Named entity Zombie['Infernal Zombie'/1032, uuid='69ff577d-8215-4574-a5b0-4847a2ec61eb', l='ServerLevel[world]', x=-899.81, y=109.29, z=-2085.48, cpos=[-57, -131], tl=2071, v=true] died: Infernal Zombie was slain by _elu
-[05:09:33] [Server thread/INFO]: _elu lost connection: Disconnected
-[05:09:33] [Server thread/INFO]: _elu left the game
-[05:09:39] [Server thread/INFO]: Stopping the server
-[05:09:39] [Server thread/INFO]: Stopping server
-[05:09:39] [Server thread/INFO]: [UltimateHomes] Disabling UltimateHomes v3.1
-[05:09:39] [Server thread/INFO]: [SleepFixer] Disabling SleepFixer v2.1.0
-[05:09:39] [Server thread/INFO]: [SleepFixer] Shut-down complete (took 0.0ms).
-[05:09:39] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.6.8
-[05:09:39] [Server thread/INFO]: [InfernalMobs] Disabling InfernalMobs v6.8
-[05:09:39] [Server thread/INFO]: Saving players
-[05:09:39] [Server thread/INFO]: Saving worlds
-[05:09:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[05:09:39] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[05:09:39] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[05:09:39] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[05:09:39] [Server thread/INFO]: [ChunkHolderManager] Saved 30 block chunks, 60 entity chunks, 0 poi chunks in world 'world' in 0.08s
-[05:09:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[05:09:39] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[05:09:39] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[05:09:39] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[05:09:39] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 2 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
-[05:09:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[05:09:39] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[05:09:39] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[05:09:39] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[05:09:39] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
-[05:09:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[05:09:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[05:09:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[05:09:39] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[15:31:04] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[15:31:06] [ServerMain/INFO]: Loaded 1290 recipes
+[15:31:06] [ServerMain/INFO]: Loaded 1399 advancements
+[15:31:07] [Server thread/INFO]: Starting minecraft server version 1.21
+[15:31:07] [Server thread/INFO]: Loading properties
+[15:31:07] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[15:31:08] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[15:31:08] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[15:31:08] [Server thread/INFO]: Using 4 threads for Netty based IO
+[15:31:09] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[15:31:09] [Server thread/INFO]: Default game type: SURVIVAL
+[15:31:09] [Server thread/INFO]: Generating keypair
+[15:31:09] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:31:09] [Server thread/INFO]: Using epoll channel type
+[15:31:09] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[15:31:09] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[15:31:10] [Server thread/INFO]: [InfernalMobs] Loading server plugin InfernalMobs v6.8
+[15:31:10] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.6.8
+[15:31:10] [Server thread/INFO]: [SleepFixer] Loading server plugin SleepFixer v2.1.0
+[15:31:10] [Server thread/INFO]: [UltimateHomes] Loading server plugin UltimateHomes v3.1
+[15:31:10] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[15:31:10] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.6.8
+[15:31:15] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.0.
+[15:31:16] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[15:31:16] [Server thread/INFO]: [SleepFixer] Enabling SleepFixer v2.1.0
+[15:31:16] [Server thread/INFO]: [SleepFixer] Start-up complete (took 87.0ms).
+[15:31:16] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:31:16] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:31:16] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15:31:16] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:31:16] [Server thread/INFO]: Preparing level "world"
+[15:31:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[15:31:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[15:31:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[15:31:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[15:31:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[15:31:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[15:31:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[15:31:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.6.8
+[15:31:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: a5eb6c3
+[15:31:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[15:31:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[15:31:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[15:31:16] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[15:31:17] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:31:19] [Server thread/INFO]: Time elapsed: 1675 ms
+[15:31:19] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[15:31:19] [Server thread/INFO]: Time elapsed: 362 ms
+[15:31:19] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[15:31:19] [Server thread/INFO]: Time elapsed: 201 ms
+[15:31:19] [Server thread/INFO]: [InfernalMobs] Enabling InfernalMobs v6.8
+[15:31:19] [Server thread/INFO]: [InfernalMobs] Registered Events.
+[15:31:20] [Server thread/INFO]: [UltimateHomes] Enabling UltimateHomes v3.1
+[15:31:20] [Server thread/INFO]: 
+[15:31:20] [Server thread/INFO]: --------------------------------------
+[15:31:20] [Server thread/INFO]:        UltimateHomes by kixmc
+[15:31:20] [Server thread/INFO]:        Enabled on version 3.1
+[15:31:20] [Server thread/INFO]: --------------------------------------
+[15:31:20] [Server thread/INFO]:  
+[15:31:20] [Server thread/INFO]: [spark] Starting background profiler...
+[15:31:21] [Server thread/INFO]: Done preparing level "world" (4.335s)
+[15:31:21] [Server thread/INFO]: Running delayed init tasks
+[15:31:21] [Server thread/INFO]: Done (25.187s)! For help, type "help"
+[15:31:21] [Server thread/INFO]: Timings Reset
+[15:32:01] [User Authenticator #0/INFO]: UUID of player deboabanreservas is 4b845313-ffdf-3b0b-a6cc-0084f662f01f
+[15:32:02] [Server thread/INFO]: deboabanreservas joined the game
+[15:32:02] [Server thread/INFO]: deboabanreservas[/127.147.3.232:43547] logged in with entity id 17 at ([world]-901.731805855352, 109.0, -2117.902219349522)
+[15:34:21] [User Authenticator #1/INFO]: UUID of player _elu is 1ea11863-7102-392b-b19f-99c99423fdd7
+[15:34:35] [Server thread/INFO]: _elu joined the game
+[15:34:35] [Server thread/INFO]: _elu[/127.135.227.91:40277] logged in with entity id 806 at ([world]-895.8428549664075, 109.0, -2125.294312136352)
+[15:36:21] [Server thread/INFO]: _elu issued server command: /home blazes
+[15:37:05] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/1841, uuid='bc4b2ab9-0d68-4bc5-8161-58a0034faa6e', l='ServerLevel[world_nether]', x=-568.25, y=104.17, z=155.49, cpos=[-36, 9], tl=3072, v=true] died: Infernal Skeleton suffocated in a wall
+[15:37:38] [Server thread/INFO]: deboabanreservas issued server command: /seed
+[15:42:15] [Async Chat Thread - #0/INFO]: [Not Secure] <deboabanreservas> -663 Y: 66 Z: -2,561
+[15:42:53] [Server thread/WARN]: _elu moved too quickly! 9.860071839077023,0.7531999805212024,-3.0898737539367005
+[15:47:26] [Server thread/INFO]: deboabanreservas has made the advancement [Ice Bucket Challenge]
+[15:50:31] [Server thread/INFO]: deboabanreservas issued server command: /home casa
+[15:50:33] [Server thread/INFO]: _elu issued server command: /home a

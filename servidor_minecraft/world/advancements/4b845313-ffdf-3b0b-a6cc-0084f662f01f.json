@@ -17,9 +17,11 @@
       "minecraft:lukewarm_ocean": "2025-06-17 04:14:16 +0000",
       "minecraft:lush_caves": "2025-06-17 04:27:21 +0000",
       "minecraft:dripstone_caves": "2025-06-17 04:35:27 +0000",
+      "minecraft:windswept_forest": "2025-06-20 15:37:30 +0000",
       "minecraft:cherry_grove": "2025-06-19 06:19:18 +0000",
       "minecraft:meadow": "2025-06-19 05:34:29 +0000",
       "minecraft:birch_forest": "2025-06-17 05:10:32 +0000",
+      "minecraft:windswept_hills": "2025-06-20 15:42:31 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-06-17 05:25:48 +0000",
       "minecraft:plains": "2025-06-17 04:29:49 +0000"
     },
@@ -1718,21 +1720,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+  "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
-      "has_polished_blackstone_bricks": "2025-06-20 03:12:09 +0000"
+      "has_gunpowder": "2025-06-20 02:18:38 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+  "minecraft:recipes/redstone/tnt": {
     "criteria": {
-      "has_polished_blackstone_bricks": "2025-06-20 03:12:09 +0000"
+      "has_gunpowder": "2025-06-20 02:18:38 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+  "minecraft:recipes/building_blocks/prismarine": {
     "criteria": {
-      "has_gold_block": "2025-06-20 03:08:48 +0000"
+      "has_prismarine_shard": "2025-06-20 02:34:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-06-20 02:34:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-06-20 02:34:46 +0000"
     },
     "done": true
   },
@@ -1742,17 +1756,21 @@
     },
     "done": true
   },
-  "minecraft:nether/explore_nether": {
+  "minecraft:recipes/redstone/lectern": {
     "criteria": {
-      "minecraft:crimson_forest": "2025-06-20 02:47:56 +0000",
-      "minecraft:nether_wastes": "2025-06-20 03:05:33 +0000",
-      "minecraft:warped_forest": "2025-06-20 02:52:31 +0000"
+      "has_book": "2025-06-20 02:38:34 +0000"
     },
-    "done": false
+    "done": true
   },
-  "minecraft:recipes/building_blocks/prismarine": {
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
     "criteria": {
-      "has_prismarine_shard": "2025-06-20 02:34:46 +0000"
+      "has_book": "2025-06-20 02:38:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-06-20 02:38:34 +0000"
     },
     "done": true
   },
@@ -1762,9 +1780,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
-      "has_netherite_upgrade_smithing_template": "2025-06-20 03:08:45 +0000"
+      "has_golden_boots": "2025-06-20 02:40:36 +0000"
     },
     "done": true
   },
@@ -1780,9 +1798,53 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+  "minecraft:nether/explore_nether": {
     "criteria": {
-      "has_golden_boots": "2025-06-20 02:40:36 +0000"
+      "minecraft:crimson_forest": "2025-06-20 02:47:56 +0000",
+      "minecraft:nether_wastes": "2025-06-20 03:05:33 +0000",
+      "minecraft:warped_forest": "2025-06-20 02:52:31 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-06-20 02:50:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-06-20 03:06:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-06-20 03:08:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-06-20 03:08:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-06-20 03:08:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-20 03:12:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-20 03:12:09 +0000"
     },
     "done": true
   },
@@ -1804,57 +1866,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/lectern": {
-    "criteria": {
-      "has_book": "2025-06-20 02:38:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
-    "criteria": {
-      "has_book": "2025-06-20 02:38:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-06-20 03:12:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_bricks": {
-    "criteria": {
-      "has_prismarine_shard": "2025-06-20 02:34:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/find_bastion": {
-    "criteria": {
-      "bastion": "2025-06-20 03:06:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/writable_book": {
-    "criteria": {
-      "has_book": "2025-06-20 02:38:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_prismarine": {
-    "criteria": {
-      "has_prismarine_shard": "2025-06-20 02:34:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/firework_rocket_simple": {
-    "criteria": {
-      "has_gunpowder": "2025-06-20 02:18:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/tnt": {
-    "criteria": {
-      "has_gunpowder": "2025-06-20 02:18:38 +0000"
     },
     "done": true
   },
@@ -1864,15 +1878,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/nether_brick": {
+  "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
-      "has_netherrack": "2025-06-20 02:50:35 +0000"
+      "has_flint": "2025-06-20 15:46:36 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+  "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
-      "has_iron_nugget": "2025-06-20 03:08:54 +0000"
+      "has_flint": "2025-06-20 15:46:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-06-20 15:43:41 +0000"
     },
     "done": true
   },
