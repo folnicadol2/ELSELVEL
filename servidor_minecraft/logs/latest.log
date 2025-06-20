@@ -1,197 +1,75 @@
-[01:00:14] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu120.04; Ubuntu null) on Linux 6.8.0-1027-azure (amd64)
-[01:00:14] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
-[01:00:14] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[01:00:15] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/UltimateHomes-3.1.jar'...
-[01:00:15] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Remapping plugin 'plugins/SleepFixer-2.1.0.jar'...
-[01:00:15] [Paper Plugin Remapper Thread - 1/INFO]: [PluginRemapper] Remapping plugin 'plugins/SkinsRestorer.jar'...
-[01:00:15] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Remapping plugin 'plugins/InfernalMobs.jar'...
-[01:00:15] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Done remapping plugin 'plugins/SleepFixer-2.1.0.jar' in 705ms.
-[01:00:15] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/UltimateHomes-3.1.jar' in 736ms.
-[01:00:15] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Done remapping plugin 'plugins/InfernalMobs.jar' in 673ms.
-[01:00:17] [Paper Plugin Remapper Thread - 1/INFO]: [PluginRemapper] Done remapping plugin 'plugins/SkinsRestorer.jar' in 2268ms.
-[01:00:17] [ServerMain/INFO]: [PluginInitializerManager] Initialized 4 plugins
-[01:00:17] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (4):
+[04:58:32] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu120.04; Ubuntu null) on Linux 6.8.0-1027-azure (amd64)
+[04:58:32] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
+[04:58:32] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[04:58:34] [ServerMain/INFO]: [PluginInitializerManager] Initialized 4 plugins
+[04:58:34] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (4):
  - InfernalMobs (6.8), SkinsRestorer (15.6.8), SleepFixer (2.1.0), UltimateHomes (3.1)
-[01:00:22] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[01:00:23] [ServerMain/INFO]: Loaded 1290 recipes
-[01:00:24] [ServerMain/INFO]: Loaded 1399 advancements
-[01:00:24] [Server thread/INFO]: Starting minecraft server version 1.21
-[01:00:24] [Server thread/INFO]: Loading properties
-[01:00:24] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
-[01:00:25] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[01:00:25] [Server thread/INFO]: Using 4 threads for Netty based IO
-[01:00:25] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[01:00:26] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[01:00:26] [Server thread/INFO]: Default game type: SURVIVAL
-[01:00:26] [Server thread/INFO]: Generating keypair
-[01:00:26] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:00:26] [Server thread/INFO]: Using epoll channel type
-[01:00:26] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[01:00:26] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[01:00:26] [Server thread/INFO]: [InfernalMobs] Loading server plugin InfernalMobs v6.8
-[01:00:26] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.6.8
-[01:00:26] [Server thread/INFO]: [SleepFixer] Loading server plugin SleepFixer v2.1.0
-[01:00:26] [Server thread/INFO]: [UltimateHomes] Loading server plugin UltimateHomes v3.1
-[01:00:26] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[01:00:26] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.6.8
-[01:00:28] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.0.
-[01:00:30] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[01:00:30] [Server thread/INFO]: [SleepFixer] Enabling SleepFixer v2.1.0
-[01:00:30] [Server thread/INFO]: [SleepFixer] Start-up complete (took 26.0ms).
-[01:00:30] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:00:30] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:00:30] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:00:30] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:00:30] [Server thread/INFO]: Preparing level "world"
-[01:00:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[01:00:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[01:00:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[01:00:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[01:00:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[01:00:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[01:00:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[01:00:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.6.8
-[01:00:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: a5eb6c3
-[01:00:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[01:00:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[01:00:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[01:00:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[01:00:30] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:00:31] [Server thread/INFO]: Time elapsed: 1106 ms
-[01:00:31] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[01:00:32] [Server thread/INFO]: Time elapsed: 265 ms
-[01:00:32] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[01:00:32] [Server thread/INFO]: Time elapsed: 137 ms
-[01:00:32] [Server thread/INFO]: [InfernalMobs] Enabling InfernalMobs v6.8
-[01:00:32] [Server thread/INFO]: [InfernalMobs] Registered Events.
-[01:00:32] [Server thread/INFO]: [InfernalMobs] No config.yml found, generating...
-[01:00:32] [Server thread/INFO]: [InfernalMobs] Config successfully generated!
-[01:00:32] [Server thread/INFO]: [InfernalMobs] No loot.yml found, generating...
-[01:00:32] [Server thread/INFO]: [InfernalMobs] 1.21-130-b1b5d4c (MC: 1.21) Loot successfully generated!
-[01:00:32] [Server thread/INFO]: [UltimateHomes] Enabling UltimateHomes v3.1
-[01:00:32] [Server thread/INFO]: 
-[01:00:32] [Server thread/INFO]: --------------------------------------
-[01:00:32] [Server thread/INFO]:        UltimateHomes by kixmc
-[01:00:32] [Server thread/INFO]:        Enabled on version 3.1
-[01:00:32] [Server thread/INFO]: --------------------------------------
-[01:00:32] [Server thread/INFO]:  
-[01:00:32] [Server thread/WARN]: java.io.FileNotFoundException: plugins/UltimateHomes/lang.yml (No such file or directory)
-[01:00:32] [Server thread/WARN]: 	at java.base/java.io.FileInputStream.open0(Native Method)
-[01:00:32] [Server thread/WARN]: 	at java.base/java.io.FileInputStream.open(FileInputStream.java:213)
-[01:00:32] [Server thread/WARN]: 	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:152)
-[01:00:32] [Server thread/WARN]: 	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:126)
-[01:00:32] [Server thread/WARN]: 	at UltimateHomes-3.1.jar//com.kixmc.uh.core.Main.setupConfigs(Main.java:124)
-[01:00:32] [Server thread/WARN]: 	at UltimateHomes-3.1.jar//com.kixmc.uh.core.Main.onEnable(Main.java:73)
-[01:00:32] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:288)
-[01:00:32] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202)
-[01:00:32] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109)
-[01:00:32] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520)
-[01:00:32] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:640)
-[01:00:32] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:589)
-[01:00:32] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.loadWorld0(MinecraftServer.java:754)
-[01:00:32] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.loadLevel(MinecraftServer.java:516)
-[01:00:32] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:329)
-[01:00:32] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1215)
-[01:00:32] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330)
-[01:00:32] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
-[01:00:32] [Server thread/INFO]: [spark] Starting background profiler...
-[01:00:33] [Server thread/INFO]: Done preparing level "world" (3.138s)
-[01:00:33] [Server thread/INFO]: Running delayed init tasks
-[01:00:33] [Server thread/INFO]: Done (19.682s)! For help, type "help"
-[01:00:33] [Server thread/INFO]: Timings Reset
-[01:01:08] [User Authenticator #0/INFO]: UUID of player _elu is 1ea11863-7102-392b-b19f-99c99423fdd7
-[01:01:37] [Server thread/INFO]: _elu (/127.135.227.91:54343) lost connection: Timed out
-[01:02:00] [User Authenticator #0/INFO]: UUID of player _elu is 1ea11863-7102-392b-b19f-99c99423fdd7
-[01:02:08] [Server thread/INFO]: _elu joined the game
-[01:02:08] [Server thread/INFO]: _elu[/127.135.227.91:47535] logged in with entity id 18 at ([world]-894.3865269507507, 111.0, -2124.5375252939148)
-[01:03:24] [Server thread/INFO]: _elu issued server command: /xp add _elu 3243242
-[01:03:24] [Server thread/INFO]: [_elu: Gave 3243242 experience points to _elu]
-[01:03:30] [Server thread/INFO]: _elu issued server command: /plugins
-[01:04:42] [User Authenticator #1/INFO]: UUID of player deboabanreservas is 4b845313-ffdf-3b0b-a6cc-0084f662f01f
-[01:04:44] [Server thread/INFO]: deboabanreservas joined the game
-[01:04:44] [Server thread/INFO]: deboabanreservas[/127.120.3.81:43855] logged in with entity id 575 at ([world]-898.3654798471613, 110.0, -2126.1462205296707)
-[01:05:42] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/577, uuid='501a4639-67b0-44c6-b3a7-fda9477ef41b', l='ServerLevel[world]', x=-922.49, y=48.67, z=-2173.55, cpos=[-58, -136], tl=1167, v=true] died: Infernal Skeleton suffocated in a wall
-[01:07:07] [Server thread/INFO]: _elu has made the advancement [Enchanter]
-[01:12:20] [Server thread/INFO]: _elu issued server command: /sethome a
-[01:13:21] [Server thread/INFO]: _elu issued server command: /infernalmobs reload
-[01:30:49] [Async Chat Thread - #0/INFO]: [Not Secure] <_elu> ./sethome nombre
-[01:30:56] [Async Chat Thread - #0/INFO]: [Not Secure] <_elu> ./home nombre
-[01:31:38] [Server thread/INFO]: deboabanreservas issued server command: /sethome casa
-[01:32:00] [Server thread/INFO]: deboabanreservas issued server command: /home casa
-[01:32:09] [Server thread/INFO]: deboabanreservas issued server command: /sethome casa
-[01:32:16] [Server thread/INFO]: deboabanreservas issued server command: /home
-[01:32:21] [Server thread/INFO]: deboabanreservas issued server command: /home casa
-[01:32:39] [Server thread/INFO]: deboabanreservas issued server command: /home _elu casa
-[02:06:23] [Server thread/INFO]: deboabanreservas died because of Infernal Skeleton
-[02:06:23] [Server thread/INFO]: deboabanreservas was shot by Infernal Skeleton
-[02:06:28] [Server thread/INFO]: _elu died because of Infernal Skeleton
-[02:06:28] [Server thread/INFO]: _elu was shot by Infernal Skeleton
-[02:07:03] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/12342, uuid='0cde88e1-9193-4345-91e1-7b0913613588', l='ServerLevel[world]', x=-856.30, y=64.00, z=-2073.70, cpos=[-54, -130], tl=4931, v=true] died: Infernal Skeleton was slain by _elu
-[02:08:42] [Server thread/INFO]: _elu issued server command: /home a
-[02:12:12] [Server thread/INFO]: _elu has made the advancement [Not Today, Thank You]
-[02:29:58] [Server thread/INFO]: deboabanreservas was slain by Enderman
-[02:33:12] [Server thread/INFO]: Named entity Zombie['Infernal Zombie'/16095, uuid='21c73d2e-98ec-4bcc-a391-b37d13d26db0', l='ServerLevel[world]', x=-890.59, y=88.00, z=-2092.13, cpos=[-56, -131], tl=4690, v=true] died: Infernal Zombie was slain by _elu
-[02:34:42] [Server thread/INFO]: Named entity Zombie['Infernal Zombie'/16709, uuid='68912e46-74d1-48f3-a1ca-655f72b3e49f', l='ServerLevel[world]', x=-884.35, y=109.00, z=-2107.23, cpos=[-56, -132], tl=1021, v=true] died: Infernal Zombie was slain by deboabanreservas
-[02:47:55] [Server thread/INFO]: deboabanreservas has made the advancement [We Need to Go Deeper]
-[02:48:06] [Server thread/INFO]: _elu issued server command: /sethome portal
-[02:52:22] [Server thread/INFO]: Named entity Piglin['Infernal Piglin'/19049, uuid='011ebb80-f85a-482d-9489-7ecb613ed9a2', l='ServerLevel[world_nether]', x=-55.01, y=68.00, z=-316.01, cpos=[-4, -20], tl=856, v=true] died: Infernal Piglin suffocated in a wall
-[02:52:48] [Server thread/INFO]: Named entity ZombifiedPiglin['Infernal Zombified piglin'/19095, uuid='cc1877e6-63d2-4687-8f0f-1fa1969ea8c1', l='ServerLevel[world_nether]', x=-58.49, y=60.30, z=-343.25, cpos=[-4, -22], tl=1285, v=true] died: Infernal Zombified piglin suffocated in a wall
-[02:52:52] [Server thread/INFO]: Named entity Piglin['Infernal Piglin'/18977, uuid='fbceeaf7-cf6a-4117-ad25-969efd8fd3be', l='ServerLevel[world_nether]', x=-219.70, y=42.00, z=-500.70, cpos=[-14, -32], tl=1915, v=true] died: Infernal Piglin was slain by _elu
-[02:55:30] [Server thread/INFO]: [InfernalMobs] [STDOUT] Can't spawn mount!
-[02:55:30] [Server thread/WARN]: Nag author(s): '[Eliminator]' of 'InfernalMobs v6.8' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
-[02:55:30] [Server thread/INFO]: [InfernalMobs] [STDOUT] ENDER_DRAGON is not a valid Entity!
-[03:00:42] [Server thread/INFO]: deboabanreservas issued server command: /SEED
-[03:00:45] [Server thread/INFO]: deboabanreservas issued server command: /seed
-[03:01:48] [Async Chat Thread - #2/INFO]: [Not Secure] <deboabanreservas> -336 ~ -192
-[03:03:27] [Server thread/INFO]: Named entity Piglin['Infernal Piglin'/20462, uuid='df6f1066-a3d2-4faa-99b7-2f640df26828', l='ServerLevel[world_nether]', x=-187.52, y=67.00, z=-261.25, cpos=[-12, -17], tl=1560, v=true] died: Infernal Piglin suffocated in a wall
-[03:05:48] [Server thread/INFO]: _elu has made the advancement [Those Were the Days]
-[03:06:09] [Server thread/INFO]: deboabanreservas has made the advancement [Those Were the Days]
-[03:06:14] [Server thread/INFO]: _elu has made the advancement [War Pigs]
-[03:10:36] [Server thread/INFO]: deboabanreservas was slain by Hoglin
-[03:11:05] [Server thread/INFO]: _elu has made the advancement [Hidden in the Depths]
-[03:11:13] [Server thread/INFO]: _elu issued server command: /tp deboabanreservas _elu
-[03:11:13] [Server thread/INFO]: [_elu: Teleported deboabanreservas to _elu]
-[03:13:23] [Server thread/INFO]: _elu issued server command: /home a
-[03:13:35] [Server thread/INFO]: _elu issued server command: /tp deboabanreservas
-[03:13:35] [Server thread/INFO]: [_elu: Teleported _elu to deboabanreservas]
-[03:14:34] [Server thread/INFO]: deboabanreservas was slain by Piglin
-[03:14:44] [Server thread/INFO]: deboabanreservas issued server command: /tp deboabanreservas _elu
-[03:14:44] [Server thread/INFO]: [deboabanreservas: Teleported deboabanreservas to _elu]
-[03:15:10] [Server thread/INFO]: Named entity Hoglin['Infernal Hoglin'/20824, uuid='1fe268c4-b1f2-468e-b917-b1b2a9e2de62', l='ServerLevel[world_nether]', x=-331.86, y=30.00, z=-166.60, cpos=[-21, -11], tl=12403, v=true] died: Infernal Hoglin tried to swim in lava
-[03:15:39] [Server thread/INFO]: deboabanreservas was slain by Hoglin
-[03:15:48] [Server thread/INFO]: deboabanreservas issued server command: /tp deboabanreservas _elu
-[03:15:48] [Server thread/INFO]: [deboabanreservas: Teleported deboabanreservas to _elu]
-[03:16:27] [Server thread/INFO]: deboabanreservas issued server command: /home casa
-[03:16:30] [Server thread/INFO]: _elu issued server command: /homema
-[03:16:33] [Server thread/INFO]: _elu issued server command: /home a
-[03:17:59] [Server thread/INFO]: deboabanreservas was shot by Skeleton
-[03:20:45] [Server thread/INFO]: _elu burned to death
-[03:21:27] [Server thread/INFO]: Named entity Zombie['Infernal Zombie'/23538, uuid='e10f0360-e060-49b6-981b-e77d9789b29e', l='ServerLevel[world]', x=-832.18, y=59.00, z=-2101.40, cpos=[-53, -132], tl=3887, v=true] died: Infernal Zombie was slain by _elu
-[03:22:08] [Server thread/INFO]: deboabanreservas was slain by Zombie
-[03:23:28] [Server thread/INFO]: deboabanreservas was slain by Zombie
-[03:25:20] [Server thread/INFO]: deboabanreservas lost connection: Disconnected
-[03:25:20] [Server thread/INFO]: deboabanreservas left the game
-[03:30:18] [Server thread/INFO]: _elu issued server command: /xp add _elu 12323123
-[03:30:18] [Server thread/INFO]: [_elu: Gave 12323123 experience points to _elu]
-[03:53:18] [Server thread/INFO]: _elu issued server command: /home a
-[03:56:21] [Server thread/INFO]: _elu has made the advancement [Take Aim]
-[04:00:15] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/28324, uuid='fe861135-8e88-4dee-a11c-a22b1c77b7c3', l='ServerLevel[world]', x=-947.91, y=46.41, z=-2217.00, cpos=[-60, -139], tl=6136, v=true] died: Infernal Skeleton suffocated in a wall
-[04:00:50] [Server thread/INFO]: Named entity Witch['Infernal Witch'/22944, uuid='aebec865-f9fd-4eca-bd39-5dee618f9e3f', l='ServerLevel[world]', x=-917.50, y=6.87, z=-2073.69, cpos=[-58, -130], tl=57962, v=true] died: Infernal Witch suffocated in a wall
-[04:00:52] [Server thread/INFO]: Named entity Zombie['Infernal Zombie'/28795, uuid='b8da0797-01b5-4e62-a40d-77feb23f72dd', l='ServerLevel[world]', x=-964.53, y=55.00, z=-2113.89, cpos=[-61, -133], tl=892, v=true] died: Infernal Zombie suffocated in a wall
-[04:01:04] [Server thread/INFO]: Named entity Zombie['Infernal Zombie'/28796, uuid='36f5e8b5-cc9d-4a27-a4b2-450172fce96c', l='ServerLevel[world]', x=-849.49, y=33.67, z=-2208.20, cpos=[-54, -139], tl=1137, v=true] died: Infernal Zombie suffocated in a wall
-[04:06:06] [Async Chat Thread - #4/INFO]: [Not Secure] <_elu> asd
-[04:11:40] [Async Chat Thread - #6/INFO]: [Not Secure] <_elu> asd
-[04:15:24] [Server thread/INFO]: _elu issued server command: /seed
-[04:19:01] [Server thread/INFO]: [InfernalMobs] Entity remove due to Morph
-[04:19:17] [Server thread/INFO]: Named entity EnderMan['Infernal Enderman'/31505, uuid='5221ec44-9a4e-4131-b8dd-845f281d0e50', l='ServerLevel[world_nether]', x=-389.61, y=69.18, z=-120.52, cpos=[-25, -8], tl=321, v=true] died: Infernal Enderman was slain by _elu
-[04:21:56] [Server thread/INFO]: Named entity Ghast['Infernal Ghast'/31682, uuid='23658175-1e03-4868-86e2-8111634ca209', l='ServerLevel[world_nether]', x=-493.07, y=75.00, z=-50.05, cpos=[-31, -4], tl=1394, v=true] died: Infernal Ghast was shot by _elu
-[04:25:00] [Server thread/INFO]: _elu has made the advancement [A Terrible Fortress]
-[04:26:07] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/32669, uuid='591c9851-bafc-4763-adcc-afa2d0759d9b', l='ServerLevel[world_nether]', x=-718.88, y=103.57, z=165.95, cpos=[-45, 10], tl=2582, v=true] died: Infernal Skeleton suffocated in a wall
-[04:33:21] [Server thread/INFO]: _elu has made the advancement [Into Fire]
-[04:36:52] [Server thread/INFO]: _elu issued server command: /sethome blazes
-[04:36:54] [Server thread/INFO]: _elu issued server command: /home a
-[04:39:21] [Server thread/INFO]: Named entity Zombie['Infernal Zombie'/34683, uuid='d14d9172-054c-4519-9b36-04883fde0334', l='ServerLevel[world]', x=-846.75, y=49.30, z=-2066.36, cpos=[-53, -130], tl=930, v=true] died: Infernal Zombie suffocated in a wall
-[04:46:56] [Server thread/WARN]: _elu moved too quickly! -8.882419541920854,3.2468000194787976,4.734428670343277
-[04:50:57] [Async Chat Thread - #8/INFO]: [Not Secure] <_elu> assd
-[04:51:32] [Server thread/INFO]: _elu issued server command: /sethome dm
-[04:51:36] [Server thread/INFO]: _elu issued server command: /home a
+[04:58:39] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[04:58:41] [ServerMain/INFO]: Loaded 1290 recipes
+[04:58:41] [ServerMain/INFO]: Loaded 1399 advancements
+[04:58:42] [Server thread/INFO]: Starting minecraft server version 1.21
+[04:58:42] [Server thread/INFO]: Loading properties
+[04:58:42] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[04:58:43] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[04:58:43] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[04:58:43] [Server thread/INFO]: Using 4 threads for Netty based IO
+[04:58:44] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[04:58:44] [Server thread/INFO]: Default game type: SURVIVAL
+[04:58:44] [Server thread/INFO]: Generating keypair
+[04:58:44] [Server thread/INFO]: Starting Minecraft server on *:25565
+[04:58:44] [Server thread/INFO]: Using epoll channel type
+[04:58:44] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[04:58:44] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[04:58:45] [Server thread/INFO]: [InfernalMobs] Loading server plugin InfernalMobs v6.8
+[04:58:45] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.6.8
+[04:58:45] [Server thread/INFO]: [SleepFixer] Loading server plugin SleepFixer v2.1.0
+[04:58:45] [Server thread/INFO]: [UltimateHomes] Loading server plugin UltimateHomes v3.1
+[04:58:45] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[04:58:45] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.6.8
+[04:58:47] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.0.
+[04:58:48] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[04:58:48] [Server thread/INFO]: [SleepFixer] Enabling SleepFixer v2.1.0
+[04:58:48] [Server thread/INFO]: [SleepFixer] Start-up complete (took 31.0ms).
+[04:58:48] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[04:58:48] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[04:58:48] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[04:58:48] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[04:58:48] [Server thread/INFO]: Preparing level "world"
+[04:58:49] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[04:58:49] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[04:58:49] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[04:58:49] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[04:58:49] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[04:58:49] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[04:58:49] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[04:58:49] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.6.8
+[04:58:49] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: a5eb6c3
+[04:58:49] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[04:58:49] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[04:58:49] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[04:58:49] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[04:58:49] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[04:58:51] [Server thread/INFO]: Time elapsed: 1577 ms
+[04:58:51] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[04:58:51] [Server thread/INFO]: Time elapsed: 877 ms
+[04:58:51] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[04:58:52] [Server thread/INFO]: Time elapsed: 292 ms
+[04:58:52] [Server thread/INFO]: [InfernalMobs] Enabling InfernalMobs v6.8
+[04:58:52] [Server thread/INFO]: [InfernalMobs] Registered Events.
+[04:58:52] [Server thread/INFO]: [UltimateHomes] Enabling UltimateHomes v3.1
+[04:58:52] [Server thread/INFO]: 
+[04:58:52] [Server thread/INFO]: --------------------------------------
+[04:58:52] [Server thread/INFO]:        UltimateHomes by kixmc
+[04:58:52] [Server thread/INFO]:        Enabled on version 3.1
+[04:58:52] [Server thread/INFO]: --------------------------------------
+[04:58:52] [Server thread/INFO]:  
+[04:58:52] [Server thread/INFO]: [spark] Starting background profiler...
+[04:58:54] [Server thread/INFO]: Done preparing level "world" (5.536s)
+[04:58:54] [Server thread/INFO]: Running delayed init tasks
+[04:58:54] [Server thread/INFO]: Done (24.200s)! For help, type "help"
+[04:58:54] [Server thread/INFO]: Timings Reset
+[04:59:06] [User Authenticator #0/INFO]: UUID of player _elu is 1ea11863-7102-392b-b19f-99c99423fdd7
+[04:59:09] [Server thread/INFO]: _elu joined the game
+[04:59:09] [Server thread/INFO]: _elu[/127.135.227.91:49425] logged in with entity id 17 at ([world]-895.5, 109.0, -2124.5)
+[05:04:24] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/621, uuid='22d212fb-ffaa-4dd0-bab9-a40641b3e2b2', l='ServerLevel[world]', x=-881.92, y=23.41, z=-2162.00, cpos=[-56, -136], tl=2357, v=true] died: Infernal Skeleton suffocated in a wall
+[05:07:21] [Server thread/INFO]: _elu issued server command: /uh hideshowcase

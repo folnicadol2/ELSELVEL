@@ -8,5 +8,5 @@ considerMidAirUnsafe: true
 alternateCommandExecutor: false
 enableDeleteAllHomesFromPlayerAdminCommand: false
 enableDeleteAllHomesInWorldAdminCommand: false
-kcgFeatureJoinMessage: true
+kcgFeatureJoinMessage: false
 showDetectedConflictWarning: true
