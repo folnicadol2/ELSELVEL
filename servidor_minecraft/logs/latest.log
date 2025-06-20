@@ -1,229 +1,114 @@
-[04:34:00] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu120.04; Ubuntu null) on Linux 6.8.0-1027-azure (amd64)
-[04:34:00] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
-[04:34:00] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[04:34:01] [ServerMain/INFO]: [PluginInitializerManager] Initialized 1 plugin
-[04:34:01] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (1):
- - SkinsRestorer (15.6.6)
-[04:34:07] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[04:34:09] [ServerMain/INFO]: Loaded 1290 recipes
-[04:34:10] [ServerMain/INFO]: Loaded 1399 advancements
-[04:34:10] [Server thread/INFO]: Starting minecraft server version 1.21
-[04:34:10] [Server thread/INFO]: Loading properties
-[04:34:10] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
-[04:34:11] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[04:34:11] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[04:34:11] [Server thread/INFO]: Using 4 threads for Netty based IO
-[04:34:12] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[04:34:12] [Server thread/INFO]: Default game type: SURVIVAL
-[04:34:12] [Server thread/INFO]: Generating keypair
-[04:34:12] [Server thread/INFO]: Starting Minecraft server on *:25565
-[04:34:12] [Server thread/INFO]: Using epoll channel type
-[04:34:12] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[04:34:12] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[04:34:12] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.6.6
-[04:34:12] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[04:34:12] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.6.6
-[04:34:17] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.0.
-[04:34:18] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[04:34:18] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[04:34:18] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[04:34:18] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[04:34:18] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[04:34:18] [Server thread/INFO]: Preparing level "world"
-[04:34:19] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[04:34:19] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[04:34:19] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[04:34:19] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[04:34:19] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[04:34:19] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[04:34:19] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[04:34:19] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.6.6
-[04:34:19] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 763d6fb
-[04:34:19] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     A new version (15.6.8) is available! Downloading update...
-[04:34:19] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[04:34:19] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[04:34:19] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[04:34:19] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] [GitHubUpdate] Downloading update...
-[04:34:19] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] [GitHubUpdate] Downloaded update in 500ms
-[04:34:19] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] [GitHubUpdate] Update saved as SkinsRestorer.jar
-[04:34:19] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] [GitHubUpdate] The update will be loaded on the next server restart
-[04:34:19] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[04:34:21] [Server thread/INFO]: Time elapsed: 1950 ms
-[04:34:21] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[04:34:22] [Server thread/INFO]: Time elapsed: 494 ms
-[04:34:22] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[04:34:22] [Server thread/INFO]: Time elapsed: 269 ms
-[04:34:22] [Server thread/INFO]: [spark] Starting background profiler...
-[04:34:25] [Server thread/INFO]: Done preparing level "world" (6.113s)
-[04:34:25] [Server thread/INFO]: Running delayed init tasks
-[04:34:25] [Server thread/INFO]: Done (26.547s)! For help, type "help"
-[04:34:25] [Server thread/INFO]: Timings Reset
-[04:34:55] [User Authenticator #0/INFO]: UUID of player deboabanreservas is 4b845313-ffdf-3b0b-a6cc-0084f662f01f
-[04:34:57] [Server thread/INFO]: deboabanreservas joined the game
-[04:34:57] [Server thread/INFO]: deboabanreservas[/127.120.3.81:35453] logged in with entity id 18 at ([world]-298.72478209695953, 63.0, -1290.1991798134106)
-[04:35:53] [User Authenticator #0/INFO]: UUID of player MaddieDL is c8938799-7690-35bd-a5c2-148811d41f87
-[04:35:55] [Server thread/INFO]: MaddieDL joined the game
-[04:35:55] [Server thread/INFO]: MaddieDL[/127.122.221.80:34189] logged in with entity id 433 at ([world]-329.67409081337775, 64.0, -1237.589772333572)
-[04:36:46] [Server thread/WARN]: MaddieDL moved too quickly! -10.118317945889373,0.0,-4.524658441386009
-[04:41:10] [User Authenticator #1/INFO]: UUID of player _elu is 1ea11863-7102-392b-b19f-99c99423fdd7
-[04:41:22] [Server thread/INFO]: _elu joined the game
-[04:41:22] [Server thread/INFO]: _elu[/127.135.227.91:34409] logged in with entity id 922 at ([world]-90.5, 66.0, -104.5)
-[04:42:23] [Async Chat Thread - #0/INFO]: [Not Secure] <_elu> -330 -1237
-[04:44:09] [Server thread/INFO]: _elu has made the advancement [Stone Age]
-[04:44:31] [Server thread/INFO]: _elu has made the advancement [Getting an Upgrade]
-[04:47:24] [Server thread/INFO]: _elu has made the advancement [Monster Hunter]
-[04:57:09] [Server thread/WARN]: _elu was kicked for floating too long!
-[04:57:09] [Server thread/INFO]: _elu lost connection: Flying is not enabled on this server
-[04:57:09] [Server thread/INFO]: _elu left the game
-[04:57:15] [User Authenticator #2/INFO]: UUID of player _elu is 1ea11863-7102-392b-b19f-99c99423fdd7
-[04:57:17] [Server thread/INFO]: _elu joined the game
-[04:57:17] [Server thread/INFO]: _elu[/127.135.227.91:33839] logged in with entity id 7614 at ([world]-424.7142152769833, 68.09590362663486, -1370.91891668307)
-[04:57:32] [Server thread/INFO]: MaddieDL lost connection: Disconnected
-[04:57:32] [Server thread/INFO]: MaddieDL left the game
-[04:57:44] [Server thread/INFO]: _elu has made the advancement [Sweet Dreams]
-[04:57:45] [Server thread/INFO]: deboabanreservas lost connection: Disconnected
-[04:57:45] [Server thread/INFO]: deboabanreservas left the game
-[04:57:53] [User Authenticator #2/INFO]: UUID of player deboabanreservas is 4b845313-ffdf-3b0b-a6cc-0084f662f01f
-[04:57:54] [Server thread/INFO]: deboabanreservas joined the game
-[04:57:54] [Server thread/INFO]: deboabanreservas[/127.120.3.81:59681] logged in with entity id 7892 at ([world]-456.3052356979971, -23.0, -1215.888077675019)
-[04:58:03] [User Authenticator #2/INFO]: UUID of player MaddieDL is c8938799-7690-35bd-a5c2-148811d41f87
-[04:58:04] [Server thread/INFO]: MaddieDL joined the game
-[04:58:04] [Server thread/INFO]: MaddieDL[/127.122.221.80:55109] logged in with entity id 7989 at ([world]-240.83942934137033, 66.0, -516.8073008935424)
-[05:03:49] [Server thread/WARN]: MaddieDL moved too quickly! -14.473599095781424,-4.5813359922251635,-11.161924444840707
-[05:03:58] [Server thread/INFO]: _elu has made the advancement [Acquire Hardware]
-[05:04:11] [Server thread/INFO]: _elu has made the advancement [Isn't It Iron Pick]
-[05:07:12] [Server thread/INFO]: MaddieDL has made the advancement [Monster Hunter]
-[05:07:26] [Server thread/INFO]: _elu has made the advancement [Suit Up]
-[05:07:54] [Server thread/INFO]: Teleported MaddieDL to deboabanreservas
-[05:10:27] [Server thread/INFO]: MaddieDL has made the advancement [Diamonds!]
-[05:15:35] [Server thread/WARN]: _elu moved too quickly! 10.834280385335092,0.8232407249357578,-6.127212650151705
-[05:15:37] [Async Chat Thread - #1/INFO]: [Not Secure] <_elu> asd
-[05:22:06] [Server thread/INFO]: _elu has made the advancement [Diamonds!]
-[05:22:41] [Async Chat Thread - #3/INFO]: [Not Secure] <deboabanreservas> -330 -1240
-[05:28:22] [Server thread/INFO]: _elu has made the advancement [Cover Me with Diamonds]
-[05:28:31] [Server thread/INFO]: deboabanreservas lost connection: Disconnected
-[05:28:31] [Server thread/INFO]: deboabanreservas left the game
-[05:28:34] [Async Chat Thread - #5/INFO]: [Not Secure] <MaddieDL> bye
-[05:28:52] [User Authenticator #3/INFO]: UUID of player deboabanreservas is 4b845313-ffdf-3b0b-a6cc-0084f662f01f
-[05:28:53] [Server thread/INFO]: deboabanreservas joined the game
-[05:28:53] [Server thread/INFO]: deboabanreservas[/127.120.3.81:60511] logged in with entity id 19236 at ([world]-448.148170298689, -28.0, -1202.7525553648925)
-[05:28:59] [Server thread/INFO]: deboabanreservas lost connection: Disconnected
-[05:28:59] [Server thread/INFO]: deboabanreservas left the game
-[05:29:10] [User Authenticator #3/INFO]: UUID of player deboabanreservas is 4b845313-ffdf-3b0b-a6cc-0084f662f01f
-[05:29:11] [Server thread/INFO]: deboabanreservas joined the game
-[05:29:11] [Server thread/INFO]: deboabanreservas[/127.120.3.81:54531] logged in with entity id 19337 at ([world]-448.5757180637954, -28.0, -1202.174740991174)
-[05:32:31] [Server thread/WARN]: _elu moved too quickly! 9.563048022857913,0.661194949359988,8.318828626285267
-[05:32:41] [Server thread/INFO]: _elu drowned
-[05:32:55] [Server thread/INFO]: _elu lost connection: Timed out
-[05:32:55] [Server thread/INFO]: _elu left the game
-[05:32:59] [User Authenticator #4/INFO]: UUID of player _elu is 1ea11863-7102-392b-b19f-99c99423fdd7
-[05:33:02] [Server thread/INFO]: _elu joined the game
-[05:33:02] [Server thread/INFO]: _elu[/127.135.227.91:37057] logged in with entity id 20634 at ([world]-417.1302982547405, -33.12334008473321, -1439.58392317857)
-[05:33:45] [Server thread/INFO]: Teleported deboabanreservas to MaddieDL
-[05:34:20] [Server thread/INFO]: Teleported _elu to deboabanreservas
-[05:35:26] [Server thread/INFO]: _elu was impaled on a stalagmite
-[05:35:41] [Server thread/INFO]: Teleported _elu to deboabanreservas
-[05:38:28] [Server thread/INFO]: MaddieDL has made the advancement [Acquire Hardware]
-[05:38:45] [Server thread/INFO]: MaddieDL has made the advancement [Isn't It Iron Pick]
-[05:45:30] [Async Chat Thread - #7/INFO]: [Not Secure] <_elu> asd
-[05:52:56] [Server thread/INFO]: _elu has made the advancement [Ice Bucket Challenge]
-[05:56:02] [Server thread/INFO]: MaddieDL has made the advancement [Ice Bucket Challenge]
-[05:58:12] [Server thread/INFO]: Made _elu a server operator
-[05:58:24] [Server thread/INFO]: Made deboabanreservas a server operator
-[05:58:36] [Server thread/INFO]: MaddieDL has made the advancement [We Need to Go Deeper]
-[05:58:36] [Server thread/INFO]: Made MaddieDL a server operator
-[05:59:24] [Server thread/INFO]: _elu issued server command: /tp MaddieDL
-[05:59:24] [Server thread/INFO]: [_elu: Teleported _elu to MaddieDL]
-[05:59:40] [Server thread/INFO]: deboabanreservas issued server command: /tp deboabanreservas maddiedl
-[05:59:40] [Server thread/INFO]: [deboabanreservas: Teleported deboabanreservas to MaddieDL]
-[06:00:17] [Server thread/INFO]: deboabanreservas has made the advancement [Cover Me with Diamonds]
-[06:00:50] [Server thread/INFO]: _elu lost connection: Disconnected
-[06:00:50] [Server thread/INFO]: _elu left the game
-[06:01:10] [User Authenticator #5/INFO]: UUID of player _elu is 1ea11863-7102-392b-b19f-99c99423fdd7
-[06:01:12] [Server thread/INFO]: _elu joined the game
-[06:01:12] [Server thread/INFO]: _elu[/127.135.227.91:40901] logged in with entity id 27080 at ([world]-641.3944696189061, 64.0, -1683.5349171102503)
-[06:04:31] [Server thread/WARN]: _elu moved too quickly! -1.9753347672037762,0.7967356006687112,9.801456298996527
-[06:04:38] [Server thread/INFO]: Seed: [7275910532372017879]
-[06:05:26] [Server thread/INFO]: deboabanreservas issued server command: /tp -928 ~ -1952
-[06:05:26] [Server thread/INFO]: [deboabanreservas: Teleported deboabanreservas to -927.500000, 64.000000, -1951.500000]
-[06:05:29] [Server thread/INFO]: deboabanreservas lost connection: Disconnected
-[06:05:29] [Server thread/INFO]: deboabanreservas left the game
-[06:05:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2737ms or 54 ticks behind
-[06:05:57] [User Authenticator #6/INFO]: UUID of player deboabanreservas is 4b845313-ffdf-3b0b-a6cc-0084f662f01f
-[06:05:58] [Server thread/INFO]: deboabanreservas joined the game
-[06:05:58] [Server thread/INFO]: deboabanreservas[/127.120.3.81:60497] logged in with entity id 27672 at ([world]-927.5, 64.0, -1951.5)
-[06:05:59] [Server thread/INFO]: Teleported deboabanreservas to MaddieDL
-[06:07:44] [Async Chat Thread - #9/INFO]: [Not Secure] <_elu> -978 -1952
-[06:07:47] [Server thread/INFO]: Unknown or incomplete command, see below for error
--928 ~ -1952<--[HERE]
-[06:11:44] [Server thread/INFO]: MaddieDL has made the advancement [Best Friends Forever]
-[06:14:16] [Server thread/INFO]: MaddieDL lost connection: Disconnected
-[06:14:16] [Server thread/INFO]: MaddieDL left the game
-[06:14:47] [Server thread/INFO]: deboabanreservas lost connection: Disconnected
-[06:14:47] [Server thread/INFO]: deboabanreservas left the game
-[06:15:09] [User Authenticator #7/INFO]: UUID of player deboabanreservas is 4b845313-ffdf-3b0b-a6cc-0084f662f01f
-[06:15:10] [Server thread/INFO]: deboabanreservas joined the game
-[06:15:10] [Server thread/INFO]: deboabanreservas[/127.120.3.81:39121] logged in with entity id 30914 at ([world]-986.6508197580712, 73.0, -1827.4534546616733)
-[06:15:48] [User Authenticator #7/INFO]: UUID of player MaddieDL is c8938799-7690-35bd-a5c2-148811d41f87
-[06:15:52] [Server thread/INFO]: MaddieDL joined the game
-[06:15:52] [Server thread/INFO]: MaddieDL[/127.122.221.80:53337] logged in with entity id 31128 at ([world]-1006.883012855854, 70.0, -1728.4348737459345)
-[06:16:53] [Server thread/INFO]: deboabanreservas issued server command: /tp MaddieDL deboabanreservas
-[06:16:53] [Server thread/INFO]: [deboabanreservas: Teleported MaddieDL to deboabanreservas]
-[06:26:50] [Async Chat Thread - #11/INFO]: [Not Secure] <MaddieDL> zzzzzzzzzzzzzzz
-[06:26:51] [Async Chat Thread - #11/INFO]: [Not Secure] <MaddieDL> zzzzzzzzzz
-[06:26:53] [Async Chat Thread - #11/INFO]: [Not Secure] <MaddieDL> zzzzzzzzzz
-[06:26:54] [Async Chat Thread - #11/INFO]: [Not Secure] <MaddieDL> zzzzzzzzzzz
-[06:26:55] [Async Chat Thread - #11/INFO]: [Not Secure] <MaddieDL> zzzzz
-[06:26:57] [Async Chat Thread - #11/INFO]: [Not Secure] <MaddieDL> zzzzzzzzzzzzzzz
-[06:26:58] [Async Chat Thread - #11/INFO]: [Not Secure] <MaddieDL> zzzzzzzzz
-[06:27:10] [Async Chat Thread - #11/INFO]: [Not Secure] <MaddieDL> zzzzzzzzzzz
-[06:27:13] [Async Chat Thread - #11/INFO]: [Not Secure] <MaddieDL> zzzzz
-[06:27:15] [Async Chat Thread - #11/INFO]: [Not Secure] <MaddieDL> zzzzzzzzzzzzzzzzzzzzz
-[06:27:16] [Async Chat Thread - #11/INFO]: [Not Secure] <MaddieDL> zzzz
-[06:27:16] [Async Chat Thread - #11/INFO]: [Not Secure] <_elu> ./give bed
-[06:27:17] [Async Chat Thread - #11/INFO]: [Not Secure] <MaddieDL> z
-[06:27:19] [Async Chat Thread - #11/INFO]: [Not Secure] <MaddieDL> zzzzzzzzzz
-[06:27:20] [Async Chat Thread - #11/INFO]: [Not Secure] <MaddieDL> zzzzzzzzzzzzzzzzzzzzz
-[06:27:23] [Async Chat Thread - #11/INFO]: [Not Secure] <MaddieDL> zzzzzzzzzzzzzzzzzzzzzzzz
-[06:27:24] [Server thread/INFO]: _elu lost connection: Disconnected
-[06:27:24] [Server thread/INFO]: _elu left the game
-[06:27:24] [Async Chat Thread - #11/INFO]: [Not Secure] <MaddieDL> zzzzzzzz
-[06:27:47] [User Authenticator #8/INFO]: UUID of player _elu is 1ea11863-7102-392b-b19f-99c99423fdd7
-[06:27:48] [Server thread/INFO]: _elu joined the game
-[06:27:48] [Server thread/INFO]: _elu[/127.135.227.91:36519] logged in with entity id 33536 at ([world]-840.8669898230698, 112.0, -2162.1795987354367)
-[06:28:14] [Async Chat Thread - #12/INFO]: [Not Secure] <_elu> asd
-[06:28:37] [Server thread/WARN]: _elu moved too quickly! -13.46086184190301,-3.0,4.094302848602638
-[06:28:38] [Server thread/INFO]: MaddieDL has made the advancement [The Parrots and the Bats]
-[06:28:56] [Server thread/WARN]: _elu moved too quickly! 9.335979708130708,-1.7461092740512356,-7.41983117082782
-[06:30:47] [Server thread/WARN]: _elu was kicked for floating too long!
-[06:30:47] [Server thread/INFO]: _elu lost connection: Flying is not enabled on this server
-[06:30:47] [Server thread/INFO]: _elu left the game
-[06:31:00] [User Authenticator #9/INFO]: UUID of player _elu is 1ea11863-7102-392b-b19f-99c99423fdd7
-[06:31:02] [Server thread/INFO]: _elu joined the game
-[06:31:02] [Server thread/INFO]: _elu[/127.135.227.91:43327] logged in with entity id 34264 at ([world]-852.4783159310024, 110.75176763763602, -2130.1404909926578)
-[06:55:53] [Server thread/INFO]: _elu issued server command: /msg deboabanreservas cuales son las coords de la aldea
-[06:57:16] [Server thread/INFO]: deboabanreservas issued server command: /msg _elu 979 -2092
-[06:57:53] [Server thread/INFO]: deboabanreservas issued server command: /msg MaddieDL escucharte hablar es realmente de las cosas mas bonitas que puedo tener un dia de madrugada
-[07:11:12] [Server thread/INFO]: deboabanreservas issued server command: /msg _elu esa risita dice mucho yts
-[07:11:26] [Server thread/INFO]: _elu issued server command: /msg deboabanreservas tu me dice ahorita
-[07:11:43] [Server thread/INFO]: MaddieDL issued server command: /msg deboabanreservas hagamoslo mas seguido, la estoy pasando muy bien <3
-[07:12:15] [Server thread/INFO]: deboabanreservas issued server command: /msg MaddieDL ¿te gusta tanto mi compañia?
-[07:14:37] [Server thread/INFO]: deboabanreservas issued server command: /msg _elu saul
-[07:16:57] [Server thread/INFO]: deboabanreservas issued server command: /msg MaddieDL ¿quieres aplaudir en cmude?
-[07:19:42] [Async Chat Thread - #23/INFO]: [Not Secure] <MaddieDL> si
-[07:20:11] [Server thread/INFO]: MaddieDL issued server command: /msg deboabanreservas si, a ambas preguntas
-[07:22:03] [Server thread/INFO]: MaddieDL has made the advancement [Not Today, Thank You]
-[07:23:35] [Server thread/INFO]: _elu issued server command: /tp deboabanreservas
-[07:23:35] [Server thread/INFO]: [_elu: Teleported _elu to deboabanreservas]
-[07:25:49] [Server thread/INFO]: deboabanreservas has made the advancement [Enchanter]
-[07:26:53] [Server thread/INFO]: MaddieDL issued server command: /msg deboabanreservas oye me gusta mucho esto, la estas pasando bien?
-[07:27:24] [Server thread/INFO]: deboabanreservas issued server command: /msg MaddieDL a mi me gusta mucho quien escribe el mensaje, pero si la estoy pasando muy bien
-[07:27:44] [Server thread/INFO]: _elu has made the advancement [We Need to Go Deeper]
-[07:28:18] [Server thread/INFO]: MaddieDL issued server command: /msg deboabanreservas es la idea <3 te quiero
-[07:30:26] [Server thread/INFO]: _elu lost connection: Disconnected
-[07:30:26] [Server thread/INFO]: _elu left the game
-[07:30:32] [Server thread/INFO]: deboabanreservas issued server command: /msg MaddieDL yo tambien te quiero mucho, me encanta escucharte
-[07:33:28] [Server thread/INFO]: deboabanreservas lost connection: Disconnected
-[07:33:28] [Server thread/INFO]: deboabanreservas left the game
-[07:33:35] [Server thread/INFO]: MaddieDL lost connection: Disconnected
-[07:33:35] [Server thread/INFO]: MaddieDL left the game
+[01:00:14] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu120.04; Ubuntu null) on Linux 6.8.0-1027-azure (amd64)
+[01:00:14] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
+[01:00:14] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[01:00:15] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/UltimateHomes-3.1.jar'...
+[01:00:15] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Remapping plugin 'plugins/SleepFixer-2.1.0.jar'...
+[01:00:15] [Paper Plugin Remapper Thread - 1/INFO]: [PluginRemapper] Remapping plugin 'plugins/SkinsRestorer.jar'...
+[01:00:15] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Remapping plugin 'plugins/InfernalMobs.jar'...
+[01:00:15] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Done remapping plugin 'plugins/SleepFixer-2.1.0.jar' in 705ms.
+[01:00:15] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/UltimateHomes-3.1.jar' in 736ms.
+[01:00:15] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Done remapping plugin 'plugins/InfernalMobs.jar' in 673ms.
+[01:00:17] [Paper Plugin Remapper Thread - 1/INFO]: [PluginRemapper] Done remapping plugin 'plugins/SkinsRestorer.jar' in 2268ms.
+[01:00:17] [ServerMain/INFO]: [PluginInitializerManager] Initialized 4 plugins
+[01:00:17] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (4):
+ - InfernalMobs (6.8), SkinsRestorer (15.6.8), SleepFixer (2.1.0), UltimateHomes (3.1)
+[01:00:22] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:00:23] [ServerMain/INFO]: Loaded 1290 recipes
+[01:00:24] [ServerMain/INFO]: Loaded 1399 advancements
+[01:00:24] [Server thread/INFO]: Starting minecraft server version 1.21
+[01:00:24] [Server thread/INFO]: Loading properties
+[01:00:24] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[01:00:25] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[01:00:25] [Server thread/INFO]: Using 4 threads for Netty based IO
+[01:00:25] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[01:00:26] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[01:00:26] [Server thread/INFO]: Default game type: SURVIVAL
+[01:00:26] [Server thread/INFO]: Generating keypair
+[01:00:26] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:00:26] [Server thread/INFO]: Using epoll channel type
+[01:00:26] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[01:00:26] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[01:00:26] [Server thread/INFO]: [InfernalMobs] Loading server plugin InfernalMobs v6.8
+[01:00:26] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.6.8
+[01:00:26] [Server thread/INFO]: [SleepFixer] Loading server plugin SleepFixer v2.1.0
+[01:00:26] [Server thread/INFO]: [UltimateHomes] Loading server plugin UltimateHomes v3.1
+[01:00:26] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[01:00:26] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.6.8
+[01:00:28] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.0.
+[01:00:30] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[01:00:30] [Server thread/INFO]: [SleepFixer] Enabling SleepFixer v2.1.0
+[01:00:30] [Server thread/INFO]: [SleepFixer] Start-up complete (took 26.0ms).
+[01:00:30] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:00:30] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:00:30] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:00:30] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:00:30] [Server thread/INFO]: Preparing level "world"
+[01:00:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[01:00:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[01:00:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[01:00:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[01:00:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[01:00:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[01:00:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[01:00:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.6.8
+[01:00:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: a5eb6c3
+[01:00:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[01:00:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[01:00:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[01:00:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[01:00:30] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:00:31] [Server thread/INFO]: Time elapsed: 1106 ms
+[01:00:31] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[01:00:32] [Server thread/INFO]: Time elapsed: 265 ms
+[01:00:32] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[01:00:32] [Server thread/INFO]: Time elapsed: 137 ms
+[01:00:32] [Server thread/INFO]: [InfernalMobs] Enabling InfernalMobs v6.8
+[01:00:32] [Server thread/INFO]: [InfernalMobs] Registered Events.
+[01:00:32] [Server thread/INFO]: [InfernalMobs] No config.yml found, generating...
+[01:00:32] [Server thread/INFO]: [InfernalMobs] Config successfully generated!
+[01:00:32] [Server thread/INFO]: [InfernalMobs] No loot.yml found, generating...
+[01:00:32] [Server thread/INFO]: [InfernalMobs] 1.21-130-b1b5d4c (MC: 1.21) Loot successfully generated!
+[01:00:32] [Server thread/INFO]: [UltimateHomes] Enabling UltimateHomes v3.1
+[01:00:32] [Server thread/INFO]: 
+[01:00:32] [Server thread/INFO]: --------------------------------------
+[01:00:32] [Server thread/INFO]:        UltimateHomes by kixmc
+[01:00:32] [Server thread/INFO]:        Enabled on version 3.1
+[01:00:32] [Server thread/INFO]: --------------------------------------
+[01:00:32] [Server thread/INFO]:  
+[01:00:32] [Server thread/WARN]: java.io.FileNotFoundException: plugins/UltimateHomes/lang.yml (No such file or directory)
+[01:00:32] [Server thread/WARN]: 	at java.base/java.io.FileInputStream.open0(Native Method)
+[01:00:32] [Server thread/WARN]: 	at java.base/java.io.FileInputStream.open(FileInputStream.java:213)
+[01:00:32] [Server thread/WARN]: 	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:152)
+[01:00:32] [Server thread/WARN]: 	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:126)
+[01:00:32] [Server thread/WARN]: 	at UltimateHomes-3.1.jar//com.kixmc.uh.core.Main.setupConfigs(Main.java:124)
+[01:00:32] [Server thread/WARN]: 	at UltimateHomes-3.1.jar//com.kixmc.uh.core.Main.onEnable(Main.java:73)
+[01:00:32] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:288)
+[01:00:32] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202)
+[01:00:32] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109)
+[01:00:32] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520)
+[01:00:32] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:640)
+[01:00:32] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:589)
+[01:00:32] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.loadWorld0(MinecraftServer.java:754)
+[01:00:32] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.loadLevel(MinecraftServer.java:516)
+[01:00:32] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:329)
+[01:00:32] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1215)
+[01:00:32] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330)
+[01:00:32] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[01:00:32] [Server thread/INFO]: [spark] Starting background profiler...
+[01:00:33] [Server thread/INFO]: Done preparing level "world" (3.138s)
+[01:00:33] [Server thread/INFO]: Running delayed init tasks
+[01:00:33] [Server thread/INFO]: Done (19.682s)! For help, type "help"
+[01:00:33] [Server thread/INFO]: Timings Reset
+[01:01:08] [User Authenticator #0/INFO]: UUID of player _elu is 1ea11863-7102-392b-b19f-99c99423fdd7
+[01:01:37] [Server thread/INFO]: _elu (/127.135.227.91:54343) lost connection: Timed out
+[01:02:00] [User Authenticator #0/INFO]: UUID of player _elu is 1ea11863-7102-392b-b19f-99c99423fdd7
+[01:02:08] [Server thread/INFO]: _elu joined the game
+[01:02:08] [Server thread/INFO]: _elu[/127.135.227.91:47535] logged in with entity id 18 at ([world]-894.3865269507507, 111.0, -2124.5375252939148)
+[01:03:24] [Server thread/INFO]: _elu issued server command: /xp add _elu 3243242
+[01:03:24] [Server thread/INFO]: [_elu: Gave 3243242 experience points to _elu]
+[01:03:30] [Server thread/INFO]: _elu issued server command: /plugins
+[01:04:42] [User Authenticator #1/INFO]: UUID of player deboabanreservas is 4b845313-ffdf-3b0b-a6cc-0084f662f01f
+[01:04:44] [Server thread/INFO]: deboabanreservas joined the game
+[01:04:44] [Server thread/INFO]: deboabanreservas[/127.120.3.81:43855] logged in with entity id 575 at ([world]-898.3654798471613, 110.0, -2126.1462205296707)
+[01:05:42] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/577, uuid='501a4639-67b0-44c6-b3a7-fda9477ef41b', l='ServerLevel[world]', x=-922.49, y=48.67, z=-2173.55, cpos=[-58, -136], tl=1167, v=true] died: Infernal Skeleton suffocated in a wall
+[01:07:07] [Server thread/INFO]: _elu has made the advancement [Enchanter]
