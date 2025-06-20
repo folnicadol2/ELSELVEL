@@ -38,9 +38,7 @@ d029db59-3386-4a22-bd0e-1b983095f7aa: bullwark,explode,berserk,blinding,armoured
 6bb3d796-76be-4255-8877-e2aa34d8dd31: explode,berserk,sprint,vengeance,ender,molten
 6c41b4c1-b8e7-49a1-9985-b54ec0441f9f: gravity,berserk,lifesteal,tosser,bullwark
 9d0f3e2e-fb02-48d0-b167-0acfd8efcfc4: mounted,cloaked,flying,1up,armoured,webber,firework
-d879e1b5-5ad5-42b4-a711-f140e8f20228: mama,firework,quicksand,ghost
 617d0dd1-cb83-46ab-b28e-a2c740a23975: withering,mama,lifesteal,rust,sprint
-d3a83f9d-8b4d-456b-9d94-a86a0b78d906: gravity,flying,morph,vengeance
 5d4297b1-077e-4a01-ad7f-a74ecb391912: poisonous,vengeance,cloaked,ghastly
 bc8b40e7-d4c2-43e6-bfa0-ae3a07288fac: firework,lifesteal,blinding,weakness,rust,poisonous
 9fe46854-be9d-4e3f-8adf-4cdc517889b5: armoured,necromancer,thief,lifesteal,gravity,explode,ender
@@ -49,7 +47,6 @@ f70f2bbb-3c3c-4507-b773-91142f24fd33: ghastly,explode,mama,rust
 1880ca09-8cc4-4604-8f66-4539f4d6d596: ender,mounted,potions,sprint,berserk,bullwark
 57123466-0e4d-406c-a5b5-4c8c3124bb3f: quicksand,armoured,morph,sapper,poisonous
 f3594f90-c85f-4e4f-b5de-c85437a57c62: blinding,necromancer,tosser
-c686ab68-8264-4cff-82d8-682ff586efe8: vengeance,archer,sapper,gravity,necromancer
 7409fee6-6c4d-4e47-9a05-7b78acd7d222: firework,ghastly,mama,molten
 2a0d0a10-1ede-4dd1-90ef-bd27cfee1ef5: webber,quicksand,archer,rust
 47dc8e1c-bcb6-4f29-8228-49e1513d12cc: gravity,ghost,rust,ender
@@ -59,6 +56,9 @@ d3482d33-c8d5-4f58-ae8a-16805fe133f1: mounted,ghastly,sapper,1up,webber,necroman
 6e9f9b32-4e9a-4d75-a7a8-7861c941ec5b: tosser,withering,quicksand,gravity,thief,bullwark,rust
 1eb7ef66-0553-48f2-a191-ccbe25c639ea: mama,armoured,cloaked,withering,flying,ghastly
 6bb61683-dc4f-4143-9204-d66e9a86bce2: sprint,withering,1up,poisonous
-44130fe1-3526-4050-8c2b-61ee95d1e669: bullwark,withering,quicksand,vengeance,thief,weakness
 b471d8e8-b4e5-44c8-9748-52635d306536: rust,thief,1up,weakness
 a585d4a6-e3f6-475c-8ca9-f2da5a7d54b6: tosser,archer,quicksand
+0bf8860c-6f3b-448e-9f51-509b00b1827e: sapper,explode,1up
+b3f84f95-4efa-458a-9a16-a9b5cb813b70: mounted,morph,poisonous,gravity,necromancer,armoured,firework
+b9f8ced4-3726-453d-bb2c-0e306bdf7d2f: cloaked,sprint,necromancer,ghastly,vengeance,ghost,1up
+21c73d2e-98ec-4bcc-a391-b37d13d26db0: berserk,potions,storm,ghost,explode,flying
