@@ -37,7 +37,6 @@ f70f2bbb-3c3c-4507-b773-91142f24fd33: ghastly,explode,mama,rust
 57123466-0e4d-406c-a5b5-4c8c3124bb3f: quicksand,armoured,morph,sapper,poisonous
 f3594f90-c85f-4e4f-b5de-c85437a57c62: blinding,necromancer,tosser
 7409fee6-6c4d-4e47-9a05-7b78acd7d222: firework,ghastly,mama,molten
-2a0d0a10-1ede-4dd1-90ef-bd27cfee1ef5: webber,quicksand,archer,rust
 47dc8e1c-bcb6-4f29-8228-49e1513d12cc: gravity,ghost,rust,ender
 e3012d19-243c-495d-9e09-cffb89856ea6: flying,tosser,poisonous,cloaked
 d3482d33-c8d5-4f58-ae8a-16805fe133f1: mounted,ghastly,sapper,1up,webber,necromancer,armoured
@@ -96,7 +95,6 @@ f6eadcce-1fd6-47ac-89c4-8d6ee6cab375: berserk,gravity,armoured,cloaked
 35cb46f0-5f7b-4360-98c2-a084ae1d04b8: vengeance,quicksand,molten,firework,lifesteal,sprint
 39700c6d-7a0d-4c58-a6e0-e037a3dea306: ghost,firework,mounted,weakness
 32a9ff62-4f4c-4331-b7b0-bf916c428c5b: morph,1up,mounted,bullwark
-5ad6ad44-3d6b-43d7-b5bd-1e98a55c1c36: rust,ghastly,flying,poisonous
 8986b3b2-c89e-445d-9d89-3c9491210007: bullwark,quicksand,sprint,firework,thief,gravity
 e78cd51a-cbc6-4459-b303-d765eedef857: berserk,1up,gravity,molten,tosser,sprint,explode
 1834abfe-5f27-427a-83fa-14aa5b1fc1fa: bullwark,blinding,quicksand,thief
@@ -108,3 +106,10 @@ d08492c9-4fad-43fd-90ac-c4943ef139d3: thief,firework,storm,vengeance
 570c8e90-34bd-4c42-83b3-69bbbc3e0b70: potions,berserk,gravity,ghastly
 6316b290-245e-4f72-be0e-c80fe6d14bc9: mama,storm,tosser
 0f466e37-3500-4282-840b-56dc55475cfa: tosser,rust,bullwark,ghastly,storm,archer
+7ca3b42d-8fff-4298-aab1-edbd12fdd2a1: morph,berserk,firework,ghastly,storm
+11fb61c5-ec86-4d1a-9e13-150802ce02ca: cloaked,armoured,poisonous,tosser
+77d21b37-9540-4ef4-a36b-5a5e175fc57c: blinding,lifesteal,sprint
+9e075d72-9b36-4d0b-85ba-801639689939: necromancer,berserk,ghost
+76ed3cc5-e41b-4a46-b76e-f78ee6a2decc: storm,poisonous,bullwark,rust,lifesteal,ender
+2b459952-3629-46aa-ac8e-037494b8f2b8: potions,ghastly,morph,thief,withering,tosser,storm
+b40c29cd-4000-4ff8-9701-bbf443e9e688: tosser,vengeance,withering,mama
