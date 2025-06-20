@@ -362,6 +362,7 @@
       "cooked_porkchop": "2025-06-19 06:12:46 +0000",
       "bread": "2025-06-19 06:18:36 +0000",
       "cooked_chicken": "2025-06-19 04:46:57 +0000",
+      "glow_berries": "2025-06-20 04:30:06 +0000",
       "sweet_berries": "2025-06-19 05:37:25 +0000",
       "cooked_beef": "2025-06-19 07:28:21 +0000",
       "melon_slice": "2025-06-19 04:47:43 +0000"
@@ -376,17 +377,20 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2025-06-20 04:25:42 +0000",
       "minecraft:skeleton": "2025-06-19 04:48:01 +0000",
-      "minecraft:piglin": "2025-06-20 02:52:52 +0000",
       "minecraft:zombified_piglin": "2025-06-20 04:18:37 +0000",
+      "minecraft:wither_skeleton": "2025-06-20 04:25:03 +0000",
+      "minecraft:ghast": "2025-06-20 04:15:35 +0000",
+      "minecraft:hoglin": "2025-06-20 03:01:41 +0000",
+      "minecraft:piglin": "2025-06-20 02:52:52 +0000",
       "minecraft:enderman": "2025-06-19 04:59:36 +0000",
+      "minecraft:magma_cube": "2025-06-20 04:25:22 +0000",
       "minecraft:spider": "2025-06-19 05:12:47 +0000",
       "minecraft:piglin_brute": "2025-06-20 03:07:04 +0000",
       "minecraft:zombie": "2025-06-19 04:47:26 +0000",
       "minecraft:creeper": "2025-06-19 04:47:24 +0000",
-      "minecraft:ghast": "2025-06-20 04:15:35 +0000",
-      "minecraft:slime": "2025-06-19 07:20:10 +0000",
-      "minecraft:hoglin": "2025-06-20 03:01:41 +0000"
+      "minecraft:slime": "2025-06-19 07:20:10 +0000"
     },
     "done": false
   },
@@ -1774,6 +1778,7 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-06-19 07:27:44 +0000",
       "minecraft:nether_wastes": "2025-06-20 03:05:25 +0000",
+      "minecraft:soul_sand_valley": "2025-06-20 04:23:04 +0000",
       "minecraft:warped_forest": "2025-06-20 02:50:22 +0000"
     },
     "done": false
@@ -2249,6 +2254,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-06-20 02:33:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-06-20 04:25:00 +0000"
     },
     "done": true
   },

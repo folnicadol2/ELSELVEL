@@ -185,3 +185,5 @@
 [04:19:01] [Server thread/INFO]: [InfernalMobs] Entity remove due to Morph
 [04:19:17] [Server thread/INFO]: Named entity EnderMan['Infernal Enderman'/31505, uuid='5221ec44-9a4e-4131-b8dd-845f281d0e50', l='ServerLevel[world_nether]', x=-389.61, y=69.18, z=-120.52, cpos=[-25, -8], tl=321, v=true] died: Infernal Enderman was slain by _elu
 [04:21:56] [Server thread/INFO]: Named entity Ghast['Infernal Ghast'/31682, uuid='23658175-1e03-4868-86e2-8111634ca209', l='ServerLevel[world_nether]', x=-493.07, y=75.00, z=-50.05, cpos=[-31, -4], tl=1394, v=true] died: Infernal Ghast was shot by _elu
+[04:25:00] [Server thread/INFO]: _elu has made the advancement [A Terrible Fortress]
+[04:26:07] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/32669, uuid='591c9851-bafc-4763-adcc-afa2d0759d9b', l='ServerLevel[world_nether]', x=-718.88, y=103.57, z=165.95, cpos=[-45, 10], tl=2582, v=true] died: Infernal Skeleton suffocated in a wall
