@@ -167,3 +167,9 @@
 [03:17:59] [Server thread/INFO]: deboabanreservas was shot by Skeleton
 [03:20:45] [Server thread/INFO]: _elu burned to death
 [03:21:27] [Server thread/INFO]: Named entity Zombie['Infernal Zombie'/23538, uuid='e10f0360-e060-49b6-981b-e77d9789b29e', l='ServerLevel[world]', x=-832.18, y=59.00, z=-2101.40, cpos=[-53, -132], tl=3887, v=true] died: Infernal Zombie was slain by _elu
+[03:22:08] [Server thread/INFO]: deboabanreservas was slain by Zombie
+[03:23:28] [Server thread/INFO]: deboabanreservas was slain by Zombie
+[03:25:20] [Server thread/INFO]: deboabanreservas lost connection: Disconnected
+[03:25:20] [Server thread/INFO]: deboabanreservas left the game
+[03:30:18] [Server thread/INFO]: _elu issued server command: /xp add _elu 12323123
+[03:30:18] [Server thread/INFO]: [_elu: Gave 12323123 experience points to _elu]
