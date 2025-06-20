@@ -151,3 +151,19 @@
 [03:11:05] [Server thread/INFO]: _elu has made the advancement [Hidden in the Depths]
 [03:11:13] [Server thread/INFO]: _elu issued server command: /tp deboabanreservas _elu
 [03:11:13] [Server thread/INFO]: [_elu: Teleported deboabanreservas to _elu]
+[03:13:23] [Server thread/INFO]: _elu issued server command: /home a
+[03:13:35] [Server thread/INFO]: _elu issued server command: /tp deboabanreservas
+[03:13:35] [Server thread/INFO]: [_elu: Teleported _elu to deboabanreservas]
+[03:14:34] [Server thread/INFO]: deboabanreservas was slain by Piglin
+[03:14:44] [Server thread/INFO]: deboabanreservas issued server command: /tp deboabanreservas _elu
+[03:14:44] [Server thread/INFO]: [deboabanreservas: Teleported deboabanreservas to _elu]
+[03:15:10] [Server thread/INFO]: Named entity Hoglin['Infernal Hoglin'/20824, uuid='1fe268c4-b1f2-468e-b917-b1b2a9e2de62', l='ServerLevel[world_nether]', x=-331.86, y=30.00, z=-166.60, cpos=[-21, -11], tl=12403, v=true] died: Infernal Hoglin tried to swim in lava
+[03:15:39] [Server thread/INFO]: deboabanreservas was slain by Hoglin
+[03:15:48] [Server thread/INFO]: deboabanreservas issued server command: /tp deboabanreservas _elu
+[03:15:48] [Server thread/INFO]: [deboabanreservas: Teleported deboabanreservas to _elu]
+[03:16:27] [Server thread/INFO]: deboabanreservas issued server command: /home casa
+[03:16:30] [Server thread/INFO]: _elu issued server command: /homema
+[03:16:33] [Server thread/INFO]: _elu issued server command: /home a
+[03:17:59] [Server thread/INFO]: deboabanreservas was shot by Skeleton
+[03:20:45] [Server thread/INFO]: _elu burned to death
+[03:21:27] [Server thread/INFO]: Named entity Zombie['Infernal Zombie'/23538, uuid='e10f0360-e060-49b6-981b-e77d9789b29e', l='ServerLevel[world]', x=-832.18, y=59.00, z=-2101.40, cpos=[-53, -132], tl=3887, v=true] died: Infernal Zombie was slain by _elu

@@ -380,6 +380,7 @@
       "minecraft:piglin": "2025-06-20 02:52:52 +0000",
       "minecraft:enderman": "2025-06-19 04:59:36 +0000",
       "minecraft:spider": "2025-06-19 05:12:47 +0000",
+      "minecraft:piglin_brute": "2025-06-20 03:07:04 +0000",
       "minecraft:zombie": "2025-06-19 04:47:26 +0000",
       "minecraft:creeper": "2025-06-19 04:47:24 +0000",
       "minecraft:slime": "2025-06-19 07:20:10 +0000",
@@ -1799,9 +1800,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-20 03:11:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2025-06-20 02:59:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-20 03:11:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-06-20 03:11:06 +0000"
     },
     "done": true
   },
@@ -1868,6 +1887,12 @@
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2025-06-20 02:33:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-06-20 03:11:05 +0000"
     },
     "done": true
   },
@@ -1967,9 +1992,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-20 03:11:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-20 03:11:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2025-06-20 02:47:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-20 03:11:35 +0000"
     },
     "done": true
   },
@@ -1988,6 +2031,12 @@
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2025-06-20 02:47:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-06-20 03:11:05 +0000"
     },
     "done": true
   },
@@ -2018,6 +2067,12 @@
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-06-20 03:05:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-20 03:11:35 +0000"
     },
     "done": true
   },
@@ -2063,6 +2118,18 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-06-20 03:11:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-06-20 03:11:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2025-06-20 02:59:25 +0000"
@@ -2096,6 +2163,12 @@
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_quartz": "2025-06-20 02:59:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-20 03:11:35 +0000"
     },
     "done": true
   },
