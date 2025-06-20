@@ -378,11 +378,13 @@
     "criteria": {
       "minecraft:skeleton": "2025-06-19 04:48:01 +0000",
       "minecraft:piglin": "2025-06-20 02:52:52 +0000",
+      "minecraft:zombified_piglin": "2025-06-20 04:18:37 +0000",
       "minecraft:enderman": "2025-06-19 04:59:36 +0000",
       "minecraft:spider": "2025-06-19 05:12:47 +0000",
       "minecraft:piglin_brute": "2025-06-20 03:07:04 +0000",
       "minecraft:zombie": "2025-06-19 04:47:26 +0000",
       "minecraft:creeper": "2025-06-19 04:47:24 +0000",
+      "minecraft:ghast": "2025-06-20 04:15:35 +0000",
       "minecraft:slime": "2025-06-19 07:20:10 +0000",
       "minecraft:hoglin": "2025-06-20 03:01:41 +0000"
     },

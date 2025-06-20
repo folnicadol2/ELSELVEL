@@ -181,3 +181,7 @@
 [04:01:04] [Server thread/INFO]: Named entity Zombie['Infernal Zombie'/28796, uuid='36f5e8b5-cc9d-4a27-a4b2-450172fce96c', l='ServerLevel[world]', x=-849.49, y=33.67, z=-2208.20, cpos=[-54, -139], tl=1137, v=true] died: Infernal Zombie suffocated in a wall
 [04:06:06] [Async Chat Thread - #4/INFO]: [Not Secure] <_elu> asd
 [04:11:40] [Async Chat Thread - #6/INFO]: [Not Secure] <_elu> asd
+[04:15:24] [Server thread/INFO]: _elu issued server command: /seed
+[04:19:01] [Server thread/INFO]: [InfernalMobs] Entity remove due to Morph
+[04:19:17] [Server thread/INFO]: Named entity EnderMan['Infernal Enderman'/31505, uuid='5221ec44-9a4e-4131-b8dd-845f281d0e50', l='ServerLevel[world_nether]', x=-389.61, y=69.18, z=-120.52, cpos=[-25, -8], tl=321, v=true] died: Infernal Enderman was slain by _elu
+[04:21:56] [Server thread/INFO]: Named entity Ghast['Infernal Ghast'/31682, uuid='23658175-1e03-4868-86e2-8111634ca209', l='ServerLevel[world_nether]', x=-493.07, y=75.00, z=-50.05, cpos=[-31, -4], tl=1394, v=true] died: Infernal Ghast was shot by _elu
