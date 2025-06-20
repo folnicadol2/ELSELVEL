@@ -191,3 +191,7 @@
 [04:36:52] [Server thread/INFO]: _elu issued server command: /sethome blazes
 [04:36:54] [Server thread/INFO]: _elu issued server command: /home a
 [04:39:21] [Server thread/INFO]: Named entity Zombie['Infernal Zombie'/34683, uuid='d14d9172-054c-4519-9b36-04883fde0334', l='ServerLevel[world]', x=-846.75, y=49.30, z=-2066.36, cpos=[-53, -130], tl=930, v=true] died: Infernal Zombie suffocated in a wall
+[04:46:56] [Server thread/WARN]: _elu moved too quickly! -8.882419541920854,3.2468000194787976,4.734428670343277
+[04:50:57] [Async Chat Thread - #8/INFO]: [Not Secure] <_elu> assd
+[04:51:32] [Server thread/INFO]: _elu issued server command: /sethome dm
+[04:51:36] [Server thread/INFO]: _elu issued server command: /home a

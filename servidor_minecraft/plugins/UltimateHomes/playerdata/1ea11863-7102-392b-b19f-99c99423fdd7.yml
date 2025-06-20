@@ -23,3 +23,10 @@ homes:
     yaw: -19.721497
     pitch: 3.0387108
     world: world_nether
+  dm:
+    x: -1083
+    y: -23
+    z: -2292
+    yaw: -5.152277
+    pitch: 42.562656
+    world: world
