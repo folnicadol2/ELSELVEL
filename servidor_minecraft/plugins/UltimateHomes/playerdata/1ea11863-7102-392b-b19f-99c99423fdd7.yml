@@ -16,3 +16,10 @@ homes:
     yaw: -61.560482
     pitch: 51.24996
     world: world_nether
+  blazes:
+    x: -621
+    y: 61
+    z: 141
+    yaw: -19.721497
+    pitch: 3.0387108
+    world: world_nether

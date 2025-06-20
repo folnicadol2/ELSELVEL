@@ -187,3 +187,7 @@
 [04:21:56] [Server thread/INFO]: Named entity Ghast['Infernal Ghast'/31682, uuid='23658175-1e03-4868-86e2-8111634ca209', l='ServerLevel[world_nether]', x=-493.07, y=75.00, z=-50.05, cpos=[-31, -4], tl=1394, v=true] died: Infernal Ghast was shot by _elu
 [04:25:00] [Server thread/INFO]: _elu has made the advancement [A Terrible Fortress]
 [04:26:07] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/32669, uuid='591c9851-bafc-4763-adcc-afa2d0759d9b', l='ServerLevel[world_nether]', x=-718.88, y=103.57, z=165.95, cpos=[-45, 10], tl=2582, v=true] died: Infernal Skeleton suffocated in a wall
+[04:33:21] [Server thread/INFO]: _elu has made the advancement [Into Fire]
+[04:36:52] [Server thread/INFO]: _elu issued server command: /sethome blazes
+[04:36:54] [Server thread/INFO]: _elu issued server command: /home a
+[04:39:21] [Server thread/INFO]: Named entity Zombie['Infernal Zombie'/34683, uuid='d14d9172-054c-4519-9b36-04883fde0334', l='ServerLevel[world]', x=-846.75, y=49.30, z=-2066.36, cpos=[-53, -130], tl=930, v=true] died: Infernal Zombie suffocated in a wall
