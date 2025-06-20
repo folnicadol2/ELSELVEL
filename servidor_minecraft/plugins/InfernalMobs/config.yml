@@ -11,7 +11,7 @@
 # <abilities> = A list of about 3-5 (whatever can fit) names of abilities the boss has.
 # <mobName> = Name of the mob, so if the mob is a creeper the mobName will be "Creeper".
 
-chance: 100
+chance: 65
 # mobChances:
 #  Ghast: 150
 # levelChance:

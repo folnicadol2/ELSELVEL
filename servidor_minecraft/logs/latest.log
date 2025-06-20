@@ -112,3 +112,5 @@
 [01:04:44] [Server thread/INFO]: deboabanreservas[/127.120.3.81:43855] logged in with entity id 575 at ([world]-898.3654798471613, 110.0, -2126.1462205296707)
 [01:05:42] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/577, uuid='501a4639-67b0-44c6-b3a7-fda9477ef41b', l='ServerLevel[world]', x=-922.49, y=48.67, z=-2173.55, cpos=[-58, -136], tl=1167, v=true] died: Infernal Skeleton suffocated in a wall
 [01:07:07] [Server thread/INFO]: _elu has made the advancement [Enchanter]
+[01:12:20] [Server thread/INFO]: _elu issued server command: /sethome a
+[01:13:21] [Server thread/INFO]: _elu issued server command: /infernalmobs reload

@@ -1,4 +1,11 @@
 player:
   info:
     lastSeenAs: _elu
-homes: {}
+homes:
+  a:
+    x: -899
+    y: 110
+    z: -2126
+    yaw: 26.567566
+    pitch: 31.079327
+    world: world
