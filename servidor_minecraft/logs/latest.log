@@ -109,3 +109,8 @@
 [05:40:05] [Server thread/INFO]: [InfernalMobs] [STDOUT] Can't spawn mount!
 [05:40:05] [Server thread/WARN]: Nag author(s): '[Eliminator]' of 'InfernalMobs v6.8' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
 [05:40:05] [Server thread/INFO]: [InfernalMobs] [STDOUT] ENDER_DRAGON is not a valid Entity!
+[05:45:58] [Server thread/INFO]: deboabanreservas issued server command: /home casa
+[05:46:11] [Server thread/INFO]: _elu issued server command: /home a
+[05:46:28] [Server thread/INFO]: deboabanreservas has made the advancement [Take Aim]
+[05:46:51] [Server thread/INFO]: deboabanreservas has made the advancement [Bee Our Guest]
+[05:54:40] [Server thread/INFO]: Named entity Piglin['Infernal Piglin'/12740, uuid='fdbc300f-fa02-44c2-8b09-94ba22176e15', l='ServerLevel[world_nether]', x=-74.03, y=38.00, z=-270.22, cpos=[-5, -17], tl=548, v=true] died: Infernal Piglin tried to swim in lava
