@@ -75,3 +75,13 @@
 [04:51:05] [Server thread/INFO]: _elu joined the game
 [04:51:05] [Server thread/INFO]: _elu[/127.3.40.75:42603] logged in with entity id 1196 at ([world_nether]-34.9731830507053, 66.30450123248079, -418.85183161339677)
 [04:53:24] [Server thread/INFO]: Named entity Piglin['Infernal Piglin'/1273, uuid='e58f9f55-70cf-4dcd-ad1d-505a987d388c', l='ServerLevel[world_nether]', x=-58.58, y=74.00, z=-432.29, cpos=[-4, -28], tl=7071, v=true] died: Infernal Piglin was shot by _elu
+[04:55:43] [Server thread/INFO]: _elu fell from a high place
+[04:57:50] [Server thread/INFO]: deboabanreservas issued server command: /tp deboabanreservas
+[04:57:50] [Server thread/INFO]: [deboabanreservas: Teleported deboabanreservas to deboabanreservas]
+[04:57:59] [Server thread/INFO]: deboabanreservas issued server command: /tp deboabanreservas _elu
+[04:57:59] [Server thread/INFO]: [deboabanreservas: Teleported deboabanreservas to _elu]
+[05:01:54] [Server thread/INFO]: deboabanreservas issued server command: /tp _elu
+[05:01:54] [Server thread/INFO]: [deboabanreservas: Teleported deboabanreservas to _elu]
+[05:03:02] [Server thread/INFO]: deboabanreservas was slain by Enderman
+[05:03:11] [Server thread/INFO]: deboabanreservas issued server command: /tp _elu
+[05:03:11] [Server thread/INFO]: [deboabanreservas: Teleported deboabanreservas to _elu]
