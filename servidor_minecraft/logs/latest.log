@@ -123,3 +123,12 @@
 [06:02:37] [Server thread/INFO]: Named entity Piglin['Infernal Piglin'/14724, uuid='56c4d15b-4697-4f41-a87a-bb71e45b4ed1', l='ServerLevel[world_nether]', x=-167.79, y=83.00, z=-197.92, cpos=[-11, -13], tl=2177, v=true] died: Infernal Piglin was slain by Hoglin
 [06:04:27] [Server thread/INFO]: deboabanreservas issued server command: /home casa
 [06:07:02] [Server thread/INFO]: Named entity Zombie['Infernal Zombie'/16132, uuid='d33ca46f-0c24-4c43-af69-3b41c6627666', l='ServerLevel[world]', x=-927.92, y=5.70, z=-2055.99, cpos=[-58, -129], tl=1110, v=true] died: Infernal Zombie suffocated in a wall
+[06:22:23] [Paper Common Worker #0/ERROR]: Detected setBlock in a far chunk [21, -143], pos: BlockPos{x=345, y=56, z=-2273}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[06:23:26] [Server thread/INFO]: deboabanreservas issued server command: /tp _elu
+[06:23:26] [Server thread/INFO]: [deboabanreservas: Teleported deboabanreservas to _elu]
+[06:24:25] [Server thread/INFO]: _elu has made the advancement [Eye Spy]
+[06:24:30] [Server thread/INFO]: Named entity Zombie['Infernal Zombie'/21829, uuid='4ff7f124-92b4-41df-a7dc-5a5524212717', l='ServerLevel[world]', x=466.82, y=20.70, z=-2200.19, cpos=[29, -138], tl=1572, v=true] died: Infernal Zombie suffocated in a wall
+[06:24:31] [Server thread/INFO]: deboabanreservas fell from a high place
+[06:24:31] [Server thread/INFO]: deboabanreservas has made the advancement [Eye Spy]
+[06:24:41] [Server thread/INFO]: deboabanreservas issued server command: /tp _elu
+[06:24:41] [Server thread/INFO]: [deboabanreservas: Teleported deboabanreservas to _elu]
