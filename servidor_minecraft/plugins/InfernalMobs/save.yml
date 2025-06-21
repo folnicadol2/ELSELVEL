@@ -269,7 +269,6 @@ fe7818b3-e6ba-4cc2-9dac-f15dd1dfec58: storm,gravity,withering
 f4963505-ff64-4b06-b4f0-53106d284a79: ghost,ender,archer,sapper,sprint
 c13afcd4-36e4-4cae-b7b6-2c03f13bd9cb: mounted,sapper,gravity,potions,sprint,withering
 f883c95b-a596-4eb9-95ef-4cdea1d00508: potions,vengeance,ghost,ender,firework
-dc652579-6b1f-4936-af7c-ff5d6dc8955a: morph,gravity,bullwark,flying,armoured
 176cf9d4-b9cc-44fa-ad35-f703f62df7e3: rust,bullwark,storm,quicksand
 1253d6bd-627e-4681-9398-7fe3922afd2a: firework,sapper,sprint,blinding,necromancer,vengeance
 d1cd98c3-239b-4ac1-bf5d-71cb47c00390: sapper,poisonous,bullwark,necromancer
@@ -282,7 +281,18 @@ b764762f-0166-4938-8aeb-48b743e06dfd: sapper,firework,bullwark,morph,quicksand
 fa1de58e-a5a7-4019-ad24-97b876155d5e: bullwark,ghost,mama,potions,flying,thief
 5c7b1c4b-5545-4a8e-8aeb-de63ee666b61: archer,mama,potions
 40208d91-609c-4701-81ae-3dbd9f1d79c7: 1up,lifesteal,ghastly,sprint,mounted
-cb8261f0-2711-4a25-8867-33a5676b4d88: vengeance,withering,ghastly
 668c2a92-27c1-4016-ab2d-7e88e82f3734: archer,cloaked,thief,vengeance,webber,sprint
 042fe184-153d-4ea9-bb3f-280953a1bb1b: rust,cloaked,ghost,archer,weakness
 dbdd3ba8-bdb8-4b5e-b5c1-32ba669f13d6: mounted,withering,sapper
+cf4976e3-ffc7-4503-881b-659f94ff1889: ender,quicksand,tosser,sapper,mounted,flying,poisonous
+6f9172b5-7a9d-4171-8fd4-051cb9254f38: ghost,archer,molten,necromancer,webber
+59b30761-72e6-404a-b6aa-db928c325b1e: sprint,ghost,mounted,morph
+5b6f857b-ea22-40f1-906c-e4d5d7e60af7: molten,cloaked,armoured,lifesteal
+44c36f19-99b6-447e-a7a8-2ba59989fa32: ender,firework,sapper
+08d3b291-e6bd-4e0f-b390-1d1b4d0be3d0: bullwark,cloaked,rust,vengeance
+799edb62-d08e-4638-9d9a-55932e6a0ba4: cloaked,ender,poisonous,berserk
+dbd07bba-09d7-44bd-96b4-71ead4ae4753: cloaked,berserk,ghastly
+2fae33c3-f126-4d86-bc82-a499085caac1: storm,gravity,poisonous,berserk
+fa3eae2a-feca-41cf-9c66-1eee30feb68c: potions,ghost,mounted,berserk,poisonous,ender,rust
+2cbc4f7e-0e97-4199-b2c4-9d6b6147dd02: mama,ghost,thief,mounted,lifesteal,archer
+872df89c-433b-448f-bda2-5dbde5b6a9ff: archer,poisonous,rust,mama,storm,weakness,cloaked
