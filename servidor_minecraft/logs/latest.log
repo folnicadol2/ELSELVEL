@@ -122,3 +122,4 @@
 [06:01:50] [Server thread/WARN]: Horse (vehicle of _elu) moved wrongly! 1.5369260767083688
 [06:02:37] [Server thread/INFO]: Named entity Piglin['Infernal Piglin'/14724, uuid='56c4d15b-4697-4f41-a87a-bb71e45b4ed1', l='ServerLevel[world_nether]', x=-167.79, y=83.00, z=-197.92, cpos=[-11, -13], tl=2177, v=true] died: Infernal Piglin was slain by Hoglin
 [06:04:27] [Server thread/INFO]: deboabanreservas issued server command: /home casa
+[06:07:02] [Server thread/INFO]: Named entity Zombie['Infernal Zombie'/16132, uuid='d33ca46f-0c24-4c43-af69-3b41c6627666', l='ServerLevel[world]', x=-927.92, y=5.70, z=-2055.99, cpos=[-58, -129], tl=1110, v=true] died: Infernal Zombie suffocated in a wall
