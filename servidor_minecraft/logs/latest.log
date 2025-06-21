@@ -103,3 +103,9 @@
 [05:24:15] [Server thread/INFO]: [InfernalMobs] [STDOUT] Can't spawn mount!
 [05:24:15] [Server thread/WARN]: Nag author(s): '[Eliminator]' of 'InfernalMobs v6.8' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
 [05:24:15] [Server thread/INFO]: [InfernalMobs] [STDOUT] ENDER_DRAGON is not a valid Entity!
+[05:29:10] [Server thread/INFO]: deboabanreservas issued server command: /tp _elu
+[05:29:10] [Server thread/INFO]: [deboabanreservas: Teleported deboabanreservas to _elu]
+[05:33:06] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/8890, uuid='4da1c6c8-30a0-4b4b-aff6-e1e2a4a902fe', l='ServerLevel[world]', x=-660.50, y=33.00, z=-2415.50, cpos=[-42, -151], tl=807, v=true] died: Infernal Skeleton suffocated in a wall
+[05:40:05] [Server thread/INFO]: [InfernalMobs] [STDOUT] Can't spawn mount!
+[05:40:05] [Server thread/WARN]: Nag author(s): '[Eliminator]' of 'InfernalMobs v6.8' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[05:40:05] [Server thread/INFO]: [InfernalMobs] [STDOUT] ENDER_DRAGON is not a valid Entity!
