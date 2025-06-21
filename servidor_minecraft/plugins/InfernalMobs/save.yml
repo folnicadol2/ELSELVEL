@@ -165,7 +165,6 @@ d49e1546-4d2a-46cb-888b-ac7e95cd0133: webber,sprint,withering,bullwark,quicksand
 3ba0a8f1-4154-40ac-b755-f4f1edcd0cb8: bullwark,ender,molten,mama,armoured,withering,explode
 2fcb28a4-380e-419f-8067-e5a310121189: lifesteal,morph,rust,necromancer,flying,blinding,molten
 487123af-f485-4e6c-af88-11d8b8846cb5: armoured,ender,flying,gravity,tosser,ghost
-833b3f25-7e1c-4d78-acc7-c0e1751cc78b: morph,ender,weakness,necromancer,webber,quicksand,mounted
 12adf54a-ed15-4d8b-ad23-44cb592e3b35: cloaked,necromancer,tosser,potions
 d5e89c64-6b52-4dea-a8f9-6909f9313c15: poisonous,cloaked,sprint
 f250d7b2-6734-4b11-8517-92799c07587b: sprint,vengeance,armoured
@@ -283,9 +282,7 @@ fa1de58e-a5a7-4019-ad24-97b876155d5e: bullwark,ghost,mama,potions,flying,thief
 40208d91-609c-4701-81ae-3dbd9f1d79c7: 1up,lifesteal,ghastly,sprint,mounted
 668c2a92-27c1-4016-ab2d-7e88e82f3734: archer,cloaked,thief,vengeance,webber,sprint
 042fe184-153d-4ea9-bb3f-280953a1bb1b: rust,cloaked,ghost,archer,weakness
-dbdd3ba8-bdb8-4b5e-b5c1-32ba669f13d6: mounted,withering,sapper
 cf4976e3-ffc7-4503-881b-659f94ff1889: ender,quicksand,tosser,sapper,mounted,flying,poisonous
-6f9172b5-7a9d-4171-8fd4-051cb9254f38: ghost,archer,molten,necromancer,webber
 59b30761-72e6-404a-b6aa-db928c325b1e: sprint,ghost,mounted,morph
 5b6f857b-ea22-40f1-906c-e4d5d7e60af7: molten,cloaked,armoured,lifesteal
 44c36f19-99b6-447e-a7a8-2ba59989fa32: ender,firework,sapper
@@ -296,3 +293,17 @@ dbd07bba-09d7-44bd-96b4-71ead4ae4753: cloaked,berserk,ghastly
 fa3eae2a-feca-41cf-9c66-1eee30feb68c: potions,ghost,mounted,berserk,poisonous,ender,rust
 2cbc4f7e-0e97-4199-b2c4-9d6b6147dd02: mama,ghost,thief,mounted,lifesteal,archer
 872df89c-433b-448f-bda2-5dbde5b6a9ff: archer,poisonous,rust,mama,storm,weakness,cloaked
+e58f23bf-15d5-4ebc-ad84-b8835e642867: weakness,sapper,storm
+962c5e0d-1a34-4c77-9fbc-ac473147d91d: ender,armoured,molten,ghost,1up,vengeance
+3af19faf-2cc6-4f15-9c51-0cbf77b378e1: tosser,armoured,ender,ghastly,rust
+b238896c-734f-4ef9-bbae-cc151c6a3811: poisonous,armoured,blinding,lifesteal,ghastly,gravity
+7a602765-d1e2-4393-ab3c-1fb6458c4c3e: rust,lifesteal,cloaked
+b4230a99-14a6-4928-b17b-127807fac687: armoured,poisonous,mounted,rust
+269ab47a-8ce0-4a96-8ebc-fabb337e1e39: armoured,1up,storm,withering,ghastly,sapper,thief
+6d7425a7-e831-483e-8d6f-30e6a9661705: ghastly,vengeance,poisonous,potions,sprint
+979376ef-57a6-4319-ab9b-7b229d8d74a6: ghost,explode,blinding,berserk,necromancer,morph
+a8befeaa-222f-435b-9ae4-f2f54ee3aa34: 1up,cloaked,archer,blinding
+c9fa5611-1999-41a0-845b-3ce273829eff: thief,mounted,molten,explode,lifesteal,potions,withering
+cd29eea4-a4c8-4563-a085-3aa80fbf3f28: morph,berserk,blinding,storm,webber,bullwark,flying
+1df3ac06-fe44-44e4-ae5d-159d3b39aee6: 1up,gravity,poisonous,quicksand,mounted,morph
+35c3a72f-d7ca-483c-9140-59ba8e5c9c8e: archer,webber,sapper,berserk,ender

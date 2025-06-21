@@ -95,3 +95,11 @@
 [05:10:45] [Server thread/INFO]: [deboabanreservas: Teleported deboabanreservas to _elu]
 [05:10:59] [Server thread/INFO]: Named entity EnderMan['Infernal Enderman'/4719, uuid='c7b66ea2-dd78-4da3-8098-4e63295343c6', l='ServerLevel[world_nether]', x=15.88, y=44.19, z=-368.83, cpos=[0, -24], tl=1808, v=true] died: Infernal Enderman was slain by _elu
 [05:13:17] [Server thread/INFO]: deboabanreservas has made the advancement [A Terrible Fortress]
+[05:18:38] [Server thread/INFO]: Named entity Piglin['Infernal Piglin'/4064, uuid='dbdd3ba8-bdb8-4b5e-b5c1-32ba669f13d6', l='ServerLevel[world_nether]', x=-114.91, y=69.67, z=-304.05, cpos=[-8, -20], tl=18054, v=true] died: Infernal Piglin suffocated in a wall
+[05:20:14] [Server thread/INFO]: _elu issued server command: /home a
+[05:20:32] [Server thread/INFO]: deboabanreservas issued server command: /home casa
+[05:22:14] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/6463, uuid='833b3f25-7e1c-4d78-acc7-c0e1751cc78b', l='ServerLevel[world]', x=-1028.22, y=46.51, z=-2311.06, cpos=[-65, -145], tl=32999, v=true] died: Infernal Skeleton suffocated in a wall
+[05:22:46] [Server thread/INFO]: _elu issued server command: /home a
+[05:24:15] [Server thread/INFO]: [InfernalMobs] [STDOUT] Can't spawn mount!
+[05:24:15] [Server thread/WARN]: Nag author(s): '[Eliminator]' of 'InfernalMobs v6.8' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[05:24:15] [Server thread/INFO]: [InfernalMobs] [STDOUT] ENDER_DRAGON is not a valid Entity!
