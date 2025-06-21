@@ -386,6 +386,7 @@
       "minecraft:piglin": "2025-06-20 02:52:52 +0000",
       "minecraft:enderman": "2025-06-19 04:59:36 +0000",
       "minecraft:magma_cube": "2025-06-20 04:25:22 +0000",
+      "minecraft:endermite": "2025-06-21 05:51:23 +0000",
       "minecraft:spider": "2025-06-19 05:12:47 +0000",
       "minecraft:piglin_brute": "2025-06-20 03:07:04 +0000",
       "minecraft:zombie": "2025-06-19 04:47:26 +0000",
@@ -2470,6 +2471,12 @@
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2025-06-21 05:12:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-06-21 05:58:44 +0000"
     },
     "done": true
   },

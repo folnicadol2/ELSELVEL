@@ -114,3 +114,11 @@
 [05:46:28] [Server thread/INFO]: deboabanreservas has made the advancement [Take Aim]
 [05:46:51] [Server thread/INFO]: deboabanreservas has made the advancement [Bee Our Guest]
 [05:54:40] [Server thread/INFO]: Named entity Piglin['Infernal Piglin'/12740, uuid='fdbc300f-fa02-44c2-8b09-94ba22176e15', l='ServerLevel[world_nether]', x=-74.03, y=38.00, z=-270.22, cpos=[-5, -17], tl=548, v=true] died: Infernal Piglin tried to swim in lava
+[05:56:27] [Server thread/INFO]: Named entity ZombifiedPiglin['Infernal Zombified piglin'/13032, uuid='d53287da-c374-4dd6-b339-ca42bdd27889', l='ServerLevel[world_nether]', x=-139.47, y=114.67, z=-279.85, cpos=[-9, -18], tl=1096, v=true] died: Infernal Zombified piglin suffocated in a wall
+[05:56:31] [Server thread/INFO]: deboabanreservas has made the advancement [Who is Cutting Onions?]
+[05:58:44] [Server thread/INFO]: _elu has made the advancement [Best Friends Forever]
+[06:01:50] [Server thread/WARN]: Horse (vehicle of _elu) moved wrongly! 0.45862278113145294
+[06:01:50] [Server thread/WARN]: Horse (vehicle of _elu) moved wrongly! 0.9948521157630239
+[06:01:50] [Server thread/WARN]: Horse (vehicle of _elu) moved wrongly! 1.5369260767083688
+[06:02:37] [Server thread/INFO]: Named entity Piglin['Infernal Piglin'/14724, uuid='56c4d15b-4697-4f41-a87a-bb71e45b4ed1', l='ServerLevel[world_nether]', x=-167.79, y=83.00, z=-197.92, cpos=[-11, -13], tl=2177, v=true] died: Infernal Piglin was slain by Hoglin
+[06:04:27] [Server thread/INFO]: deboabanreservas issued server command: /home casa
