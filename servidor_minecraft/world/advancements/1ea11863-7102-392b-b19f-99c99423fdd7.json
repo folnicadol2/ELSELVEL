@@ -2791,5 +2791,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-06-22 21:42:52 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3953
 }
