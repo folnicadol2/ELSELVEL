@@ -254,3 +254,14 @@
 [23:10:41] [Server thread/INFO]: Named entity Creeper['Infernal Creeper'/38174, uuid='35cc4669-2118-4742-9356-3f5026134538', l='ServerLevel[world]', x=-885.89, y=211.50, z=-2052.02, cpos=[-56, -129], tl=6572, v=true] died: Infernal Creeper was slain by _elu
 [23:14:29] [Server thread/INFO]: _elu issued server command: /home a
 [23:17:39] [Server thread/INFO]: Named entity Zombie['Infernal Zombie'/39909, uuid='c5f0ae45-9da8-405a-b4d6-db8fbc65f66b', l='ServerLevel[world]', x=-964.17, y=54.67, z=-2113.83, cpos=[-61, -133], tl=821, v=true] died: Infernal Zombie suffocated in a wall
+[23:19:00] [Server thread/INFO]: _elu issued server command: /home xp
+[23:21:20] [Async Chat Thread - #7/INFO]: [Not Secure] <_elu> asd
+[23:21:39] [Async Chat Thread - #7/INFO]: [Not Secure] <_elu> asd
+[23:22:11] [Async Chat Thread - #7/INFO]: [Not Secure] <_elu> asd
+[23:22:20] [Server thread/INFO]: Named entity Zombie['Infernal Zombie'/40264, uuid='f2ce8ccb-e1b7-4245-951b-9f7773fd8ebb', l='ServerLevel[world]', x=-886.39, y=211.90, z=-2052.70, cpos=[-56, -129], tl=1317, v=true] died: Infernal Zombie went off with a bang
+[23:23:04] [Server thread/INFO]: Named entity Zombie['Infernal Zombie'/40355, uuid='62f48dba-cf19-4f3a-9bc5-a84affdf3c4b', l='ServerLevel[world]', x=-878.15, y=235.14, z=-2050.64, cpos=[-55, -129], tl=822, v=true] died: Infernal Zombie suffocated in a wall
+[23:23:34] [Server thread/INFO]: Named entity Zombie['Infernal Zombie'/40363, uuid='6ef00643-6b50-4f7c-85a9-c81a88b28e8d', l='ServerLevel[world]', x=-885.30, y=211.50, z=-2051.30, cpos=[-56, -129], tl=1327, v=true] died: Infernal Zombie was burned to a crisp while fighting _elu
+[23:24:13] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/39408, uuid='e66c3c8f-0bc9-4f28-b16c-9ee4fa641715', l='ServerLevel[world]', x=-898.23, y=100.00, z=-2099.46, cpos=[-57, -132], tl=15556, v=true] died: Infernal Skeleton suffocated in a wall
+[23:25:10] [Server thread/INFO]: _elu issued server command: /home a
+[23:25:43] [Server thread/INFO]: _elu issued server command: /home xp
+[23:27:52] [Server thread/INFO]: Named entity Zombie['Infernal Zombie'/40641, uuid='34d70f5e-75eb-42bd-9f23-dd68b04fb599', l='ServerLevel[world]', x=-885.68, y=211.50, z=-2052.32, cpos=[-56, -129], tl=3504, v=true] died: Infernal Zombie was slain by _elu
