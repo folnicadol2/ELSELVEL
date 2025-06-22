@@ -111,3 +111,5 @@
 [18:13:08] [Server thread/INFO]: MaddieDL left the game
 [18:21:58] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/6304, uuid='5e0f83f9-f622-4f0f-b587-f044d18511f7', l='ServerLevel[world]', x=-858.70, y=35.17, z=-2064.51, cpos=[-54, -130], tl=2466, v=true] died: Infernal Skeleton suffocated in a wall
 [18:24:23] [Server thread/INFO]: _elu issued server command: /infernalmobs reload
+[18:29:37] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/7235, uuid='9b35079a-81b3-4f4e-ac52-4752e4a82264', l='ServerLevel[world]', x=-1003.00, y=101.67, z=-2075.51, cpos=[-63, -130], tl=908, v=true] died: Infernal Skeleton suffocated in a wall
+[18:33:05] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/7484, uuid='fb9b01cd-038c-4bd6-b24c-ff4f0420b772', l='ServerLevel[world]', x=-893.63, y=94.26, z=-2136.62, cpos=[-56, -134], tl=3261, v=true] died: Infernal Skeleton suffocated in a wall
