@@ -195,3 +195,7 @@
 [21:25:31] [Server thread/INFO]: _elu issued server command: /home xp
 [21:27:56] [Server thread/INFO]: _elu issued server command: /home a
 [21:28:17] [Server thread/INFO]: _elu issued server command: /home xp
+[21:37:52] [Server thread/INFO]: [InfernalMobs] Entity remove due to Morph
+[21:38:00] [Server thread/INFO]: [InfernalMobs] Entity remove due to Morph
+[21:38:01] [Server thread/INFO]: Named entity Illusioner['Infernal Illusioner'/29110, uuid='fd21b367-aaa9-48b3-8745-90b052282d19', l='ServerLevel[world]', x=-886.01, y=211.50, z=-2051.97, cpos=[-56, -129], tl=18, v=true] died: Infernal Illusioner was slain by _elu
+[21:42:51] [Server thread/INFO]: Named entity Zombie['Infernal Zombie'/29514, uuid='cd3ce19e-11cb-45aa-bb26-43e93ff16634', l='ServerLevel[world]', x=-885.30, y=211.50, z=-2052.70, cpos=[-56, -129], tl=961, v=true] died: Infernal Zombie was slain by _elu
