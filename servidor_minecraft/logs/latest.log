@@ -207,3 +207,8 @@
 [21:54:29] [Server thread/INFO]: _elu issued server command: /home a
 [21:54:31] [Server thread/INFO]: _elu issued server command: /home xp
 [21:55:21] [Server thread/INFO]: _elu fell off a ladder
+[21:57:45] [Server thread/INFO]: deboabanreservas issued server command: /sethome exp
+[21:58:51] [Server thread/INFO]: [InfernalMobs] [STDOUT] Can't spawn mount!
+[21:58:51] [Server thread/WARN]: Nag author(s): '[Eliminator]' of 'InfernalMobs v6.8' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[21:58:51] [Server thread/INFO]: [InfernalMobs] [STDOUT] ENDER_DRAGON is not a valid Entity!
+[22:00:22] [Server thread/INFO]: _elu issued server command: /home xp
