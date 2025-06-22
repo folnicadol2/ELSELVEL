@@ -89,3 +89,13 @@
 [17:46:58] [Server thread/INFO]: deboabanreservas joined the game
 [17:46:58] [Server thread/INFO]: deboabanreservas[/127.246.221.0:54513] logged in with entity id 742 at ([world]-845.5, 103.0, -2130.5)
 [17:48:03] [Server thread/INFO]: MaddieDL has made the advancement [Cover Me with Diamonds]
+[17:55:03] [Server thread/WARN]: Horse (vehicle of MaddieDL) moved wrongly! 0.29516903797980376
+[17:55:11] [Server thread/WARN]: Horse (vehicle of MaddieDL) moved wrongly! 0.35176634615061175
+[17:55:12] [Server thread/WARN]: Horse (vehicle of MaddieDL) moved wrongly! 0.3245214483915788
+[17:55:12] [Server thread/WARN]: Horse (vehicle of MaddieDL) moved wrongly! 0.307387314484779
+[17:55:12] [Server thread/WARN]: Horse (vehicle of MaddieDL) moved wrongly! 0.796607079524756
+[17:55:12] [Server thread/WARN]: Horse (vehicle of MaddieDL) moved wrongly! 0.3814937102846443
+[18:01:56] [Server thread/INFO]: Named entity Zombie['Infernal Zombie'/2839, uuid='a7e16fd1-8a8a-4fc3-b4fb-0f436f35d9f0', l='ServerLevel[world]', x=-800.78, y=66.17, z=-2373.30, cpos=[-51, -149], tl=2213, v=true] died: Infernal Zombie suffocated in a wall
+[18:02:35] [Server thread/INFO]: _elu issued server command: /home a
+[18:03:13] [Server thread/INFO]: deboabanreservas issued server command: /home
+[18:03:21] [Server thread/INFO]: deboabanreservas issued server command: /home casa
