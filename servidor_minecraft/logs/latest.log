@@ -212,3 +212,7 @@
 [21:58:51] [Server thread/WARN]: Nag author(s): '[Eliminator]' of 'InfernalMobs v6.8' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
 [21:58:51] [Server thread/INFO]: [InfernalMobs] [STDOUT] ENDER_DRAGON is not a valid Entity!
 [22:00:22] [Server thread/INFO]: _elu issued server command: /home xp
+[22:10:46] [Server thread/INFO]: _elu was doomed to fall
+[22:11:40] [Server thread/INFO]: _elu issued server command: /home xp
+[22:12:55] [Server thread/INFO]: Named entity Creeper['Infernal Creeper'/31767, uuid='e292c40f-6e55-4d69-86b0-e64605063471', l='ServerLevel[world]', x=-885.30, y=211.50, z=-2051.30, cpos=[-56, -129], tl=3802, v=true] died: Infernal Creeper was slain by _elu
+[22:16:08] [Server thread/INFO]: Named entity Zombie['Infernal Zombie'/32363, uuid='20d8bf49-e1df-4731-a476-4cf31764dcc3', l='ServerLevel[world]', x=-907.01, y=109.00, z=-2089.06, cpos=[-57, -131], tl=2988, v=true] died: Infernal Zombie was slain by _elu
