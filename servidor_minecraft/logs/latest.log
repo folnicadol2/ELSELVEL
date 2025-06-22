@@ -172,3 +172,13 @@
 [20:53:24] [Server thread/INFO]: Villager Villager['Librarian'/185, uuid='16d99d77-f29e-4e2e-95ee-6b951935b5eb', l='ServerLevel[world]', x=-941.58, y=82.00, z=-1973.25, cpos=[-59, -124], tl=478344, v=true] died, message: 'Librarian was shot by Pillager'
 [21:00:25] [Server thread/INFO]: deboabanreservas issued server command: /tp _elu
 [21:00:25] [Server thread/INFO]: [deboabanreservas: Teleported deboabanreservas to _elu]
+[21:09:58] [Server thread/INFO]: _elu issued server command: /tp de
+[21:10:02] [Server thread/INFO]: _elu issued server command: /tp deboabanreservas
+[21:10:02] [Server thread/INFO]: [_elu: Teleported _elu to deboabanreservas]
+[21:11:47] [Server thread/INFO]: deboabanreservas issued server command: /tp _elu
+[21:11:47] [Server thread/INFO]: [deboabanreservas: Teleported deboabanreservas to _elu]
+[21:15:04] [Server thread/INFO]: _elu issued server command: /sethome xp
+[21:15:06] [Server thread/INFO]: _elu issued server command: /home a
+[21:15:39] [Server thread/INFO]: _elu issued server command: /home xp
+[21:15:59] [Server thread/INFO]: _elu issued server command: /tp deboabanreservas
+[21:15:59] [Server thread/INFO]: [_elu: Teleported _elu to deboabanreservas]
