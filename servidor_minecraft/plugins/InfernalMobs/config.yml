@@ -122,6 +122,10 @@ enabledmobs:
 - ZOGLIN
 - STRIDER
 - ZOMBIFIED_PIGLIN
+- COW
+- SHEEP
+- PIG
+- CHICKEN
 enabledCharmSlots:
 - 0
 - 1

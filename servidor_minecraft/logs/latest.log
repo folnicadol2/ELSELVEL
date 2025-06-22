@@ -123,3 +123,9 @@
 [18:51:07] [Server thread/INFO]: deboabanreservas issued server command: /home casa
 [18:54:56] [Server thread/INFO]: _elu issued server command: /home a
 [19:06:51] [Server thread/INFO]: deboabanreservas issued server command: /home casa
+[19:17:58] [Server thread/INFO]: deboabanreservas issued server command: /home casa
+[19:18:08] [Server thread/INFO]: _elu issued server command: /home a
+[19:20:32] [Server thread/INFO]: _elu issued server command: /infernalmobs reload
+[19:22:35] [Server thread/INFO]: deboabanreservas issued server command: /tp _elu
+[19:22:35] [Server thread/INFO]: [deboabanreservas: Teleported deboabanreservas to _elu]
+[19:23:35] [Server thread/INFO]: deboabanreservas issued server command: /home casa
