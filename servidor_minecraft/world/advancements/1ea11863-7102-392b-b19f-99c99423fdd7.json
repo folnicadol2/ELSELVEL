@@ -2674,5 +2674,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-06-22 18:08:25 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3953
 }

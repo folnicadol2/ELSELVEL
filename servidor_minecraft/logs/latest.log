@@ -99,3 +99,13 @@
 [18:02:35] [Server thread/INFO]: _elu issued server command: /home a
 [18:03:13] [Server thread/INFO]: deboabanreservas issued server command: /home
 [18:03:21] [Server thread/INFO]: deboabanreservas issued server command: /home casa
+[18:04:58] [Server thread/INFO]: Named entity Zombie['Infernal Zombie'/3621, uuid='cd0015a8-5723-438b-bb35-4422154ae0fd', l='ServerLevel[world]', x=-844.25, y=10.00, z=-2085.25, cpos=[-53, -131], tl=2215, v=true] died: Infernal Zombie suffocated in a wall
+[18:07:03] [Server thread/INFO]: MaddieDL has made the advancement [Take Aim]
+[18:07:40] [Server thread/INFO]: deboabanreservas died
+[18:07:48] [Server thread/INFO]: deboabanreservas issued server command: /tp _elu
+[18:07:48] [Server thread/INFO]: [deboabanreservas: Teleported deboabanreservas to _elu]
+[18:08:15] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/3654, uuid='d50753a7-2c1b-437b-8e92-1a92b04a481f', l='ServerLevel[world]', x=-859.49, y=59.00, z=-2101.57, cpos=[-54, -132], tl=5819, v=true] died: Infernal Skeleton was slain by _elu
+[18:09:44] [Async Chat Thread - #0/INFO]: [Not Secure] <MaddieDL> foes
+[18:10:41] [Server thread/INFO]: _elu issued server command: /home a
+[18:13:08] [Server thread/INFO]: MaddieDL lost connection: Disconnected
+[18:13:08] [Server thread/INFO]: MaddieDL left the game
