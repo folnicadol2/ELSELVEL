@@ -37,3 +37,10 @@ homes:
     yaw: 87.40088
     pitch: 38.09476
     world: world
+  granja:
+    x: -884
+    y: 210
+    z: -2053
+    yaw: -110.6555
+    pitch: 43.972366
+    world: world
