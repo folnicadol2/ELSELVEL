@@ -145,3 +145,6 @@
 [19:46:51] [User Authenticator #3/INFO]: UUID of player _elu is 1ea11863-7102-392b-b19f-99c99423fdd7
 [19:46:54] [Server thread/INFO]: _elu joined the game
 [19:46:54] [Server thread/INFO]: _elu[/127.3.40.75:38489] logged in with entity id 20572 at ([world]-899.8755443798099, 109.0, -2101.874024331237)
+[19:56:09] [Server thread/INFO]: _elu lost connection: Disconnected
+[19:56:09] [Server thread/INFO]: _elu left the game
+[19:59:54] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/18124, uuid='a1d7f776-eee5-462b-9dd6-b955f0651537', l='ServerLevel[world]', x=-811.01, y=48.62, z=-1893.95, cpos=[-51, -119], tl=39214, v=true] died: Infernal Skeleton suffocated in a wall
