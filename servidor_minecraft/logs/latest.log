@@ -216,3 +216,7 @@
 [22:11:40] [Server thread/INFO]: _elu issued server command: /home xp
 [22:12:55] [Server thread/INFO]: Named entity Creeper['Infernal Creeper'/31767, uuid='e292c40f-6e55-4d69-86b0-e64605063471', l='ServerLevel[world]', x=-885.30, y=211.50, z=-2051.30, cpos=[-56, -129], tl=3802, v=true] died: Infernal Creeper was slain by _elu
 [22:16:08] [Server thread/INFO]: Named entity Zombie['Infernal Zombie'/32363, uuid='20d8bf49-e1df-4731-a476-4cf31764dcc3', l='ServerLevel[world]', x=-907.01, y=109.00, z=-2089.06, cpos=[-57, -131], tl=2988, v=true] died: Infernal Zombie was slain by _elu
+[22:17:45] [Server thread/INFO]: _elu issued server command: /home cp
+[22:17:51] [Server thread/INFO]: _elu issued server command: /home xp
+[22:21:35] [Server thread/INFO]: Named entity Spider['Infernal Spider'/33305, uuid='ab6e851d-d458-447b-a894-143651c4a364', l='ServerLevel[world]', x=-967.55, y=53.69, z=-2128.55, cpos=[-61, -134], tl=642, v=true] died: Infernal Spider suffocated in a wall
+[22:21:59] [Server thread/INFO]: _elu issued server command: /home xp
