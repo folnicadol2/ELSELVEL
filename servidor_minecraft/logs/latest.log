@@ -193,3 +193,5 @@
 [21:23:56] [Server thread/INFO]: _elu issued server command: /home xp
 [21:24:22] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/27892, uuid='1776e6d7-204f-4526-b337-feb4bb9a62cc', l='ServerLevel[world]', x=-885.65, y=211.50, z=-2051.96, cpos=[-56, -129], tl=2631, v=true] died: Infernal Skeleton was slain by _elu
 [21:25:31] [Server thread/INFO]: _elu issued server command: /home xp
+[21:27:56] [Server thread/INFO]: _elu issued server command: /home a
+[21:28:17] [Server thread/INFO]: _elu issued server command: /home xp
