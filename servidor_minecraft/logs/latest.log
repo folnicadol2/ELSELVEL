@@ -162,3 +162,11 @@
 [20:24:28] [Server thread/INFO]: [InfernalMobs] [STDOUT] ENDER_DRAGON is not a valid Entity!
 [20:26:44] [Server thread/INFO]: Named entity Zombie['Infernal Zombie'/23598, uuid='332d7550-0f48-4a21-b1c5-759e77284291', l='ServerLevel[world]', x=-891.49, y=36.30, z=-2089.75, cpos=[-56, -131], tl=812, v=true] died: Infernal Zombie suffocated in a wall
 [20:32:25] [Server thread/INFO]: _elu issued server command: /sethome granja
+[20:46:45] [Server thread/INFO]: _elu issued server command: /tp deboabanreservas
+[20:46:45] [Server thread/INFO]: [_elu: Teleported _elu to deboabanreservas]
+[20:48:41] [Server thread/INFO]: _elu issued server command: /tp deboabanreservas
+[20:48:41] [Server thread/INFO]: [_elu: Teleported _elu to deboabanreservas]
+[20:49:58] [Async Chat Thread - #3/INFO]: [Not Secure] <_elu> me esta llamando mi papa
+[20:50:02] [Async Chat Thread - #3/INFO]: [Not Secure] <_elu> entro ahora en discors
+[20:50:05] [Async Chat Thread - #3/INFO]: [Not Secure] <deboabanreservas> tt
+[20:53:24] [Server thread/INFO]: Villager Villager['Librarian'/185, uuid='16d99d77-f29e-4e2e-95ee-6b951935b5eb', l='ServerLevel[world]', x=-941.58, y=82.00, z=-1973.25, cpos=[-59, -124], tl=478344, v=true] died, message: 'Librarian was shot by Pillager'
