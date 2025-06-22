@@ -233,3 +233,17 @@
 [22:46:23] [Server thread/INFO]: _elu issued server command: /home xp
 [22:46:33] [Server thread/INFO]: Named entity Zombie['Infernal Zombie'/34969, uuid='354b60d9-f0c5-4448-b4a4-027522c23126', l='ServerLevel[world]', x=-886.70, y=211.00, z=-2052.70, cpos=[-56, -129], tl=2800, v=true] died: Infernal Zombie was slain by _elu
 [22:47:13] [Server thread/INFO]: _elu issued server command: /home a
+[22:47:37] [Server thread/INFO]: _elu issued server command: /home xp
+[22:49:07] [Server thread/INFO]: deboabanreservas issued server command: /home casa
+[22:49:27] [Async Chat Thread - #5/INFO]: [Not Secure] <_elu> asd
+[22:50:04] [Server thread/INFO]: deboabanreservas issued server command: /home exp
+[22:51:02] [Server thread/INFO]: deboabanreservas issued server command: /home casa
+[22:52:27] [Server thread/INFO]: deboabanreservas issued server command: /tp _elu
+[22:52:27] [Server thread/INFO]: [deboabanreservas: Teleported deboabanreservas to _elu]
+[22:53:23] [Server thread/INFO]: deboabanreservas withered away
+[22:53:33] [Server thread/INFO]: deboabanreservas issued server command: /tp _elu
+[22:53:33] [Server thread/INFO]: [deboabanreservas: Teleported deboabanreservas to _elu]
+[22:54:02] [Server thread/INFO]: Named entity Zombie['Infernal Zombie'/35533, uuid='32eb793f-8ba4-47b3-9595-84d8178a6407', l='ServerLevel[world]', x=-927.30, y=92.00, z=-2131.85, cpos=[-58, -134], tl=6971, v=true] died: Infernal Zombie was slain by _elu
+[22:54:34] [Server thread/INFO]: _elu issued server command: /home a
+[22:54:45] [Server thread/INFO]: deboabanreservas issued server command: /home exp
+[22:55:22] [Server thread/INFO]: deboabanreservas issued server command: /home casa
