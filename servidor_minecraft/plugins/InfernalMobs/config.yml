@@ -11,7 +11,7 @@
 # <abilities> = A list of about 3-5 (whatever can fit) names of abilities the boss has.
 # <mobName> = Name of the mob, so if the mob is a creeper the mobName will be "Creeper".
 
-chance: 65
+chance: 50
 # mobChances:
 #  Ghast: 150
 # levelChance:
@@ -54,7 +54,7 @@ bossBarSettings:
 #    5:
 #      color: "GREEN"
 #      style: "SEGMENTED_6"
-enableScoreBoard: false
+enableScoreBoard: true
 showHealthOnScoreBoard: true
 effectAllPlayerAttacks: true
 enableParticles: true
@@ -66,7 +66,7 @@ deathMessages:
 - '&cAn mob &cwas beheaded by player&c''s weapon!'
 - '&cplayer&c''s weapon &ckilled an mob&c!'
 - '&cAn mob &cwas killed by player &cusing a weapon&c!'
-enableSpawnMessages: false
+enableSpawnMessages: true
 spawnMessageRadius: 64
 spawnMessages:
 - '&cAn Infernal mob has spawned near you!'
@@ -267,7 +267,7 @@ healthByDistance: false
 powerByDistance: false
 healthToAdd: 5
 powerToAdd: 1
-xpMultiplier: 8
+xpMultiplier: 200
 addDistance: 200
 enableDrops: true
 dropChance: 1

@@ -109,3 +109,5 @@
 [18:10:41] [Server thread/INFO]: _elu issued server command: /home a
 [18:13:08] [Server thread/INFO]: MaddieDL lost connection: Disconnected
 [18:13:08] [Server thread/INFO]: MaddieDL left the game
+[18:21:58] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/6304, uuid='5e0f83f9-f622-4f0f-b587-f044d18511f7', l='ServerLevel[world]', x=-858.70, y=35.17, z=-2064.51, cpos=[-54, -130], tl=2466, v=true] died: Infernal Skeleton suffocated in a wall
+[18:24:23] [Server thread/INFO]: _elu issued server command: /infernalmobs reload

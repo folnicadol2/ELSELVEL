@@ -381,6 +381,7 @@
       "minecraft:blaze": "2025-06-20 04:25:42 +0000",
       "minecraft:skeleton": "2025-06-19 04:48:01 +0000",
       "minecraft:zombified_piglin": "2025-06-20 04:18:37 +0000",
+      "minecraft:witch": "2025-06-22 18:13:09 +0000",
       "minecraft:wither_skeleton": "2025-06-20 04:25:03 +0000",
       "minecraft:ghast": "2025-06-20 04:15:35 +0000",
       "minecraft:hoglin": "2025-06-20 03:01:41 +0000",
@@ -2677,6 +2678,48 @@
   "minecraft:recipes/misc/magenta_dye_from_lilac": {
     "criteria": {
       "has_lilac": "2025-06-22 18:08:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-06-22 18:13:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-06-22 18:13:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-06-22 18:13:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-06-22 18:13:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-06-22 18:13:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-06-22 18:13:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-06-22 18:13:09 +0000"
     },
     "done": true
   },
