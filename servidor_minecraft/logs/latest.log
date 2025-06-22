@@ -129,3 +129,9 @@
 [19:22:35] [Server thread/INFO]: deboabanreservas issued server command: /tp _elu
 [19:22:35] [Server thread/INFO]: [deboabanreservas: Teleported deboabanreservas to _elu]
 [19:23:35] [Server thread/INFO]: deboabanreservas issued server command: /home casa
+[19:25:24] [Server thread/INFO]: [InfernalMobs] [STDOUT] Can't spawn mount!
+[19:25:24] [Server thread/WARN]: Nag author(s): '[Eliminator]' of 'InfernalMobs v6.8' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[19:25:24] [Server thread/INFO]: [InfernalMobs] [STDOUT] ENDER_DRAGON is not a valid Entity!
+[19:27:29] [Server thread/INFO]: _elu issued server command: /home a
+[19:29:53] [Server thread/INFO]: _elu lost connection: Disconnected
+[19:29:53] [Server thread/INFO]: _elu left the game
