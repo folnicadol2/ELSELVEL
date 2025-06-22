@@ -170,3 +170,5 @@
 [20:50:02] [Async Chat Thread - #3/INFO]: [Not Secure] <_elu> entro ahora en discors
 [20:50:05] [Async Chat Thread - #3/INFO]: [Not Secure] <deboabanreservas> tt
 [20:53:24] [Server thread/INFO]: Villager Villager['Librarian'/185, uuid='16d99d77-f29e-4e2e-95ee-6b951935b5eb', l='ServerLevel[world]', x=-941.58, y=82.00, z=-1973.25, cpos=[-59, -124], tl=478344, v=true] died, message: 'Librarian was shot by Pillager'
+[21:00:25] [Server thread/INFO]: deboabanreservas issued server command: /tp _elu
+[21:00:25] [Server thread/INFO]: [deboabanreservas: Teleported deboabanreservas to _elu]
