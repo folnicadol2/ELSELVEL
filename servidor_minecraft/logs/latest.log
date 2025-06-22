@@ -220,3 +220,8 @@
 [22:17:51] [Server thread/INFO]: _elu issued server command: /home xp
 [22:21:35] [Server thread/INFO]: Named entity Spider['Infernal Spider'/33305, uuid='ab6e851d-d458-447b-a894-143651c4a364', l='ServerLevel[world]', x=-967.55, y=53.69, z=-2128.55, cpos=[-61, -134], tl=642, v=true] died: Infernal Spider suffocated in a wall
 [22:21:59] [Server thread/INFO]: _elu issued server command: /home xp
+[22:29:55] [Server thread/INFO]: _elu issued server command: /home xp
+[22:35:43] [Server thread/INFO]: [InfernalMobs] Entity remove due to Morph
+[22:35:51] [Server thread/INFO]: Named entity Parrot['Infernal Parrot'/34354, uuid='70a93552-1f12-47e4-9611-b655f2f7886c', l='ServerLevel[world]', x=-886.75, y=211.50, z=-2052.75, cpos=[-56, -129], tl=152, v=true] died: Infernal Parrot was slain by _elu
+[22:36:26] [Server thread/INFO]: _elu issued server command: /home a
+[22:37:18] [Server thread/INFO]: _elu issued server command: /home xp
