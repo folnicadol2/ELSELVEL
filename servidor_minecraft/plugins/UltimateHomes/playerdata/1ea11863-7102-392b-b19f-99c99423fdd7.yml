@@ -30,3 +30,10 @@ homes:
     yaw: -5.152277
     pitch: 42.562656
     world: world
+  end:
+    x: 349
+    y: -40
+    z: -2172
+    yaw: 87.40088
+    pitch: 38.09476
+    world: world
