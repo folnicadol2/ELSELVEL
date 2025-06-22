@@ -225,3 +225,11 @@
 [22:35:51] [Server thread/INFO]: Named entity Parrot['Infernal Parrot'/34354, uuid='70a93552-1f12-47e4-9611-b655f2f7886c', l='ServerLevel[world]', x=-886.75, y=211.50, z=-2052.75, cpos=[-56, -129], tl=152, v=true] died: Infernal Parrot was slain by _elu
 [22:36:26] [Server thread/INFO]: _elu issued server command: /home a
 [22:37:18] [Server thread/INFO]: _elu issued server command: /home xp
+[22:45:41] [Server thread/INFO]: _elu lost connection: Disconnected
+[22:45:41] [Server thread/INFO]: _elu left the game
+[22:45:47] [User Authenticator #7/INFO]: UUID of player _elu is 1ea11863-7102-392b-b19f-99c99423fdd7
+[22:45:49] [Server thread/INFO]: _elu joined the game
+[22:45:49] [Server thread/INFO]: _elu[/127.3.40.75:58251] logged in with entity id 35201 at ([world]-892.5512215952982, 109.0, -2116.0587087311137)
+[22:46:23] [Server thread/INFO]: _elu issued server command: /home xp
+[22:46:33] [Server thread/INFO]: Named entity Zombie['Infernal Zombie'/34969, uuid='354b60d9-f0c5-4448-b4a4-027522c23126', l='ServerLevel[world]', x=-886.70, y=211.00, z=-2052.70, cpos=[-56, -129], tl=2800, v=true] died: Infernal Zombie was slain by _elu
+[22:47:13] [Server thread/INFO]: _elu issued server command: /home a
