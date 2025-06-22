@@ -182,3 +182,14 @@
 [21:15:39] [Server thread/INFO]: _elu issued server command: /home xp
 [21:15:59] [Server thread/INFO]: _elu issued server command: /tp deboabanreservas
 [21:15:59] [Server thread/INFO]: [_elu: Teleported _elu to deboabanreservas]
+[21:17:00] [Server thread/INFO]: _elu issued server command: /home xp
+[21:19:49] [Server thread/INFO]: deboabanreservas issued server command: /tp _elu
+[21:19:49] [Server thread/INFO]: [deboabanreservas: Teleported deboabanreservas to _elu]
+[21:22:35] [User Authenticator #6/INFO]: UUID of player _elu is 1ea11863-7102-392b-b19f-99c99423fdd7
+[21:22:35] [Server thread/INFO]: _elu lost connection: You logged in from another location
+[21:22:35] [Server thread/INFO]: _elu left the game
+[21:22:36] [Server thread/INFO]: _elu joined the game
+[21:22:36] [Server thread/INFO]: _elu[/127.3.40.75:46295] logged in with entity id 27932 at ([world]-883.8538362898367, 210.0, -2054.1641288603055)
+[21:23:56] [Server thread/INFO]: _elu issued server command: /home xp
+[21:24:22] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/27892, uuid='1776e6d7-204f-4526-b337-feb4bb9a62cc', l='ServerLevel[world]', x=-885.65, y=211.50, z=-2051.96, cpos=[-56, -129], tl=2631, v=true] died: Infernal Skeleton was slain by _elu
+[21:25:31] [Server thread/INFO]: _elu issued server command: /home xp
