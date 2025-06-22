@@ -113,3 +113,6 @@
 [18:24:23] [Server thread/INFO]: _elu issued server command: /infernalmobs reload
 [18:29:37] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/7235, uuid='9b35079a-81b3-4f4e-ac52-4752e4a82264', l='ServerLevel[world]', x=-1003.00, y=101.67, z=-2075.51, cpos=[-63, -130], tl=908, v=true] died: Infernal Skeleton suffocated in a wall
 [18:33:05] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/7484, uuid='fb9b01cd-038c-4bd6-b24c-ff4f0420b772', l='ServerLevel[world]', x=-893.63, y=94.26, z=-2136.62, cpos=[-56, -134], tl=3261, v=true] died: Infernal Skeleton suffocated in a wall
+[18:35:56] [Server thread/INFO]: _elu issued server command: /home a
+[18:40:28] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/9017, uuid='7801e232-176b-4b55-8476-6df42901fe09', l='ServerLevel[world]', x=-738.63, y=80.00, z=-2123.58, cpos=[-47, -133], tl=1494, v=true] died: Infernal Skeleton suffocated in a wall
+[18:44:43] [Server thread/INFO]: _elu issued server command: /infernalmobs reload

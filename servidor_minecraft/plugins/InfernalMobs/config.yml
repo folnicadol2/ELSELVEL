@@ -67,7 +67,7 @@ deathMessages:
 - '&cplayer&c''s weapon &ckilled an mob&c!'
 - '&cAn mob &cwas killed by player &cusing a weapon&c!'
 enableSpawnMessages: true
-spawnMessageRadius: 64
+spawnMessageRadius: 10
 spawnMessages:
 - '&cAn Infernal mob has spawned near you!'
 - '&cWatch out!'
