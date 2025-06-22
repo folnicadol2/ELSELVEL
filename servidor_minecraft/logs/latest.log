@@ -249,3 +249,8 @@
 [22:55:22] [Server thread/INFO]: deboabanreservas issued server command: /home casa
 [22:57:38] [Server thread/INFO]: deboabanreservas issued server command: /home exp
 [23:03:07] [Server thread/INFO]: _elu issued server command: /home blazes
+[23:09:04] [Server thread/INFO]: _elu issued server command: /home a
+[23:09:44] [Server thread/INFO]: _elu issued server command: /home xp
+[23:10:41] [Server thread/INFO]: Named entity Creeper['Infernal Creeper'/38174, uuid='35cc4669-2118-4742-9356-3f5026134538', l='ServerLevel[world]', x=-885.89, y=211.50, z=-2052.02, cpos=[-56, -129], tl=6572, v=true] died: Infernal Creeper was slain by _elu
+[23:14:29] [Server thread/INFO]: _elu issued server command: /home a
+[23:17:39] [Server thread/INFO]: Named entity Zombie['Infernal Zombie'/39909, uuid='c5f0ae45-9da8-405a-b4d6-db8fbc65f66b', l='ServerLevel[world]', x=-964.17, y=54.67, z=-2113.83, cpos=[-61, -133], tl=821, v=true] died: Infernal Zombie suffocated in a wall
