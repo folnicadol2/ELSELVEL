@@ -135,3 +135,10 @@
 [19:27:29] [Server thread/INFO]: _elu issued server command: /home a
 [19:29:53] [Server thread/INFO]: _elu lost connection: Disconnected
 [19:29:53] [Server thread/INFO]: _elu left the game
+[19:39:52] [User Authenticator #2/INFO]: UUID of player _elu is 1ea11863-7102-392b-b19f-99c99423fdd7
+[19:39:56] [Server thread/INFO]: _elu joined the game
+[19:39:56] [Server thread/INFO]: _elu[/127.3.40.75:47669] logged in with entity id 20072 at ([world]-902.2375000119209, 109.0, -2120.354201190173)
+[19:42:17] [Async Chat Thread - #1/INFO]: [Not Secure] <_elu> &anya
+[19:42:28] [Async Chat Thread - #1/INFO]: [Not Secure] <_elu> &b asd
+[19:44:08] [Server thread/INFO]: _elu lost connection: Disconnected
+[19:44:08] [Server thread/INFO]: _elu left the game
