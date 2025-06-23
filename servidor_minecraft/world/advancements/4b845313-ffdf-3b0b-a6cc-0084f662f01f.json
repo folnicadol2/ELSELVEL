@@ -498,6 +498,7 @@
       "minecraft:witch": "2025-06-21 05:29:44 +0000",
       "minecraft:ender_dragon": "2025-06-23 04:51:48 +0000",
       "minecraft:hoglin": "2025-06-20 02:49:26 +0000",
+      "minecraft:shulker": "2025-06-23 05:07:26 +0000",
       "minecraft:enderman": "2025-06-20 02:17:34 +0000",
       "minecraft:silverfish": "2025-06-21 06:29:13 +0000",
       "minecraft:spider": "2025-06-17 04:13:36 +0000",
@@ -2743,6 +2744,12 @@
     },
     "done": true
   },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-06-23 05:05:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_bricks": {
     "criteria": {
       "has_end_stone": "2025-06-23 04:46:43 +0000"
@@ -2776,6 +2783,12 @@
   "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2025-06-23 04:46:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2025-06-23 05:05:23 +0000"
     },
     "done": true
   },
