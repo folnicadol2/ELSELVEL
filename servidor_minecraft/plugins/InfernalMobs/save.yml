@@ -763,7 +763,6 @@ a782acb4-6252-485a-9703-9b9396b4e967: explode,archer,mama,armoured,ghost,storm
 f6b4b37e-960a-46df-930b-d35bc28b8cbf: flying,rust,vengeance,tosser,blinding
 45efad5e-1a12-4a21-adcc-8d28cc4df2ec: rust,withering,weakness
 f8e6817d-148e-416c-97c1-31a46bc1f2d7: weakness,lifesteal,tosser,berserk,archer,thief
-8251a686-a9cf-4a49-86f2-13f2addc0cbf: molten,rust,webber
 4a86de61-4d56-48fb-b8fc-8c1177a4ca5f: molten,thief,weakness,explode
 3e6153b9-1c5d-4d57-aa66-c91c24996179: quicksand,bullwark,vengeance,webber,storm
 881b79ee-9d09-4185-8fc5-04eccd93c628: sapper,molten,1up,thief
@@ -776,3 +775,10 @@ b819af43-4522-4ee3-9dad-ecac00b7f062: quicksand,webber,explode,ghastly,berserk,a
 3f2d3982-dadf-4bda-a81e-f053f000ca8b: potions,ghastly,quicksand,vengeance,webber,ender,1up
 7a22ea2e-9c96-4233-a595-35801d20a523: morph,mama,mounted
 41ba3ef5-6655-45fc-92ba-bfe6773fd7a2: poisonous,thief,mounted,gravity,webber,blinding,ghost
+29afaefe-c066-486b-a174-d5f64a3fc0fc: sapper,rust,explode
+c58c3dff-a980-451f-9c53-d7e1283f3bb9: berserk,weakness,morph,mama
+f876c766-90a9-4c9e-8fd7-532a9fca884f: quicksand,mounted,bullwark,morph,sapper,tosser,armoured
+c461c5a1-9333-4ed7-82c4-a6793962e12f: weakness,ghastly,sprint,vengeance,bullwark
+107cca99-a3e3-4071-9696-5a4a268f2bf5: explode,ender,blinding,mounted,thief,gravity,firework
+aba6b819-23f4-4efd-b2cc-14b2a6c85538: lifesteal,explode,ghastly
+3817adfe-065c-424e-bf19-4055077d4db7: bullwark,blinding,archer,poisonous,flying

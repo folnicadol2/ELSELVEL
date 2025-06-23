@@ -135,3 +135,10 @@
 [03:46:45] [Server thread/INFO]: [deboabanreservas: Set own game mode to Creative Mode]
 [03:48:21] [Server thread/INFO]: deboabanreservas issued server command: /gamemode survival
 [03:48:21] [Server thread/INFO]: [deboabanreservas: Set own game mode to Survival Mode]
+[03:50:47] [Server thread/INFO]: deboabanreservas issued server command: /home casa
+[03:52:30] [Server thread/INFO]: deboabanreservas issued server command: /home exp
+[03:56:07] [User Authenticator #5/INFO]: UUID of player _elu is 1ea11863-7102-392b-b19f-99c99423fdd7
+[03:56:10] [Server thread/INFO]: _elu joined the game
+[03:56:10] [Server thread/INFO]: _elu[/127.3.40.75:34127] logged in with entity id 10262 at ([world]-896.8733564211723, 109.00301626150905, -2122.0604313719296)
+[03:56:57] [Server thread/INFO]: _elu issued server command: /home xp
+[03:57:46] [Server thread/INFO]: _elu issued server command: /home a
