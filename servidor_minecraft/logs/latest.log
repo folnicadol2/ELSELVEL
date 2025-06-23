@@ -126,3 +126,12 @@
 [03:32:50] [Server thread/INFO]: deboabanreservas left the game
 [03:34:49] [Server thread/INFO]: MaddieDL lost connection: Disconnected
 [03:34:49] [Server thread/INFO]: MaddieDL left the game
+[03:43:21] [User Authenticator #4/INFO]: UUID of player deboabanreservas is 4b845313-ffdf-3b0b-a6cc-0084f662f01f
+[03:43:22] [Server thread/INFO]: deboabanreservas joined the game
+[03:43:22] [Server thread/INFO]: deboabanreservas[/127.139.167.202:41075] logged in with entity id 7352 at ([world]-954.3801909541721, 60.339445035495736, -2485.918888196578)
+[03:44:09] [Server thread/INFO]: Villager Villager['Farmer'/7733, uuid='415b46a2-a12e-4c97-a454-7e629e9af86f', l='ServerLevel[world]', x=-784.23, y=69.25, z=-2385.39, cpos=[-50, -150], tl=54447, v=true] died, message: 'Farmer was slain by Zombie Villager'
+[03:46:41] [Server thread/INFO]: deboabanreservas issued server command: /gamemode c
+[03:46:45] [Server thread/INFO]: deboabanreservas issued server command: /gamemode creative
+[03:46:45] [Server thread/INFO]: [deboabanreservas: Set own game mode to Creative Mode]
+[03:48:21] [Server thread/INFO]: deboabanreservas issued server command: /gamemode survival
+[03:48:21] [Server thread/INFO]: [deboabanreservas: Set own game mode to Survival Mode]
