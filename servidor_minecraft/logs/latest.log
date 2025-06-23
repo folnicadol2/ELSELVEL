@@ -154,3 +154,4 @@
 [05:53:50] [Server thread/INFO]: _elu issued server command: /home a
 [05:58:00] [Server thread/INFO]: deboabanreservas lost connection: Disconnected
 [05:58:00] [Server thread/INFO]: deboabanreservas left the game
+[06:05:37] [Server thread/INFO]: Named entity Creeper['Infernal Creeper'/18865, uuid='536f9a14-adfb-4182-9ff8-5541378d75f2', l='ServerLevel[world]', x=-885.75, y=211.50, z=-2051.75, cpos=[-56, -129], tl=811, v=true] died: Infernal Creeper was slain by _elu
