@@ -95,3 +95,15 @@
 [04:46:37] [Server thread/INFO]: deboabanreservas has made the advancement [The End?]
 [04:46:38] [Server thread/INFO]: MaddieDL has made the advancement [The End?]
 [04:49:22] [Server thread/INFO]: Named entity EnderMan['Infernal Enderman'/1681, uuid='1e50c639-4224-4267-b2ed-f19158c3bee8', l='ServerLevel[world_the_end]', x=63.53, y=33.37, z=32.90, cpos=[3, 2], tl=3272, v=true] died: Infernal Enderman suffocated in a wall
+[04:51:48] [Server thread/INFO]: deboabanreservas has made the advancement [Free the End]
+[04:53:00] [Server thread/INFO]: MaddieDL has reached the goal [The Next Generation]
+[04:55:18] [Server thread/INFO]: Named entity EnderMan['Infernal Enderman'/1886, uuid='a693bc7d-61fa-4888-a059-6d0467650c69', l='ServerLevel[world_the_end]', x=26.99, y=62.19, z=25.25, cpos=[1, 1], tl=6749, v=true] died: Infernal Enderman was slain by MaddieDL
+[04:55:40] [Server thread/INFO]: [InfernalMobs] [STDOUT] Can't spawn mount!
+[04:55:40] [Server thread/WARN]: Nag author(s): '[Eliminator]' of 'InfernalMobs v6.8' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[04:55:40] [Server thread/INFO]: [InfernalMobs] [STDOUT] ENDER_DRAGON is not a valid Entity!
+[04:56:36] [Server thread/INFO]: _elu issued server command: /home a
+[04:56:58] [Server thread/INFO]: _elu issued server command: /tp deboabanreservas
+[04:56:58] [Server thread/INFO]: [_elu: Teleported _elu to deboabanreservas]
+[04:57:49] [Server thread/INFO]: _elu issued server command: /home end
+[04:58:13] [Server thread/INFO]: deboabanreservas issued server command: /home end
+[04:59:30] [Server thread/INFO]: Named entity EnderMan['Infernal Enderman'/1996, uuid='e15718d3-3527-4364-8029-427bfeac27a7', l='ServerLevel[world_the_end]', x=81.50, y=55.00, z=-13.66, cpos=[5, -1], tl=8991, v=true] died: Infernal Enderman was killed while trying to hurt _elu
