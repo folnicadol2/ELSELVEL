@@ -150,3 +150,7 @@
 [05:42:23] [Server thread/INFO]: deboabanreservas issued server command: /home exp
 [05:44:53] [Server thread/INFO]: deboabanreservas died
 [05:45:05] [Server thread/INFO]: deboabanreservas issued server command: /home exp
+[05:52:04] [Server thread/INFO]: Named entity Drowned['Infernal Zombie'/16300, uuid='4deec094-e7e3-42f3-b153-4bddd8268422', l='ServerLevel[world]', x=-132.61, y=63.00, z=-1481.27, cpos=[-9, -93], tl=99, v=true] died: Infernal Zombie was shot by _elu using [Brave Flame Bow]
+[05:53:50] [Server thread/INFO]: _elu issued server command: /home a
+[05:58:00] [Server thread/INFO]: deboabanreservas lost connection: Disconnected
+[05:58:00] [Server thread/INFO]: deboabanreservas left the game
