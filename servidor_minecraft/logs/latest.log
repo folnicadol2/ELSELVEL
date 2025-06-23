@@ -170,3 +170,35 @@
 [06:39:16] [Server thread/INFO]: _elu issued server command: /home xp
 [06:49:15] [Async Chat Thread - #3/INFO]: [Not Secure] <_elu> asd
 [06:49:33] [Server thread/INFO]: Named entity Zombie['Infernal Zombie'/22962, uuid='dc0e1e4e-72c4-4133-b9cc-84c8526904af', l='ServerLevel[world]', x=-885.45, y=211.50, z=-2052.66, cpos=[-56, -129], tl=2129, v=true] died: Infernal Zombie was slain by _elu
+[06:53:46] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/23228, uuid='dc2b1c6f-ab33-4671-bcd0-3505dc5197ff', l='ServerLevel[world]', x=-885.79, y=211.50, z=-2051.59, cpos=[-56, -129], tl=1377, v=true] died: Infernal Skeleton was slain by _elu
+[06:55:13] [Server thread/INFO]: Stopping the server
+[06:55:13] [Server thread/INFO]: Stopping server
+[06:55:13] [Server thread/INFO]: [UltimateHomes] Disabling UltimateHomes v3.1
+[06:55:13] [Server thread/INFO]: [SleepFixer] Disabling SleepFixer v2.1.0
+[06:55:13] [Server thread/INFO]: [SleepFixer] Disabling 'sleeping ignored' status for online players...
+[06:55:13] [Server thread/INFO]: [SleepFixer] Shut-down complete (took 0.0ms).
+[06:55:13] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.7.1
+[06:55:13] [Server thread/INFO]: [InfernalMobs] Disabling InfernalMobs v6.8
+[06:55:13] [Server thread/INFO]: Saving players
+[06:55:13] [Server thread/INFO]: _elu lost connection: Server closed
+[06:55:13] [Server thread/INFO]: _elu left the game
+[06:55:13] [Server thread/INFO]: Saving worlds
+[06:55:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[06:55:13] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[06:55:13] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[06:55:13] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[06:55:13] [Server thread/INFO]: [ChunkHolderManager] Saved 21 block chunks, 153 entity chunks, 0 poi chunks in world 'world' in 0.07s
+[06:55:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[06:55:13] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[06:55:13] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[06:55:13] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[06:55:13] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 3 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[06:55:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[06:55:13] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[06:55:13] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[06:55:13] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[06:55:13] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 6 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
+[06:55:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06:55:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06:55:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06:55:13] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
