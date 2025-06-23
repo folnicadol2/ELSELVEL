@@ -166,3 +166,5 @@
 [06:23:54] [Server thread/INFO]: _elu issued server command: /home a
 [06:25:15] [Server thread/INFO]: Named entity Zombie['Infernal Zombie'/19829, uuid='75abad1b-3a9e-45eb-bab3-918d6b46c80c', l='ServerLevel[world]', x=-900.16, y=30.74, z=-2132.01, cpos=[-57, -134], tl=13324, v=true] died: Infernal Zombie suffocated in a wall
 [06:27:43] [Server thread/INFO]: _elu issued server command: /home xp
+[06:37:48] [Server thread/INFO]: _elu fell from a high place
+[06:39:16] [Server thread/INFO]: _elu issued server command: /home xp
