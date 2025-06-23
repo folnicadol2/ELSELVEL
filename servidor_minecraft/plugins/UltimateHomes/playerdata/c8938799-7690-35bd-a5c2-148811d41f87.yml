@@ -1,4 +1,11 @@
 player:
   info:
     lastSeenAs: MaddieDL
-homes: {}
+homes:
+  home:
+    x: -847
+    y: 103
+    z: -2132
+    yaw: -112.75005
+    pitch: 26.24997
+    world: world
