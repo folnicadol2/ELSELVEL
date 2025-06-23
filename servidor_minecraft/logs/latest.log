@@ -133,3 +133,16 @@
 [05:27:45] [Server thread/INFO]: deboabanreservas issued server command: /tp _elu
 [05:27:45] [Server thread/INFO]: [deboabanreservas: Teleported deboabanreservas to _elu]
 [05:29:19] [Server thread/WARN]: deboabanreservas moved too quickly! -5.276382770535065,-8.0,-5.345199042437571
+[05:31:47] [Server thread/INFO]: _elu issued server command: /home a
+[05:32:12] [Server thread/INFO]: _elu issued server command: /tp deboabanreservas
+[05:32:12] [Server thread/INFO]: [_elu: Teleported _elu to deboabanreservas]
+[05:32:18] [Server thread/INFO]: deboabanreservas issued server command: /home casa
+[05:35:04] [Server thread/INFO]: deboabanreservas issued server command: /tp _elu
+[05:35:04] [Server thread/INFO]: [deboabanreservas: Teleported deboabanreservas to _elu]
+[05:38:02] [Server thread/INFO]: deboabanreservas issued server command: /tp _elu
+[05:38:02] [Server thread/INFO]: [deboabanreservas: Teleported deboabanreservas to _elu]
+[05:39:25] [Server thread/INFO]: _elu issued server command: /tp deboabanreservas
+[05:39:25] [Server thread/INFO]: [_elu: Teleported _elu to deboabanreservas]
+[05:39:54] [Server thread/INFO]: _elu issued server command: /sethome shulker
+[05:39:57] [Server thread/INFO]: _elu issued server command: /home a
+[05:40:01] [Server thread/INFO]: deboabanreservas issued server command: /home casa

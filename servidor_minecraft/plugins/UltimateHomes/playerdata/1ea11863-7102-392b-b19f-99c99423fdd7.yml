@@ -51,3 +51,10 @@ homes:
     yaw: -176.82712
     pitch: 27.417624
     world: world
+  shulker:
+    x: 1690
+    y: 74
+    z: 1364
+    yaw: -112.10095
+    pitch: -0.71611774
+    world: world_the_end
