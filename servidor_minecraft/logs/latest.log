@@ -107,3 +107,22 @@
 [04:57:49] [Server thread/INFO]: _elu issued server command: /home end
 [04:58:13] [Server thread/INFO]: deboabanreservas issued server command: /home end
 [04:59:30] [Server thread/INFO]: Named entity EnderMan['Infernal Enderman'/1996, uuid='e15718d3-3527-4364-8029-427bfeac27a7', l='ServerLevel[world_the_end]', x=81.50, y=55.00, z=-13.66, cpos=[5, -1], tl=8991, v=true] died: Infernal Enderman was killed while trying to hurt _elu
+[05:00:24] [Server thread/INFO]: _elu has made the advancement [Remote Getaway]
+[05:00:32] [Server thread/INFO]: deboabanreservas issued server command: /tp _elu
+[05:00:32] [Server thread/INFO]: [deboabanreservas: Teleported deboabanreservas to _elu]
+[05:01:30] [Server thread/INFO]: _elu issued server command: /seed
+[05:02:22] [Server thread/INFO]: MaddieDL issued server command: /msg deboabanreservas te quiero
+[05:02:32] [Server thread/INFO]: deboabanreservas issued server command: /msg MaddieDL yo tambien te quiero
+[05:02:46] [Server thread/INFO]: MaddieDL issued server command: /msg deboabanreservas gracias por invitarme a jugar
+[05:03:03] [Server thread/INFO]: deboabanreservas issued server command: /msg MaddieDL de nada mi eri, siempre pienso en ti antes de empezar a jugar
+[05:03:18] [Server thread/INFO]: deboabanreservas issued server command: /msg MaddieDL en parte para ti trabaje en este server
+[05:03:32] [Server thread/INFO]: deboabanreservas issued server command: /msg MaddieDL cuidate mucho y escribeme antes de mimir
+[05:04:12] [Server thread/INFO]: MaddieDL issued server command: /msg deboabanreservas gracias, buenas noches <3
+[05:04:36] [Server thread/INFO]: MaddieDL lost connection: Disconnected
+[05:04:36] [Server thread/INFO]: MaddieDL left the game
+[05:04:40] [Server thread/INFO]: deboabanreservas issued server command: /tp _elu
+[05:04:40] [Server thread/INFO]: [deboabanreservas: Teleported deboabanreservas to _elu]
+[05:05:08] [Server thread/INFO]: _elu has made the advancement [The City at the End of the Game]
+[05:05:19] [Server thread/INFO]: deboabanreservas has made the advancement [The City at the End of the Game]
+[05:09:30] [Server thread/INFO]: _elu has made the advancement [Local Brewery]
+[05:09:40] [Server thread/INFO]: _elu has reached the goal [Sky's the Limit]
