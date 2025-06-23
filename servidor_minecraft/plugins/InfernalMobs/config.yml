@@ -271,7 +271,7 @@ healthByDistance: false
 powerByDistance: false
 healthToAdd: 5
 powerToAdd: 1
-xpMultiplier: 200
+xpMultiplier: 700
 addDistance: 200
 enableDrops: true
 dropChance: 1

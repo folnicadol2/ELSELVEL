@@ -155,3 +155,9 @@
 [05:58:00] [Server thread/INFO]: deboabanreservas lost connection: Disconnected
 [05:58:00] [Server thread/INFO]: deboabanreservas left the game
 [06:05:37] [Server thread/INFO]: Named entity Creeper['Infernal Creeper'/18865, uuid='536f9a14-adfb-4182-9ff8-5541378d75f2', l='ServerLevel[world]', x=-885.75, y=211.50, z=-2051.75, cpos=[-56, -129], tl=811, v=true] died: Infernal Creeper was slain by _elu
+[06:11:54] [Server thread/INFO]: Named entity Zombie['Infernal Zombie'/19364, uuid='e5b8ad37-1492-4cb8-8773-94ba9257a9c4', l='ServerLevel[world]', x=-885.77, y=211.50, z=-2052.15, cpos=[-56, -129], tl=1276, v=true] died: Infernal Zombie was burned to a crisp while fighting _elu
+[06:12:49] [Server thread/INFO]: _elu issued server command: /home a
+[06:14:46] [Server thread/INFO]: _elu issued server command: /home xp
+[06:18:32] [Server thread/INFO]: _elu issued server command: /infernalmobs reload
+[06:19:35] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/19984, uuid='881b6184-dbf8-4876-ae75-693858c71455', l='ServerLevel[world]', x=-885.84, y=211.50, z=-2051.87, cpos=[-56, -129], tl=1740, v=true] died: Infernal Skeleton was slain by _elu
+[06:20:45] [Server thread/INFO]: _elu issued server command: /home a
