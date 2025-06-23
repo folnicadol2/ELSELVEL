@@ -690,7 +690,6 @@ e51fd6c4-5b67-4976-9145-37c45ee76ab6: molten,bullwark,morph
 875f8bea-c7d1-4011-8389-6a0a7fbecdfb: morph,mounted,lifesteal,storm
 b132abf5-73b8-43f1-b911-b3d0aebb9ea9: armoured,archer,necromancer,weakness,1up,mama
 3cde244d-7ec3-4125-89ee-f4acf6a87657: vengeance,thief,lifesteal,poisonous,flying,ender
-4ce6cc1d-8082-4230-a2a3-6b7d25630dc3: quicksand,withering,berserk,thief,necromancer,armoured,flying
 86ca09d1-d575-4038-80db-55756578549d: lifesteal,molten,weakness,ghost,ender,ghastly,cloaked
 4eb8cb97-9e2b-4daf-921f-90fac5ee2b13: 1up,berserk,ender,potions,molten,poisonous
 92447122-4463-41b1-8a7a-6903f81c1921: mama,webber,morph,withering
@@ -711,7 +710,6 @@ e4bbf152-7306-4eb5-9d5c-b1d80e3299fa: lifesteal,blinding,flying,thief
 485b1cc9-5c1c-453f-afba-0932ba723541: berserk,poisonous,tosser,gravity
 e6609fe1-42e9-4888-8013-4f2611bcb9ac: explode,sapper,sprint
 b37e1ea4-103c-486b-96ce-0dd93db00c4b: withering,thief,necromancer,blinding,flying,ender,mounted
-c092f3a1-153a-4d1b-9ebf-9e76066f2c9f: firework,ender,tosser,quicksand,mounted,sprint,vengeance
 bee564c4-fa59-4e92-975a-ab02a3979e95: archer,rust,sapper,quicksand,1up,armoured,webber
 96171e9c-89dd-4551-a905-a9cee545e3d5: webber,sapper,ghastly,archer,quicksand
 7e398ff0-1eb0-4669-861b-4458fda60d48: poisonous,vengeance,blinding,ghastly,archer,weakness,ghost
@@ -721,7 +719,6 @@ befd8240-4a34-42f3-9a8f-da457c3bfe66: ender,weakness,berserk,morph,blinding,life
 061bed14-3efc-499b-97dc-3bc1bb9e1c38: thief,berserk,ghastly,gravity,poisonous,sprint,necromancer
 9a02c14c-ec51-4b73-893e-1512da4f23c6: webber,rust,explode
 5afc2db9-3c64-40f1-b4d3-0d6ceddec212: gravity,armoured,rust,mounted,lifesteal,mama
-f137a798-24a0-4085-8aeb-f02f2c91c3bf: molten,quicksand,storm,sapper,explode,thief
 be44acea-8886-4a62-8710-24033eeed2e0: mounted,sprint,mama,blinding,tosser
 95711ef5-04e5-46f9-89c6-1742b6a18579: flying,rust,ghastly,vengeance,armoured,morph,withering
 de035254-ec5e-43e0-a2ef-c246ced3926c: ender,weakness,potions,quicksand,mounted,molten
@@ -729,7 +726,6 @@ de035254-ec5e-43e0-a2ef-c246ced3926c: ender,weakness,potions,quicksand,mounted,m
 c768e16d-0daa-47d0-b40e-5d31743a1d39: blinding,morph,ender,archer,flying
 c5e53e86-8379-4735-b822-f892a68835a8: armoured,flying,lifesteal,ghastly,mama,molten
 1bafd8e6-7a84-4cea-8c5c-d15ba669aa8a: storm,necromancer,quicksand,ghastly,poisonous,ender
-0a448d0d-337a-4218-9861-cbcaa9aa8cf0: sapper,explode,necromancer,flying
 4624e16c-95bb-40f1-8284-e269bf0f7c34: 1up,ghost,explode,weakness
 7750ed46-153c-4e7e-b033-06f7decc158c: gravity,sprint,mama,blinding,necromancer
 3bb5d878-6a4a-49d2-a3e3-b8a09196b7ae: necromancer,cloaked,morph,ghastly,quicksand
@@ -739,6 +735,15 @@ c5e53e86-8379-4735-b822-f892a68835a8: armoured,flying,lifesteal,ghastly,mama,mol
 e9c0b625-04a1-4b11-9915-fc70afc10079: necromancer,cloaked,morph,ghastly,quicksand
 88665272-b747-4420-a459-0abf34732f9a: ghastly,mama,cloaked,thief,withering,armoured,lifesteal
 71d9eab5-439f-4044-b28e-35e21f792787: morph,molten,firework,sprint,quicksand,archer,berserk
-c8d00348-8144-4f9f-a840-51e0326fa267: necromancer,cloaked,morph,ghastly,quicksand
-a1c2e4ae-e9a5-4858-af24-cd591abeb465: morph,armoured,mama,vengeance,necromancer
 9c79ff13-be86-46be-a9c5-e87c25270941: rust,weakness,potions
+95e891ee-71cb-4084-8a58-0b4fa1be2a13: tosser,poisonous,morph,webber,quicksand,cloaked
+fecf09e6-df33-4c72-a09b-a1588c313928: tosser,ghastly,sapper,mama,explode,storm
+7f054bc7-3ef0-4c2c-a0ba-cad424bec3f5: webber,potions,withering
+c2d51696-0091-45c9-b185-d4369c97d6bc: potions,firework,molten,ghost
+f651788a-47df-4ba8-b64d-e0ffc8634e82: flying,necromancer,potions,firework,thief,sapper,berserk
+b5aa1148-0942-4348-b92e-05b55794bc97: sapper,gravity,cloaked
+08dcfd72-56fb-4012-ad98-1ca5be7ac951: webber,gravity,cloaked,tosser,lifesteal,thief
+37e81c47-b6ef-479a-8c7e-fe5e445a302c: vengeance,flying,ghastly,explode
+82a0efbb-a21a-4608-9a7d-2975952e4869: potions,gravity,bullwark,cloaked,molten
+13440d03-d484-40ea-b8ea-9b3b1422be99: rust,flying,quicksand,mama,bullwark
+1d8dcba5-dc5a-4250-987e-9899dcb9ba85: berserk,morph,gravity,rust
