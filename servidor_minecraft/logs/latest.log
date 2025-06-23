@@ -142,3 +142,11 @@
 [03:56:10] [Server thread/INFO]: _elu[/127.3.40.75:34127] logged in with entity id 10262 at ([world]-896.8733564211723, 109.00301626150905, -2122.0604313719296)
 [03:56:57] [Server thread/INFO]: _elu issued server command: /home xp
 [03:57:46] [Server thread/INFO]: _elu issued server command: /home a
+[04:02:38] [Server thread/INFO]: _elu issued server command: /home xp
+[04:05:07] [Server thread/INFO]: _elu issued server command: /home a
+[04:07:17] [Server thread/INFO]: deboabanreservas issued server command: /msg _elu yo la hago venir
+[04:07:26] [Async Chat Thread - #0/INFO]: [Not Secure] <_elu> eldiavlo
+[04:07:43] [Server thread/INFO]: _elu issued server command: /home xp
+[04:08:23] [User Authenticator #6/INFO]: UUID of player MaddieDL is c8938799-7690-35bd-a5c2-148811d41f87
+[04:08:24] [Server thread/INFO]: MaddieDL joined the game
+[04:08:24] [Server thread/INFO]: MaddieDL[/127.183.26.154:58663] logged in with entity id 11577 at ([world]-769.3013440570119, 100.0, -2351.4481518256566)
