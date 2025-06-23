@@ -168,3 +168,5 @@
 [06:27:43] [Server thread/INFO]: _elu issued server command: /home xp
 [06:37:48] [Server thread/INFO]: _elu fell from a high place
 [06:39:16] [Server thread/INFO]: _elu issued server command: /home xp
+[06:49:15] [Async Chat Thread - #3/INFO]: [Not Secure] <_elu> asd
+[06:49:33] [Server thread/INFO]: Named entity Zombie['Infernal Zombie'/22962, uuid='dc0e1e4e-72c4-4133-b9cc-84c8526904af', l='ServerLevel[world]', x=-885.45, y=211.50, z=-2052.66, cpos=[-56, -129], tl=2129, v=true] died: Infernal Zombie was slain by _elu
