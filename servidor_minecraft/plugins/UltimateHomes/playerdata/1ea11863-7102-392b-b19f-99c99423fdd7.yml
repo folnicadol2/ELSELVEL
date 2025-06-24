@@ -58,3 +58,10 @@ homes:
     yaw: -112.10095
     pitch: -0.71611774
     world: world_the_end
+  reparacion:
+    x: -927
+    y: 83
+    z: -1901
+    yaw: 40.808777
+    pitch: 29.01612
+    world: world
