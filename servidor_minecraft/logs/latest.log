@@ -119,3 +119,4 @@
 [22:34:40] [Server thread/INFO]: [_elu: Teleported _elu to deboabanreservas]
 [22:36:03] [Server thread/INFO]: _elu issued server command: /home a
 [22:36:39] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/5377, uuid='f182de6d-f173-4093-bac8-f35aa7f73fb6', l='ServerLevel[world]', x=-832.58, y=66.25, z=-2098.27, cpos=[-53, -132], tl=1958, v=true] died: Infernal Skeleton burned to death
+[22:40:09] [Server thread/INFO]: Named entity Creeper['Infernal Creeper'/6660, uuid='76613c03-3d7c-4584-b385-806f15c7d8ea', l='ServerLevel[world]', x=-860.50, y=64.00, z=-2201.94, cpos=[-54, -138], tl=821, v=true] died: Infernal Creeper suffocated in a wall
