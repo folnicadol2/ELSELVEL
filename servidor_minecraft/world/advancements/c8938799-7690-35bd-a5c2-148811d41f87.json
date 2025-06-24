@@ -1476,7 +1476,8 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:cat": "2025-06-23 04:27:46 +0000",
-      "minecraft:wolf": "2025-06-19 06:28:38 +0000"
+      "minecraft:wolf": "2025-06-19 06:28:38 +0000",
+      "minecraft:bee": "2025-06-24 23:14:32 +0000"
     },
     "done": false
   },
@@ -2204,6 +2205,12 @@
   "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
     "criteria": {
       "has_coal_ore": "2025-06-24 22:57:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-06-24 23:09:24 +0000"
     },
     "done": true
   },

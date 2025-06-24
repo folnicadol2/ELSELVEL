@@ -135,3 +135,42 @@
 [23:01:07] [Server thread/INFO]: deboabanreservas issued server command: /msg MaddieDL entonces donde?
 [23:01:37] [Server thread/INFO]: MaddieDL issued server command: /msg deboabanreservas donde quieras
 [23:03:59] [Server thread/INFO]: deboabanreservas issued server command: /home casa
+[23:08:55] [Server thread/WARN]: _elu moved too quickly! -9.089070475360018,24.713798256902578,10.698527236560949
+[23:09:24] [Server thread/INFO]: MaddieDL has made the advancement [A Seedy Place]
+[23:13:53] [Server thread/INFO]: deboabanreservas issued server command: /home casa
+[23:14:13] [Server thread/INFO]: _elu issued server command: /bukkit:reload
+[23:14:13] [Server thread/INFO]: _elu: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
+[23:14:37] [Server thread/INFO]: _elu lost connection: Disconnected
+[23:14:37] [Server thread/INFO]: _elu left the game
+[23:14:44] [Server thread/INFO]: [STDOUT] [org.spigotmc.RestartCommand] Startup script './start.sh' does not exist! Stopping server.
+[23:14:44] [Server thread/INFO]: deboabanreservas lost connection: Server is restarting
+[23:14:44] [Server thread/INFO]: deboabanreservas left the game
+[23:14:44] [Server thread/INFO]: MaddieDL lost connection: Server is restarting
+[23:14:44] [Server thread/INFO]: MaddieDL left the game
+[23:14:44] [Server thread/INFO]: Stopping server
+[23:14:44] [Server thread/INFO]: [UltimateHomes] Disabling UltimateHomes v3.1
+[23:14:44] [Server thread/INFO]: [SleepFixer] Disabling SleepFixer v2.1.0
+[23:14:44] [Server thread/INFO]: [SleepFixer] Shut-down complete (took 0.0ms).
+[23:14:44] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.7.1
+[23:14:44] [Server thread/INFO]: [InfernalMobs] Disabling InfernalMobs v6.8
+[23:14:44] [Server thread/INFO]: Saving players
+[23:14:44] [Server thread/INFO]: Saving worlds
+[23:14:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:14:44] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[23:14:44] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[23:14:44] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[23:14:44] [Server thread/INFO]: [ChunkHolderManager] Saved 115 block chunks, 399 entity chunks, 2 poi chunks in world 'world' in 0.22s
+[23:14:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[23:14:44] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[23:14:44] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[23:14:44] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[23:14:44] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 3 entity chunks, 0 poi chunks in world 'world_nether' in 0.01s
+[23:14:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[23:14:44] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[23:14:44] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[23:14:44] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[23:14:44] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 2 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[23:14:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:14:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:14:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:14:44] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
