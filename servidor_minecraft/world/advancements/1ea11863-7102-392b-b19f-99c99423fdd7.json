@@ -3084,5 +3084,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2025-06-24 22:17:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2025-06-24 22:17:53 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3953
 }
