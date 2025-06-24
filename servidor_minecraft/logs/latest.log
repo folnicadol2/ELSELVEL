@@ -120,3 +120,11 @@
 [22:36:03] [Server thread/INFO]: _elu issued server command: /home a
 [22:36:39] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/5377, uuid='f182de6d-f173-4093-bac8-f35aa7f73fb6', l='ServerLevel[world]', x=-832.58, y=66.25, z=-2098.27, cpos=[-53, -132], tl=1958, v=true] died: Infernal Skeleton burned to death
 [22:40:09] [Server thread/INFO]: Named entity Creeper['Infernal Creeper'/6660, uuid='76613c03-3d7c-4584-b385-806f15c7d8ea', l='ServerLevel[world]', x=-860.50, y=64.00, z=-2201.94, cpos=[-54, -138], tl=821, v=true] died: Infernal Creeper suffocated in a wall
+[22:49:29] [Server thread/INFO]: Villager Villager['Villager'/424, uuid='a9273510-fdb9-49a4-9082-44093afe4811', l='ServerLevel[world]', x=-901.69, y=73.00, z=-1907.84, cpos=[-57, -120], tl=660106, v=true] died, message: 'Villager was slain by Zombie'
+[22:50:12] [Server thread/INFO]: deboabanreservas issued server command: /home exp
+[22:50:40] [Server thread/INFO]: Named entity Zombie['Infernal Zombie'/8348, uuid='e52c1af5-1335-4aef-9fd9-99c8f39cfd78', l='ServerLevel[world]', x=-892.30, y=66.67, z=-2006.60, cpos=[-56, -126], tl=2896, v=true] died: Infernal Zombie burned to death
+[22:51:54] [Server thread/INFO]: deboabanreservas issued server command: /home casa
+[22:52:01] [Server thread/INFO]: deboabanreservas issued server command: /home ecp
+[22:52:06] [Server thread/INFO]: deboabanreservas issued server command: /home exp
+[22:54:11] [Server thread/INFO]: deboabanreservas issued server command: /home exp
+[22:54:37] [Server thread/INFO]: MaddieDL issued server command: /home
