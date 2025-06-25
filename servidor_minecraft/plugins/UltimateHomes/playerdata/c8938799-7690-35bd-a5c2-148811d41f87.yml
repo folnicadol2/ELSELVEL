@@ -9,3 +9,17 @@ homes:
     yaw: -112.75005
     pitch: 26.24997
     world: world
+  aldea:
+    x: -928
+    y: 67
+    z: -2003
+    yaw: 28.908936
+    pitch: 20.850052
+    world: world
+  xp:
+    x: -882
+    y: 210
+    z: -2057
+    yaw: 127.58638
+    pitch: 42.50709
+    world: world

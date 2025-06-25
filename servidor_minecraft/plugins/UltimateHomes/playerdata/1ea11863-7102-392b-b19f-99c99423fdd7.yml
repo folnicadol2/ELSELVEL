@@ -65,3 +65,10 @@ homes:
     yaw: 40.808777
     pitch: 29.01612
     world: world
+  esmes:
+    x: -938
+    y: 83
+    z: -1910
+    yaw: -174.06445
+    pitch: 38.650524
+    world: world
