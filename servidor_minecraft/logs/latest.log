@@ -74,3 +74,7 @@
 [00:58:25] [Server thread/INFO]: Villager Villager['Villager'/10, uuid='fe5f2f47-e0ed-443f-b044-f0095d7e199c', l='ServerLevel[world]', x=-937.41, y=82.00, z=-1975.59, cpos=[-59, -124], tl=1250405, v=true] died, message: 'Villager was slain by Zombie'
 [01:01:01] [Server thread/INFO]: deboabanreservas issued server command: /sethome reparacion
 [01:01:09] [Server thread/INFO]: deboabanreservas issued server command: /home casa
+[01:03:18] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/1022, uuid='e5f7149f-c635-4161-9374-934aa4bfd9de', l='ServerLevel[world]', x=-855.94, y=0.62, z=-2071.05, cpos=[-54, -130], tl=8604, v=true] died: Infernal Skeleton suffocated in a wall
+[01:03:31] [Server thread/INFO]: deboabanreservas issued server command: /home reparacion
+[01:04:05] [Server thread/INFO]: deboabanreservas issued server command: /home casa
+[01:04:47] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/3887, uuid='3b474cf6-9ffa-42f2-9c9d-dfcb5faf21b4', l='ServerLevel[world]', x=-822.95, y=25.31, z=-2124.00, cpos=[-52, -133], tl=1207, v=true] died: Infernal Skeleton suffocated in a wall
