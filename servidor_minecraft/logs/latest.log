@@ -1,101 +1,76 @@
-[00:03:31] [Server thread/INFO]: _elu issued server command: /home a
-[00:03:34] [Server thread/INFO]: Villager Villager['Fletcher'/184, uuid='646522b9-a229-40ae-881c-1adb683e9f6e', l='ServerLevel[world]', x=-965.43, y=83.00, z=-1934.60, cpos=[-61, -121], tl=518276, v=true] died, message: 'Fletcher was slain by Zombie'
-[00:04:08] [Server thread/INFO]: deboabanreservas issued server command: /tp _elu
-[00:04:08] [Server thread/INFO]: [deboabanreservas: Teleported deboabanreservas to _elu]
-[00:04:30] [Server thread/INFO]: Named entity Zombie['Infernal Zombie'/20792, uuid='6f9d38f3-2ab8-44af-8939-edf9e82240a9', l='ServerLevel[world]', x=-833.34, y=109.00, z=-2157.53, cpos=[-53, -135], tl=1498, v=true] died: Infernal Zombie was shot by _elu using [Brave Flame Bow]
-[00:04:30] [Server thread/INFO]: Named entity Zombie['Infernal Zombie'/20711, uuid='1df241fd-dbab-44c8-8bbf-ea78b42068ec', l='ServerLevel[world]', x=-833.42, y=109.00, z=-2156.87, cpos=[-53, -135], tl=1905, v=true] died: Infernal Zombie blew up
-[00:05:15] [Server thread/INFO]: Named entity Creeper['Infernal Creeper'/20913, uuid='b30dda81-cf15-42b7-a4d4-835c6313aff1', l='ServerLevel[world]', x=-913.28, y=50.00, z=-2172.55, cpos=[-58, -136], tl=2036, v=true] died: Infernal Creeper suffocated in a wall
-[00:05:50] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/21608, uuid='6f6b905b-b289-4cef-bd3f-4ab247c3c777', l='ServerLevel[world]', x=-918.02, y=75.74, z=-2201.84, cpos=[-58, -138], tl=820, v=true] died: Infernal Skeleton suffocated in a wall
-[00:05:54] [User Authenticator #1/INFO]: UUID of player MaddieDL is c8938799-7690-35bd-a5c2-148811d41f87
-[00:05:55] [Server thread/INFO]: MaddieDL joined the game
-[00:05:55] [Server thread/INFO]: MaddieDL[/127.183.26.154:51769] logged in with entity id 22075 at ([world]-889.2673688224336, 109.0, -2121.8297885281863)
-[00:06:58] [Server thread/INFO]: _elu issued server command: /sethome esmes
-[00:07:11] [Server thread/INFO]: _elu issued server command: /home reparacion
-[00:08:41] [Server thread/INFO]: _elu issued server command: /home reparacion
-[00:10:20] [Server thread/INFO]: deboabanreservas issued server command: /home casa
-[00:10:38] [Server thread/INFO]: _elu issued server command: /home a
-[00:11:00] [Server thread/INFO]: _elu issued server command: /home reparacion
-[00:11:56] [Server thread/INFO]: Named entity Zombie['Infernal Zombie'/21543, uuid='5b8b3c3f-db92-4cbb-8f22-99257c4162e9', l='ServerLevel[world]', x=-909.90, y=82.51, z=-2125.97, cpos=[-57, -133], tl=8380, v=true] died: Infernal Zombie suffocated in a wall
-[00:12:13] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/12922, uuid='8ac64ed4-6af4-4e0c-85de-3086444271f6', l='ServerLevel[world]', x=-965.22, y=93.00, z=-2146.50, cpos=[-61, -135], tl=31426, v=true] died: Infernal Skeleton was slain by deboabanreservas using [Spider Whacker]
-[00:13:02] [Server thread/INFO]: Named entity Zombie['Infernal Zombie'/24280, uuid='21228576-df14-473e-a383-3b71849f7243', l='ServerLevel[world]', x=-996.91, y=22.41, z=-1841.99, cpos=[-63, -116], tl=2725, v=true] died: Infernal Zombie suffocated in a wall
-[00:13:07] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/25232, uuid='c78d300d-e2d2-4c65-ace2-79d63e5d1fca', l='ServerLevel[world]', x=-908.23, y=60.30, z=-1984.74, cpos=[-57, -125], tl=821, v=true] died: Infernal Skeleton suffocated in a wall
-[00:13:25] [Server thread/INFO]: MaddieDL issued server command: /sethome aldea
-[00:14:21] [Server thread/INFO]: MaddieDL has made the advancement [Fishy Business]
-[00:15:13] [Server thread/INFO]: Named entity Bat['Infernal Bat'/26459, uuid='050cc08b-81c6-4ab1-8ba0-9120039f0d72', l='ServerLevel[world]', x=-993.30, y=20.00, z=-1832.70, cpos=[-63, -115], tl=674, v=true] died: Infernal Bat suffocated in a wall
-[00:18:55] [Server thread/INFO]: _elu issued server command: /home a
-[00:19:19] [Server thread/INFO]: _elu issued server command: /home xp
-[00:20:39] [Server thread/WARN]: deboabanreservas was kicked for floating too long!
-[00:20:39] [Server thread/INFO]: deboabanreservas lost connection: Flying is not enabled on this server
-[00:20:39] [Server thread/INFO]: deboabanreservas left the game
-[00:23:31] [Server thread/INFO]: Named entity Zombie['Infernal Zombie'/27368, uuid='4426bc95-d44a-4311-a810-61eef9de7573', l='ServerLevel[world]', x=-913.07, y=82.51, z=-2127.06, cpos=[-58, -133], tl=8208, v=true] died: Infernal Zombie suffocated in a wall
-[00:35:11] [Server thread/INFO]: MaddieDL issued server command: /home
-[00:43:29] [Server thread/INFO]: Named entity Zombie['Infernal Zombie'/35260, uuid='2e8ee620-80d2-457f-8f27-d6e52330e2e3', l='ServerLevel[world]', x=-899.77, y=109.00, z=-2081.94, cpos=[-57, -131], tl=1492, v=true] died: Infernal Zombie was slain by Wolf
-[00:44:56] [Server thread/WARN]: _elu moved too quickly! 5.019368824381786,-0.7531999805212024,10.721125672751441
-[00:45:42] [Server thread/INFO]: Named entity Zombie['Infernal Zombie'/34170, uuid='80b6fbce-074c-4a01-9787-3035326ab4f2', l='ServerLevel[world]', x=-798.68, y=57.00, z=-2125.51, cpos=[-50, -133], tl=8535, v=true] died: Infernal Zombie suffocated in a wall
-[00:50:18] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/25003, uuid='6f73dac8-3ac6-4eac-af16-7ba5dd5222a1', l='ServerLevel[world]', x=-857.50, y=2.17, z=-2073.68, cpos=[-54, -130], tl=46130, v=true] died: Infernal Skeleton suffocated in a wall
-[00:50:20] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/37098, uuid='ac2846ff-4c18-474a-9d43-1a890ee294f3', l='ServerLevel[world]', x=-834.61, y=12.30, z=-2092.25, cpos=[-53, -131], tl=1380, v=true] died: Infernal Skeleton suffocated in a wall
-[00:52:32] [Server thread/INFO]: Named entity Zombie['Infernal Zombie'/37652, uuid='7a1b88cf-9659-43a9-bb5f-e9ac3df7032a', l='ServerLevel[world]', x=-959.50, y=54.17, z=-2117.71, cpos=[-60, -133], tl=1019, v=true] died: Infernal Zombie suffocated in a wall
-[00:55:40] [Server thread/INFO]: MaddieDL issued server command: /HOMW
-[00:55:43] [Server thread/INFO]: MaddieDL issued server command: /HOME
-[00:55:47] [Server thread/INFO]: MaddieDL issued server command: /home
-[01:00:16] [Server thread/INFO]: MaddieDL has made the advancement [Voluntary Exile]
-[01:01:13] [Server thread/INFO]: _elu issued server command: /tp MaddieDL _elu
-[01:01:13] [Server thread/INFO]: [_elu: Teleported MaddieDL to _elu]
-[01:04:41] [Server thread/INFO]: _elu issued server command: /tp MaddieDL _elu
-[01:04:41] [Server thread/INFO]: [_elu: Teleported MaddieDL to _elu]
-[01:05:38] [Server thread/INFO]: MaddieDL issued server command: /sethome xp
-[01:05:41] [Server thread/INFO]: MaddieDL issued server command: /home
-[01:06:22] [Server thread/INFO]: Named entity Zombie['Infernal Zombie'/44003, uuid='1e89c792-79ce-4270-9442-ebce2a290b86', l='ServerLevel[world]', x=-924.36, y=38.62, z=-2082.47, cpos=[-58, -131], tl=819, v=true] died: Infernal Zombie suffocated in a wall
-[01:07:50] [Server thread/INFO]: MaddieDL has made the advancement [Total Beelocation]
-[01:08:17] [Server thread/INFO]: Named entity Zombie['Infernal Zombie'/44729, uuid='fd33129a-d571-4598-878d-d9eb3e1cd041', l='ServerLevel[world]', x=-886.36, y=211.50, z=-2052.36, cpos=[-56, -129], tl=964, v=true] died: Infernal Zombie was slain by _elu
-[01:08:56] [Server thread/WARN]: _elu moved wrongly!
-[01:15:19] [Server thread/INFO]: Named entity Creeper['Infernal Creeper'/45245, uuid='aa5e7e7c-ba55-4a46-b5ef-c92077b5db1d', l='ServerLevel[world]', x=-907.76, y=93.00, z=-2121.52, cpos=[-57, -133], tl=8376, v=true] died: Infernal Creeper was shot by _elu using [Brave Flame Bow]
-[01:17:57] [Server thread/INFO]: _elu issued server command: /home a
-[01:20:24] [Server thread/INFO]: Named entity Creeper['Infernal Creeper'/48216, uuid='278860fb-f0de-4e22-9e79-5fe49f2f5931', l='ServerLevel[world]', x=-967.28, y=99.00, z=-2110.76, cpos=[-61, -132], tl=3686, v=true] died: Infernal Creeper was shot by _elu using [Brave Flame Bow]
-[01:23:22] [Server thread/INFO]: Named entity Zombie['Infernal Zombie'/47076, uuid='10a376d5-a0a8-49c4-9809-3c7f30f9b2f1', l='ServerLevel[world]', x=-955.49, y=1.67, z=-2065.85, cpos=[-60, -130], tl=11311, v=true] died: Infernal Zombie suffocated in a wall
-[01:26:13] [Server thread/INFO]: _elu has made the advancement [The Parrots and the Bats]
-[01:28:36] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/51591, uuid='a7b7fa33-bef5-4b07-a19e-cc5e6adce0b1', l='ServerLevel[world]', x=-1007.70, y=17.00, z=-1876.30, cpos=[-63, -118], tl=892, v=true] died: Infernal Skeleton was slain by Zoglin
-[01:30:41] [Server thread/INFO]: _elu issued server command: /home esmes
-[01:30:47] [Server thread/INFO]: MaddieDL lost connection: Disconnected
-[01:30:47] [Server thread/INFO]: MaddieDL left the game
-[01:31:42] [Server thread/INFO]: _elu issued server command: /home a
-[01:32:02] [Server thread/INFO]: _elu has reached the goal [The Next Generation]
-[01:32:18] [Server thread/INFO]: _elu issued server command: /home reparacion
-[01:33:08] [Server thread/INFO]: _elu issued server command: /home a
-[01:33:16] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/53922, uuid='aa1021d4-2c7a-4468-a6f4-3eb517cf3313', l='ServerLevel[world]', x=-927.00, y=39.62, z=-2169.98, cpos=[-58, -136], tl=831, v=true] died: Infernal Skeleton suffocated in a wall
-[01:45:56] [Server thread/INFO]: Named entity Zombie['Infernal Zombie'/55097, uuid='b46ab7c7-7fae-427d-880c-87ee2367ca9e', l='ServerLevel[world]', x=-886.70, y=211.50, z=-2051.30, cpos=[-56, -129], tl=12274, v=true] died: Infernal Zombie was blown up by Creeper
-[01:45:59] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/55265, uuid='92c02ce8-9aa3-4b75-b206-409f35bab7ea', l='ServerLevel[world]', x=-885.30, y=211.50, z=-2051.46, cpos=[-56, -129], tl=6372, v=true] died: Infernal Skeleton was slain by _elu
-[01:47:14] [Server thread/INFO]: Named entity Zombie['Infernal Zombie'/55702, uuid='0c9863fb-2f05-4599-bb61-5d6db670f198', l='ServerLevel[world]', x=-886.20, y=211.50, z=-2051.80, cpos=[-56, -129], tl=700, v=true] died: Infernal Zombie was slain by _elu
-[01:47:48] [Server thread/INFO]: Named entity Zombie['Infernal Zombie'/55759, uuid='99ac9468-fd86-4962-8441-addc940de82b', l='ServerLevel[world]', x=-886.49, y=211.50, z=-2052.29, cpos=[-56, -129], tl=482, v=true] died: Infernal Zombie was slain by _elu
-[01:47:55] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/55731, uuid='9b0a3ab8-da7d-4c71-b03b-60b2d73ad3f4', l='ServerLevel[world]', x=-885.79, y=211.50, z=-2052.20, cpos=[-56, -129], tl=1078, v=true] died: Infernal Skeleton was slain by _elu
-[01:48:38] [Server thread/INFO]: Stopping the server
-[01:48:38] [Server thread/INFO]: Stopping server
-[01:48:38] [Server thread/INFO]: [UltimateHomes] Disabling UltimateHomes v3.1
-[01:48:38] [Server thread/INFO]: [SleepFixer] Disabling SleepFixer v2.1.0
-[01:48:38] [Server thread/INFO]: [SleepFixer] Disabling 'sleeping ignored' status for online players...
-[01:48:38] [Server thread/INFO]: [SleepFixer] Shut-down complete (took 0.0ms).
-[01:48:38] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.7.1
-[01:48:38] [Server thread/INFO]: [InfernalMobs] Disabling InfernalMobs v6.8
-[01:48:38] [Server thread/INFO]: Saving players
-[01:48:38] [Server thread/INFO]: _elu lost connection: Server closed
-[01:48:38] [Server thread/INFO]: _elu left the game
-[01:48:38] [Server thread/INFO]: Saving worlds
-[01:48:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[01:48:38] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[01:48:38] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[01:48:38] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[01:48:38] [Server thread/INFO]: [ChunkHolderManager] Saved 26 block chunks, 176 entity chunks, 1 poi chunks in world 'world' in 0.09s
-[01:48:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[01:48:38] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[01:48:38] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[01:48:38] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[01:48:38] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 39 entity chunks, 0 poi chunks in world 'world_nether' in 0.01s
-[01:48:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[01:48:38] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[01:48:38] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[01:48:38] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[01:48:38] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 2 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
-[01:48:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:48:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:48:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:48:38] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:51:52] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu120.04; Ubuntu null) on Linux 6.8.0-1027-azure (amd64)
+[00:51:52] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
+[00:51:52] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[00:51:54] [ServerMain/INFO]: [PluginInitializerManager] Initialized 4 plugins
+[00:51:54] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (4):
+ - InfernalMobs (6.8), SkinsRestorer (15.7.1), SleepFixer (2.1.0), UltimateHomes (3.1)
+[00:51:59] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[00:52:01] [ServerMain/INFO]: Loaded 1290 recipes
+[00:52:01] [ServerMain/INFO]: Loaded 1399 advancements
+[00:52:02] [Server thread/INFO]: Starting minecraft server version 1.21
+[00:52:02] [Server thread/INFO]: Loading properties
+[00:52:02] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[00:52:03] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[00:52:03] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[00:52:03] [Server thread/INFO]: Using 4 threads for Netty based IO
+[00:52:04] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[00:52:04] [Server thread/INFO]: Default game type: SURVIVAL
+[00:52:04] [Server thread/INFO]: Generating keypair
+[00:52:04] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:52:04] [Server thread/INFO]: Using epoll channel type
+[00:52:04] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[00:52:04] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[00:52:05] [Server thread/INFO]: [InfernalMobs] Loading server plugin InfernalMobs v6.8
+[00:52:05] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.1
+[00:52:05] [Server thread/INFO]: [SleepFixer] Loading server plugin SleepFixer v2.1.0
+[00:52:05] [Server thread/INFO]: [UltimateHomes] Loading server plugin UltimateHomes v3.1
+[00:52:05] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[00:52:05] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.1
+[00:52:07] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.0.
+[00:52:09] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[00:52:09] [Server thread/INFO]: [SleepFixer] Enabling SleepFixer v2.1.0
+[00:52:09] [Server thread/INFO]: [SleepFixer] Start-up complete (took 67.0ms).
+[00:52:09] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:52:09] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:52:09] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:52:09] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:52:09] [Server thread/INFO]: Preparing level "world"
+[00:52:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[00:52:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[00:52:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[00:52:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[00:52:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[00:52:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[00:52:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[00:52:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.7.1
+[00:52:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: f77fbd4
+[00:52:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[00:52:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[00:52:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[00:52:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[00:52:09] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:52:11] [Server thread/INFO]: Time elapsed: 1501 ms
+[00:52:11] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[00:52:11] [Server thread/INFO]: Time elapsed: 546 ms
+[00:52:11] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[00:52:12] [Server thread/INFO]: Time elapsed: 347 ms
+[00:52:12] [Server thread/INFO]: [InfernalMobs] Enabling InfernalMobs v6.8
+[00:52:12] [Server thread/INFO]: [InfernalMobs] Registered Events.
+[00:52:12] [Server thread/INFO]: [UltimateHomes] Enabling UltimateHomes v3.1
+[00:52:12] [Server thread/INFO]: 
+[00:52:12] [Server thread/INFO]: --------------------------------------
+[00:52:12] [Server thread/INFO]:        UltimateHomes by kixmc
+[00:52:12] [Server thread/INFO]:        Enabled on version 3.1
+[00:52:12] [Server thread/INFO]: --------------------------------------
+[00:52:12] [Server thread/INFO]:  
+[00:52:13] [Server thread/INFO]: [spark] Starting background profiler...
+[00:52:14] [Server thread/INFO]: Done preparing level "world" (4.696s)
+[00:52:14] [Server thread/INFO]: Running delayed init tasks
+[00:52:14] [Server thread/INFO]: Done (23.560s)! For help, type "help"
+[00:52:14] [Server thread/INFO]: Timings Reset
+[00:53:31] [User Authenticator #0/INFO]: UUID of player deboabanreservas is 4b845313-ffdf-3b0b-a6cc-0084f662f01f
+[00:53:32] [Server thread/INFO]: deboabanreservas joined the game
+[00:53:33] [Server thread/INFO]: deboabanreservas[/127.154.190.134:59137] logged in with entity id 9 at ([world]-974.4993237839137, 63.846234782893355, -2017.8572895129832)
+[00:58:25] [Server thread/INFO]: Villager Villager['Villager'/10, uuid='fe5f2f47-e0ed-443f-b044-f0095d7e199c', l='ServerLevel[world]', x=-937.41, y=82.00, z=-1975.59, cpos=[-59, -124], tl=1250405, v=true] died, message: 'Villager was slain by Zombie'
+[01:01:01] [Server thread/INFO]: deboabanreservas issued server command: /sethome reparacion
+[01:01:09] [Server thread/INFO]: deboabanreservas issued server command: /home casa

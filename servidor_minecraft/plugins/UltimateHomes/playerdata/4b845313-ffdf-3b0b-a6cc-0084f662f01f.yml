@@ -23,3 +23,10 @@ homes:
     yaw: 174.91638
     pitch: 36.450085
     world: world
+  reparacion:
+    x: -937
+    y: 82
+    z: -1893
+    yaw: 10.050018
+    pitch: 26.40001
+    world: world
