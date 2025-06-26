@@ -68,3 +68,16 @@
 [02:03:58] [Server thread/INFO]: Running delayed init tasks
 [02:03:58] [Server thread/INFO]: Done (22.942s)! For help, type "help"
 [02:03:58] [Server thread/INFO]: Timings Reset
+[02:16:00] [User Authenticator #0/INFO]: UUID of player _elu is 1ea11863-7102-392b-b19f-99c99423fdd7
+[02:16:03] [Server thread/INFO]: _elu joined the game
+[02:16:03] [Server thread/INFO]: _elu[/127.115.156.199:36711] logged in with entity id 9 at ([world]-879.3253350934918, 210.0, -2050.9587015962024)
+[02:16:41] [Server thread/INFO]: _elu issued server command: /home esmes
+[02:16:45] [Server thread/INFO]: _elu issued server command: /home xp
+[02:16:51] [User Authenticator #0/INFO]: UUID of player MaddieDL is c8938799-7690-35bd-a5c2-148811d41f87
+[02:16:59] [Server thread/INFO]: MaddieDL joined the game
+[02:16:59] [Server thread/INFO]: MaddieDL[/127.183.26.154:46999] logged in with entity id 633 at ([world]-849.0776499258938, 103.5625, -2134.4717276638726)
+[02:17:48] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/796, uuid='999f4693-7307-468d-95db-be304249bbb2', l='ServerLevel[world]', x=-826.10, y=49.70, z=-2069.02, cpos=[-52, -130], tl=922, v=true] died: Infernal Skeleton suffocated in a wall
+[02:20:36] [Server thread/INFO]: _elu issued server command: /home esmes
+[02:21:23] [Server thread/INFO]: _elu issued server command: /home a
+[02:22:36] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/24, uuid='04985438-23f4-45c7-8682-9b2f8540c6ec', l='ServerLevel[world]', x=-850.49, y=64.00, z=-1994.85, cpos=[-54, -125], tl=33416, v=true] died: Infernal Skeleton was shot by _elu using [Brave Flame Bow]
+[02:23:03] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/106, uuid='9c19e558-cd00-41af-a20d-67cb3233c58f', l='ServerLevel[world]', x=-836.57, y=63.00, z=-1970.30, cpos=[-53, -124], tl=13349, v=true] died: Infernal Skeleton was shot by _elu using [Brave Flame Bow]
