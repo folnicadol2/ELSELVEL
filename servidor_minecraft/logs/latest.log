@@ -78,3 +78,10 @@
 [01:03:31] [Server thread/INFO]: deboabanreservas issued server command: /home reparacion
 [01:04:05] [Server thread/INFO]: deboabanreservas issued server command: /home casa
 [01:04:47] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/3887, uuid='3b474cf6-9ffa-42f2-9c9d-dfcb5faf21b4', l='ServerLevel[world]', x=-822.95, y=25.31, z=-2124.00, cpos=[-52, -133], tl=1207, v=true] died: Infernal Skeleton suffocated in a wall
+[01:12:13] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/5485, uuid='d02b4485-bc33-4e48-b6aa-9c250f9c86f9', l='ServerLevel[world]', x=-890.53, y=235.30, z=-2048.56, cpos=[-56, -129], tl=1663, v=true] died: Infernal Skeleton burned to death
+[01:13:28] [Server thread/INFO]: [InfernalMobs] [STDOUT] Can't spawn mount!
+[01:13:28] [Server thread/WARN]: Nag author(s): '[Eliminator]' of 'InfernalMobs v6.8' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[01:13:28] [Server thread/INFO]: [InfernalMobs] [STDOUT] ENDER_DRAGON is not a valid Entity!
+[01:16:51] [Server thread/INFO]: [InfernalMobs] [STDOUT] Can't spawn mount!
+[01:16:51] [Server thread/INFO]: [InfernalMobs] [STDOUT] ENDER_DRAGON is not a valid Entity!
+[01:17:42] [Server thread/INFO]: deboabanreservas issued server command: /home casa
